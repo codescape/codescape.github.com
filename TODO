@@ -1,0 +1,20 @@
+Add links to friends and colleagues:
+
+  <ul>
+    <li><a href="http://www.kuwap.de">Alexander Stolz</a></li>
+    <li><a href="http://clodig.wordpress.com">Claudia Glase</a></li>
+    <li><a href="http://talk2gerd.blogspot.com">Gerd Volberg</a></li>
+    <li><a href="http://www.karstenhorn.de">Karsten Horn</a></li>
+    <li><a href="http://www.mtb-weilerswist.de">MTB Weilerswist</a></li>
+    <li><a href="http://www.nilswloka.com">Nils Wloka</a></li>
+    <li><a href="http://www.herr-norbert.de">Norbert Schneider</a></li>
+    <li><a href="http://www.rad-rebellen.de">Rad Rebellen</a></li>
+    <li><a href="http://rolandschneider.blogspot.com">Roland Schneider</a></li>
+    <li><a href="http://www.microino.de">Sascha Hanke</a></li>
+    <li><a href="http://beezleblog.blogspot.com">Stefan Scheidt</a></li>
+    <li><a href="http://torstenwinterberg.blogspot.com">Torsten Winterberg</a></li>
+  </ul>
+
+Create a shorthand form for showing german date representations.
+
+    {{ page.date | date:'%d. %B %Y' | replace:'January','Januar' | replace:'February','Februar' |replace:'March','März' | replace:'May','Mai' | replace:'June','Juni' | replace:'July','Juli' | replace:'October','Oktober' | replace:'December','Dezember' }}

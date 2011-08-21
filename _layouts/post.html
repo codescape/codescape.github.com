@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<article>
+  <header>
+    <h2>{{ page.title }}</h2>
+    <ul>
+      <li><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date:'%d. %B %Y' | replace:'January','Januar' | replace:'February','Februar' |replace:'March','März' | replace:'May','Mai' | replace:'June','Juni' | replace:'July','Juli' | replace:'October','Oktober' | replace:'December','Dezember' }}</time></li>
+      <li>{{ page.tags | array_to_sentence_string | replace:', and',' und' }}
+      <li>{{ page.content | number_of_words }} Wörter</li>
+    </ul>          
+  </header>
+  {{ content }}
+</article>

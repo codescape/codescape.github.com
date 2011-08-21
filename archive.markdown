@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Artikel
 ---
 
@@ -11,9 +11,9 @@ Hier findet sich eine chronologisch geordnete Liste aller Artikel, die sich im L
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% unless year == this_year %}
       {% assign year = this_year %}
-      <aside><h3>Jahr {{ year }}</h3></aside>
+      <h3>Jahr {{ year }}</h3>
     {% endunless %}  
-  <li><span>{{ post.date | date: "%d.%m." }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  <li><span>{{ post.date | date: "%d.%m." }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
   </ul>
   {% endif %}
