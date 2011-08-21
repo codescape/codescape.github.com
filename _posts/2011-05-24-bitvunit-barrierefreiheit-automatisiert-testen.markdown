@@ -10,7 +10,8 @@ Was gibt es da passenderes als einfach mal ein kleines Projekt bei [GitHub](http
 
 Mittlerweile sind erste Framework-Komponenten entstanden, die ersten 10 Regeln implementiert, dokumentiert und mit kleinen Beispielen getestet. Als kleines Beispiel anbei die Regel zur Prüfung auf das Attribut "alt" für Alternativtexte an Bildern:
 
-<pre><code>public class AlternativeTextForImageRule extends AbstractRule {
+{% highlight java %}
+public class AlternativeTextForImageRule extends AbstractRule {
 
     private static final String RULE_NAME = "AlternativeTextForImage";
     private static final String RULE_MESSAGE = "Every image must provide an alternative text through its alt attribute.";
@@ -30,10 +31,10 @@ Mittlerweile sind erste Framework-Komponenten entstanden, die ersten 10 Regeln i
     private void validateImage(HtmlImage image, List&lt;Violation&gt; violations) {
         if (!elementHasAttribute(image, "alt")) {
             violations.add(createViolation(image.getStartLineNumber(), RULE_MESSAGE));
-        }
+        } 
     }
-
-}</code></pre>
+}
+{% endhighlight %}
 
 Eine Version 0.1 mit den ersten zehn funktionierenden Regeln kann bereits bei [GitHub](https://github.com/codescape/bitvunit/archives/master) heruntergeladen und ausprobiert werden. Für kommende Versionen plane ich neben vielen weiteren Regeln Erweiterungen, die eine Verwendung des Frameworks erleichtern:
 
