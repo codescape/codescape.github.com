@@ -122,6 +122,20 @@ h2, h3, h4 {
   margin: 20px 0;
   padding: 0 0 20px; }
 
+#content article header ul {
+  color: #868682;
+  margin: -10px 0 0 0;
+  font-size: 0.85em; }
+
+#content article header ul li {
+  display: inline; margin: 0; }
+
+#content article header ul li:after {
+	content: "\00A0\00A0\00B7\00A0\00A0"; }
+
+#content article header ul li:last-child:after {	
+	content: ""; }
+
 #content p {
   margin: 10px 0; }
   
@@ -136,21 +150,8 @@ h2, h3, h4 {
   list-style: decimal-leading-zero;
   margin: 0 0 0 40px; }
 
-#content article header ul {
-  color: #868682;
-  margin: -10px 0 0 0;
-  font-size: 0.85em; }
-
-#content article header ul li {
-  display: inline; margin: 0; }
-
-#content article header ul li:after {
-	content: "\00A0\00A0\00B7\00A0\00A0";
-}
-
-#content article header ul li:last-child:after {	
-	content: "";
-}
+#content img {
+  max-width: 100%; }
 
 /* Twitter
 ----------------------------------------------------------- */
