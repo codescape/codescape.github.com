@@ -130,11 +130,11 @@ h2, h3, h4 {
 
 #content ul li {
   list-style: square ;
-  margin: 0 40px; }
+  margin: 0 0 0 40px; }
 
 #content ol li {
   list-style: decimal-leading-zero;
-  margin: 0 40px; }
+  margin: 0 0 0 40px; }
 
 #content article header ul {
   color: #868682;
