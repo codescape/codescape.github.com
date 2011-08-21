@@ -186,6 +186,15 @@ h2, h3, h4 {
   display: inline; 
   margin-right: 10px; }
 
+/* GitHub
+----------------------------------------------------------- */
+
+.github-ribbon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 0; }
+
 /* Footer
 ----------------------------------------------------------- */
 
@@ -209,6 +218,10 @@ h2, h3, h4 {
   #header nav {
     float: none;
     text-align: center; }
+    
+  .github-ribbon {
+    display: none;
+  }
 
 }
 
