@@ -1,0 +1,23 @@
+# jekyll configuration
+# --------------------
+auto: true
+server: true
+permalink: /:year/:month/:day/:title/
+pygments: true
+
+# site configuration
+# ------------------
+url: http://www.stefanglase.de
+title: stefanglase.de
+description: 'Hier bloggt Stefan Glase über Softwareentwicklung, Mountainbiking und allerlei andere Dinge.'
+keywords: 'Mountainbike, Freeride, Java, Softwareentwicklung, Groovy, Grails, Maven, Spring, BitvUnit'
+author: Stefan Glase
+email: stefan.glase@googlemail.com
+
+# google analytics
+# ----------------
+google_analytics_code: UA-22676933-1
+
+# twitter
+# -------
+twitter_username: stefanglase

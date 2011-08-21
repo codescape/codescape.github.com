@@ -1,0 +1,210 @@
+/* CSS Reset (from http://meyerweb.com/eric/tools/css/reset)
+----------------------------------------------------------- */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline; }
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block; }
+
+body {
+	line-height: 1; }
+
+ol, ul {
+	list-style: none; }
+
+blockquote, q {
+	quotes: none; }
+
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none; }
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0; }
+
+/* Global Settings
+----------------------------------------------------------- */
+
+/* always show vertical scrollbar */
+html {
+  overflow-y: scroll; }
+
+body {
+  background: #fff;
+  font: 400 14px/24px 'Open Sans', sans-serif;
+  color: #111; }
+
+a, a:visited {
+  color: #798E07;
+  text-decoration: none;
+  border-bottom: 1px dotted #798E07; }
+
+a:hover {
+  color: #111; }
+
+em, strong {
+  font-weight: 600; }
+
+blockquote {
+  font-style: italic;
+  margin: 0 20px;
+  padding: 0 10px;
+  border-left: 1px dotted #798E07;
+  text-align: justify; }
+
+pre {
+  margin: 0 20px;
+  padding: 0 10px;
+  border-left: 1px dotted #798E07;
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word; }
+
+code {
+  font: 0.85em/1em Monaco,monospace; }
+
+h2, h3, h4 {
+  color: #868682;
+  font-weight: 600;
+  margin: 20px 0 10px;
+  letter-spacing: 1px;
+  text-transform: uppercase; }
+
+#container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 20px 40px 20px; }
+
+/* Header
+----------------------------------------------------------- */
+
+#header {
+  border-bottom: 1px dotted #C5C5C5;
+  margin: 20px 0;
+  padding: 0 0 20px; }
+
+#header h1 {
+  width: 25%;
+  font-weight: 600;
+  display: inline-block; }
+
+#header nav {
+  float: right; }
+
+#header nav ul li {
+  display: inline;
+  margin-left: 10px; }
+
+/* Content
+----------------------------------------------------------- */
+
+#content {
+  border-bottom: 1px dotted #C5C5C5;
+  margin: 20px 0;
+  padding: 0 0 20px; }
+
+#content p {
+  margin: 10px 0; }
+  
+#content p:last-of-type {
+  margin: 10px 0 0 0; }
+
+#content ul li {
+  list-style: square ;
+  margin: 0 40px; }
+
+#content ol li {
+  list-style: decimal-leading-zero;
+  margin: 0 40px; }
+
+/* Twitter
+----------------------------------------------------------- */
+
+#twitter {
+  border-bottom: 1px dotted #C5C5C5;
+  margin: 20px 0;
+  padding: 0 0 20px; }
+
+#twitter aside {
+  float: right;
+  padding: 0 0 0 15px; }
+
+#twitter li {
+  margin: 0 0 10px 0; }
+
+#twitter li:last-of-type {
+  margin: 0; }
+
+
+/* Elsewhere
+----------------------------------------------------------- */
+
+#elsewhere {
+  border-bottom: 1px dotted #C5C5C5;
+  margin: 20px 0;
+  padding: 0 0 20px; }
+
+#elsewhere ul {
+  text-align: center; }
+
+#elsewhere ul li {
+  display: inline; 
+  margin-right: 10px; }
+
+/* Footer
+----------------------------------------------------------- */
+
+#footer {
+  text-align: center; }
+
+#footer ul li {
+  display: inline;
+  margin-right: 10px; }
+
+/* Media Queries
+----------------------------------------------------------- */
+
+@media screen and (max-width: 800px) {
+
+  #header h1 {
+    width: 100%;
+    display: inline-block;
+    text-align: center; }
+
+  #header nav {
+    float: none;
+    text-align: center; }
+
+}
+
+/* Fixes
+----------------------------------------------------------- */
+
+.clearfix:before, .clearfix:after {
+  content: ""; display: table; }
+
+.clearfix:after {
+  clear: both; }
+
+.clearfix {
+  zoom: 1; }

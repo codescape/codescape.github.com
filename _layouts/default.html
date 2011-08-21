@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+
+  <title>{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
+
+  <meta name="author" content="{{ site.author }}">
+  {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}
+  {% if site.keywords %}<meta name="keywords" content="{{ site.keywords }}">{% endif %}
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <link rel="alternate" href="/atom.xml" title="{{ site.title }}" type="application/atom+xml">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,600" type="text/css">
+  <link rel="stylesheet" href="/css/style.css" type="text/css">
+
+  <script src="/js/libs/modernizr-2.0.6.min.js"></script>
+</head>
+<body>
+
+  <div id="container">
+
+    <header id="header" class="clearfix">
+      <h1>stefanglase.de</h1>
+      <nav>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/archive">Artikel</a></li>          
+          <li><a href="/about">Über mich</a></li>
+          <li><a href="/publications">Publikationen</a></li>
+          <li><a href="/contact">Kontakt</a></li>
+        </ul>
+      </nav>  
+    </header>
+
+    <section id="content">
+      {% if page.title %}<h2>{{ page.title }}</h2>{% endif %}
+      {{ content }}
+    </section>
+
+    <section id="twitter">
+      <h4>Twitter</h4>
+      {% include twitter.html %}
+    </section>
+
+    <section id="elsewhere">
+      <h4>Anderswo</h4>
+      <ul>
+        <li><a href="http://www.twitter.com/caseaplace"><strong>twitter</strong>/caseaplace</a></li>
+        <li><a href="http://www.flickr.com/photos/stefanglase"><strong>flickr</strong>/stefanglase</a></li>
+        <li><a href="https://plus.google.com/104947683648188607313"><strong>google+</strong>/stefanglase</a></li>
+        <li><a href="http://www.github.com/codescape"><strong>github</strong>/codescape</a></li>
+        <li><a href="http://stackoverflow.com/users/266268/stefanglase"><strong>stackoverflow</strong>/stefanglase</a></li>
+        <li><a href="http://www.bikemap.net/user/caseaplace"><strong>bikemap</strong>/caseaplace</a></li>
+        <li><a href="http://www.sxc.hu/profile/caseaplace"><strong>sxc</strong>/caseaplace</a></li>
+        <li><a href="http://www.facebook.com/stefan.glase"><strong>facebook</strong>/stefan.glase</a></li>
+        <li><a href="https://www.xing.com/profile/Stefan_Glase"><strong>xing</strong>/stefan_glase</a></li>
+        <li><a href="http://delicious.com/caseaplace"><strong>delicious</strong>/caseaplace</a></li>
+        <li><a href="http://vimeo.com/caseaplace"><strong>vimeo</strong>/caseaplace</a></li>
+      </ul>
+    </section>
+
+    <footer id="footer">
+      Copyright &copy; 2011 Stefan Glase
+      <ul>
+        <li><a href="/imprint">Impressum</a></li>
+        <li><a href="/atom.xml">Feed</a></li>
+      </ul>
+    </footer>
+
+  </div>
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/js/libs/jquery-1.6.2.min.js"><\/script>')</script>
+
+  {% include google_analytics.html %}
+
+</body>
+</html>
