@@ -1,0 +1,12 @@
+<article>
+  <header>
+    <h2>{% if is_single %}{{ post.title }}{% else %}<a href="{{ post.url }}">{{ post.title }}</a>{% endif %}</h2>
+    <ul>
+      <li><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:'%d. %B %Y' | replace:'January','Januar' | replace:'February','Februar' |replace:'March','März' | replace:'May','Mai' | replace:'June','Juni' | replace:'July','Juli' | replace:'October','Oktober' | replace:'December','Dezember' }}</time></li>
+      <li>{{ post.tags | array_to_sentence_string | replace:', and',' und' }}</li>
+      <li>{{ post.content | number_of_words }} Wörter</li>
+      {% if is_single %}<li><a href="{{ post.url}}">Permalink</a></li>{% endif %}
+    </ul>          
+  </header>
+  {{ post.content | markdownify }}
+</article>
