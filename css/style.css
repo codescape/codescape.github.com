@@ -45,7 +45,6 @@ table {
 /* Global Settings
 ----------------------------------------------------------- */
 
-/* always show vertical scrollbar */
 html {
   overflow-y: scroll; }
 
@@ -154,7 +153,6 @@ h2, h3, h4 {
 
 #twitter li:last-of-type {
   margin: 0; }
-
 
 /* Elsewhere
 ----------------------------------------------------------- */
