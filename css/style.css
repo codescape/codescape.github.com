@@ -154,6 +154,52 @@ h2, h3, h4 {
 #content img {
   max-width: 100%; }
 
+/* Gallery (http://flex.madebymufffin.com)
+----------------------------------------------------------- */
+
+#content .flexslider li {
+  list-style: none;
+  position: relative;
+  margin: 0 auto; }
+
+#content .flexslider .slides img {
+  display: block;
+  border-radius: 12px; } 
+
+#content .flexslider .flex-control-nav {
+  text-align: center; }
+
+#content .flexslider .flex-control-nav li {
+  display: inline; }
+
+#content .flexslider .flex-control-nav a {
+  display: inline-block;
+  width: 12px;
+  height: 0;
+  padding-top: 12px;
+  background-image: url('../images/pagination.png');
+  background-position: 0 0;
+  overflow: hidden;
+  border: none; }
+
+#content .flexslider .flex-control-nav a.active {
+   background-position: 0 -12px; }
+
+.flex-direction-nav { /* for the moment hide 'next' and 'previous' controls */
+  display: none; }
+
+.flex-caption {
+  width: 96%;
+  padding: 2%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, .3);
+  color: white;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, .3);
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px; }
+
 /* Syntax Highlighting (pygments)
 ----------------------------------------------------------- */
 
