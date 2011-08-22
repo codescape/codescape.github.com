@@ -6,14 +6,24 @@ title: Artikel
 Hier findet sich eine chronologisch geordnete Liste aller Artikel, die sich im Laufe der Zeit in meinem Blog angesammelt haben.
 
   {% if site.posts %}
-  <ul>
   {% for post in site.posts %}
-    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-    {% unless year == this_year %}
-      {% assign year = this_year %}
-      <h3>Jahr {{ year }}</h3>
-    {% endunless %}  
-  <li><span>{{ post.date | date: "%d.%m." }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+
+  {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% unless year == this_year %}
+
+  {% if should_close %} </ul> {% endif %}
+  {% assign year = this_year %}
+  {% assign should_close = true %}
+
+  <h3>Jahr {{ year }}</h3>
+  <ul>
+
+  {% endunless %}  
+
+  <li><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m." }}</time> <a href="{{ post.url }}">{{ post.title }}</a></li>
+
   {% endfor %}
-  </ul>
+
+  {% if should_close %} </ul> {% endif %}
+
   {% endif %}
