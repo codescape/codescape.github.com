@@ -164,6 +164,7 @@ h2, h3, h4 {
 
 #content .flexslider .slides img {
   display: block;
+  margin: 0 auto;
   border-radius: 12px; } 
 
 #content .flexslider .flex-control-nav {
