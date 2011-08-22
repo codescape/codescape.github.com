@@ -11,7 +11,7 @@ Gummerother Str. 11<br/>
 
 Telefon: +49 (0)2261 2890889<br/>
 Mobil: +49 (0)173 7276096<br/>
-E-Mail: <span class="mail.prefix">stefan.glase</span><span class="mail.klammeraffe">@</span><span class="mail.postfix">googlemail.com</span><br/>
+E-Mail: stefan.glase@googlemail.com<br/>
 Domains: www.stefanglase.de, www.codescape.de
 
 Haftungsausschluss
