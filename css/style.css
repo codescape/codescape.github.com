@@ -14,33 +14,33 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline; }
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
 
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
-	display: block; }
+  display: block; }
 
 body {
-	line-height: 1; }
+  line-height: 1; }
 
 ol, ul {
-	list-style: none; }
+  list-style: none; }
 
 blockquote, q {
-	quotes: none; }
+  quotes: none; }
 
 blockquote:before, blockquote:after, q:before, q:after {
-	content: '';
-	content: none; }
+  content: '';
+  content: none; }
 
 table {
-	border-collapse: collapse;
-	border-spacing: 0; }
+  border-collapse: collapse;
+  border-spacing: 0; }
 
 /* Global Settings
 ----------------------------------------------------------- */
@@ -131,10 +131,10 @@ h2, h3, h4 {
   display: inline; margin: 0; }
 
 #content article header ul li:after {
-	content: "\00A0\00A0\00B7\00A0\00A0"; }
+  content: "\00A0\00A0\00B7\00A0\00A0"; }
 
 #content article header ul li:last-child:after {	
-	content: ""; }
+  content: ""; }
 
 #content p {
   margin: 10px 0; }
@@ -205,10 +205,10 @@ h2, h3, h4 {
   display: inline; }
 
 #footer ul li:after {
-	content: "\00A0\00A0\00B7\00A0\00A0"; }
+  content: "\00A0\00A0\00B7\00A0\00A0"; }
 
 #footer ul li:last-child:after {	
-	content: ""; }
+  content: ""; }
 
 /* Media Queries
 ----------------------------------------------------------- */
@@ -225,8 +225,7 @@ h2, h3, h4 {
     text-align: center; }
     
   .github-ribbon {
-    display: none;
-  }
+    display: none; }
 
 }
 
