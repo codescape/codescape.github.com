@@ -22,13 +22,13 @@ public class AlternativeTextForImageRule extends AbstractRule {
     }
 
     @Override
-    protected void applyTo(Page page, List&lt;Violation&gt; violations) {
+    protected void applyTo(Page page, List<Violation> violations) {
         for (HtmlImage image : page.findAllImageTags()) {
             validateImage(image, violations);
         }
     }
 
-    private void validateImage(HtmlImage image, List&lt;Violation&gt; violations) {
+    private void validateImage(HtmlImage image, List<Violation> violations) {
         if (!elementHasAttribute(image, "alt")) {
             violations.add(createViolation(image.getStartLineNumber(), RULE_MESSAGE));
         } 
@@ -38,7 +38,7 @@ public class AlternativeTextForImageRule extends AbstractRule {
 
 Eine Version 0.1 mit den ersten zehn funktionierenden Regeln kann bereits bei [GitHub](https://github.com/codescape/bitvunit/archives/master) heruntergeladen und ausprobiert werden. Für kommende Versionen plane ich neben vielen weiteren Regeln Erweiterungen, die eine Verwendung des Frameworks erleichtern:
 
-* Konfiguration der Regelsätze (RuleSet) beispielsweise mittels XML-Dokumenten
+* Konfiguration der Regelsätze (`RuleSet`) beispielsweise mittels XML-Dokumenten
 * Visualisierung der Ergebnisse in geeigneter Form (Text, XML, HTML ...)
 * Adapter für gängige Test-Werkzeuge(JUnit, TestNG, Spock ...) bereitstellen
 * Erstellung eines Getting-Started-Guide für den Einstieg in das Framework 

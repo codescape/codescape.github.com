@@ -72,9 +72,8 @@ blockquote {
   text-align: justify; }
 
 pre {
-  margin: 0 20px;
-  padding: 0 10px;
-  border-left: 1px dotted #798E07;
+  padding: 15px;
+  /*border-left: 1px dotted #798E07;*/
   white-space: pre;
   white-space: pre-wrap;
   word-wrap: break-word; }
@@ -155,6 +154,15 @@ h2, h3, h4 {
 
 #content img {
   max-width: 100%; }
+
+/* Syntax Highlighting
+----------------------------------------------------------- */
+.highlight { background: #111; border-radius: 12px; color: #eee; }
+.highlight .nc { color: #DA4939; }
+.highlight .nf { color: #DA4939; }
+.highlight .s { color: #A5C261; }
+.highlight .n { color: #E8BF6A; }
+.highlight .cm { color: #6D9CBE; }
 
 /* Twitter
 ----------------------------------------------------------- */
