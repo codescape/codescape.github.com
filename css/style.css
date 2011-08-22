@@ -73,7 +73,6 @@ blockquote {
 
 pre {
   padding: 15px;
-  /*border-left: 1px dotted #798E07;*/
   white-space: pre;
   white-space: pre-wrap;
   word-wrap: break-word; }
@@ -155,14 +154,34 @@ h2, h3, h4 {
 #content img {
   max-width: 100%; }
 
-/* Syntax Highlighting
+/* Syntax Highlighting (pygments)
 ----------------------------------------------------------- */
-.highlight { background: #111; border-radius: 12px; color: #eee; }
-.highlight .nc { color: #DA4939; }
-.highlight .nf { color: #DA4939; }
-.highlight .s { color: #A5C261; }
-.highlight .n { color: #E8BF6A; }
-.highlight .cm { color: #6D9CBE; }
+
+.highlight {
+  background: #111;
+  border-radius: 12px;
+  color: #eee; }
+  
+.highlight .nc { /* Name.Class */
+  color: #DA4939; }
+  
+.highlight .nf { /* Name.Function */
+  color: #DA4939; }
+  
+.highlight .na { /* Name.Attribute */
+  color: #DA4939 }
+
+.highlight .s { /* Literal.String */
+  color: #A5C261; }
+
+.highlight .n { /* ??? */
+  color: #E8BF6A; } 
+
+.highlight .c { /* Comment */
+  color: #6D9CBE; }
+  
+.highlight .cm { /* Comment.Multiline */
+  color: #6D9CBE; }
 
 /* Twitter
 ----------------------------------------------------------- */
