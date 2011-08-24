@@ -12,4 +12,12 @@ Mit Jekyll lassen sich statische Seiten zum Zeitpunkt ihrer Änderung generieren
 
 Und da ich nun einmal den Softwareentwickler in mir nicht verleugnen kann, musste natürlich auch direkt [HTML5](http://www.w3.org/TR/html5/) ausprobiert werden und als Basis für ein neues Layout herhalten, welches mit Hilfe von [CSS3 Media Queries](http://www.w3.org/TR/css3-mediaqueries/) auch auf dem Smartphone oder anderen Geräten mit kleinerer Bildschirmauflösung noch gut ausschaut.
 
+In der aktuellen Version der Webseite gibt es noch eine Menge interessanter technischer Details:
+
+* Mobile-fähige Fotogalerien mit Hilfe von [FlexSlider](http://flex.madebymufffin.com)
+* Automatisch generierte [sitemap.xml](http://www.sitemaps.org) für die bessere Auffindbarkeit in Suchmaschinen
+* Darstellung der letzten Twitter-Nachrichten mit [TwitterJS](http://twitterjs.googlecode.com)
+* Automatische Generierung eines [atom.xml](http://www.atomenabled.org/)-Newsfeeds
+* Einfachste Konfiguration für die Einbindung von [Google Analytics](http://www.google.com/intl/de/analytics)
+
 Der komplette Source-Code meines Blogs ist frei verfügbar und kann auf [GitHub](https://github.com/codescape/codescape.github.com) angeschaut, kopiert oder heruntergeladen werden. (Sämtliche Texte und Bilder verbleiben allerdings in meinem Eigentum und bedürfen der ausdrücklichen Genehmigung für eine weitere Verwendung!)
