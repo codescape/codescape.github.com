@@ -160,6 +160,18 @@ h2, h3, h4 {
 #content img {
   max-width: 100%; }
 
+/* Teaser
+----------------------------------------------------------- */
+
+#content .teaser {
+  background: #eee;
+  border-radius: 12px;
+  color: #111;
+  padding: 15px; }
+
+#content .teaser p:first-of-type {
+  margin: 0; }
+
 /* Gallery (http://flex.madebymufffin.com)
 ----------------------------------------------------------- */
 
