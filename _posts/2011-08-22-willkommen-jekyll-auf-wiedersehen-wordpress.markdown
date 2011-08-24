@@ -17,7 +17,8 @@ In der aktuellen Version der Webseite gibt es noch eine Menge interessanter tech
 * Mobile-fähige Fotogalerien mit Hilfe von [FlexSlider](http://flex.madebymufffin.com)
 * Automatisch generierte [sitemap.xml](http://www.sitemaps.org) für die bessere Auffindbarkeit in Suchmaschinen
 * Darstellung der letzten Twitter-Nachrichten mit [TwitterJS](http://twitterjs.googlecode.com)
-* Automatische Generierung eines [atom.xml](http://www.atomenabled.org/)-Newsfeeds
+* Automatische Generierung eines [atom.xml](http://www.atomenabled.org)-Newsfeeds
 * Einfachste Konfiguration für die Einbindung von [Google Analytics](http://www.google.com/intl/de/analytics)
+* Hervorhebung von Source-Code mit Hilfe von [Pygments](http://pygments.org)
 
 Der komplette Source-Code meines Blogs ist frei verfügbar und kann auf [GitHub](https://github.com/codescape/codescape.github.com) angeschaut, kopiert oder heruntergeladen werden. (Sämtliche Texte und Bilder verbleiben allerdings in meinem Eigentum und bedürfen der ausdrücklichen Genehmigung für eine weitere Verwendung!)
