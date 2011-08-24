@@ -140,7 +140,7 @@ h2, h3, h4 {
 #content p:last-of-type {
   margin: 10px 0 0 0; }
 
-#content p.gallery {
+#content p.image {
   text-align: center; }
 
 #content ul, content ol {
