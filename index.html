@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% if paginator.page == 1 %}
+<div class="teaser" markdown="1">
+Hallo und herzlich willkommen in meinem Blog mit den Themenschwerpunkten Mountainbike und Softwareentwicklung. Möchtest du mehr über den Autor dieses Blogs erfahren, so schau doch mal auf der Seite <a href="/about">Über mich</a> vorbei. Ansonsten lohnt sich sicherlich ein Blick in die Liste aller <a href="/archive">Artikel</a>.
+</div>
+{% endif %}
+
+{% for post in paginator.posts %}
+{% assign content = post.content %}
+    {% include article.html %}
+{% endfor %}
+
+<ul class="pagination clearfix">
+  {% if paginator.next_page %}
+    <li class="prev"><a href="/page{{ paginator.next_page }}" title="Ältere Beiträge">Ältere Beiträge</a></li>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <li class="next"><a href="/page{{ paginator.previous_page }}" title="Neuere Beiträge">Neuere Beiträge</a></li>
+  {% endif %}
+</ul>
