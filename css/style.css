@@ -75,7 +75,8 @@ pre {
   padding: 15px;
   white-space: pre;
   white-space: pre-wrap;
-  word-wrap: break-word; }
+  word-wrap: break-word;
+  line-height: 1.3em; }
 
 code {
   font: 0.85em/1em Monaco,monospace; }
