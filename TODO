@@ -18,3 +18,8 @@ Add links to friends and colleagues:
 Create a shorthand form for showing german date representations.
 
     {{ page.date | date:'%d. %B %Y' | replace:'January','Januar' | replace:'February','Februar' |replace:'March','März' | replace:'May','Mai' | replace:'June','Juni' | replace:'July','Juli' | replace:'October','Oktober' | replace:'December','Dezember' }}
+
+Easier inclusion of bikemap (maybe in the following style)
+
+    {% assign bikemap_url = "url-to-map" %}
+    {% include bikemap.html %}
