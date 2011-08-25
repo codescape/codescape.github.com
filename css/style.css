@@ -229,6 +229,9 @@ h2, h3, h4 {
   border-radius: 12px;
   color: #eee; }
   
+.highlight .nb { /* Name.Builtin */
+  color: #DA4939; }
+  
 .highlight .nc { /* Name.Class */
   color: #DA4939; }
   
@@ -236,7 +239,10 @@ h2, h3, h4 {
   color: #DA4939; }
   
 .highlight .na { /* Name.Attribute */
-  color: #DA4939 }
+  color: #DA4939; }
+
+.highlight .nv { /* Name.Variable */
+  color: #E8BF6A; }
 
 .highlight .s { /* Literal.String */
   color: #A5C261; }
