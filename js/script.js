@@ -19,6 +19,8 @@ $(document).ready(function() {
 
   /* Single Images
   ------------------------------------------------------------------- */
+  
+  /* add the image class to paragraphs containing an image */
   $('article p img').parent().addClass('image');
 
 });
