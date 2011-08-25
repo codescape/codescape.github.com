@@ -13,11 +13,13 @@ Hallo und herzlich willkommen in meinem Blog mit den Themenschwerpunkten Mountai
     {% include article.html %}
 {% endfor %}
 
-<ul class="pagination clearfix">
-  {% if paginator.next_page %}
-    <li class="prev"><a href="/page{{ paginator.next_page }}" title="Ältere Beiträge">Ältere Beiträge</a></li>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <li class="next"><a href="/page{{ paginator.previous_page }}" title="Neuere Beiträge">Neuere Beiträge</a></li>
-  {% endif %}
-</ul>
+<nav role="pagination">
+  <ul class="pagination clearfix">
+    {% if paginator.next_page %}
+      <li class="prev"><a href="/page{{ paginator.next_page }}" title="Ältere Beiträge">Ältere Beiträge</a></li>
+    {% endif %}
+    {% if paginator.previous_page %}
+      <li class="next"><a href="/page{{ paginator.previous_page }}" title="Neuere Beiträge">Neuere Beiträge</a></li>
+    {% endif %}
+  </ul>
+</nav>
