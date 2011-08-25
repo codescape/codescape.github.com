@@ -9,7 +9,8 @@
     </ul>          
   </header>
   {{ content }}
-  
+
+  {% if is_single %}
   <nav role="related">
     <h3>Verwandte Artikel</h3>
     <ul>
@@ -18,4 +19,5 @@
       {% endfor %}
     </ul>
   </nav>
+  {% endif %}
 </article>
