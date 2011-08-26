@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WordPress - Archiv als Seitenvorlage
-tags:
+tags: wordpress archiv seitenvorlage template
 ---
 
 Heute habe ich meinen Blog um ein Archiv der bisher erstellten Blog-Einträge erweitert. Hierbei handelt es sich um eine Seitenvorlage oder in der englischen WordPress-Fachsprache um ein [Page Template](http://codex.wordpress.org/Pages#Page_Templates) als Bestandteil des Theme, also des verwendeten Designs.
