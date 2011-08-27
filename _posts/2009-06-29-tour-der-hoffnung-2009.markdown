@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tour der Hoffnung 2009
-tags:
+tags: mountainbike tour gps eifel
 ---
 
 Nachdem ich am Samstag Vormittag die letzten Klausurvorbereitungen für die Vorlesung IT-Sicherheit abschließen und die Klausur am Mittag hinter mich bringen konnte, begann endlich das wohlverdiente Wochenende. So stand für mich am Sonntag morgen die Teilnahme an der [Tour der Hoffnung 2009 in Wißkirchen](http://www.eifel-mtb-guide.de/tdh) in der Voreifel auf dem Programm.
