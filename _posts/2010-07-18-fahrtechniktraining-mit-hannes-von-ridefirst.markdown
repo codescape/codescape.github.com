@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fahrtechniktraining mit Hannes von Ridefirst
-tags:
+tags: mountainbike fahrtechnik ridefirst
 ---
 
 Bereits [letztes Jahr](/2009/07/12/bikepark-winterberg) haben wir beim Fahrttechniktraining im [Bikepark Winterberg](http://www.bikepark-winterberg.de) eine Menge Erfahrungen sowie hilfreiche Tipps und Tricks mitnehmen können. So fiel die Entscheidung auch dieses Jahr in einem Kurs weiter an unserer Fahrtechnik zu schleifen und den Spaßfaktor beim Mountainbiken auf technisch anspruchsvollen Strecken noch weiter zu steigern entsprechend leicht.
