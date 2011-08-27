@@ -25,6 +25,7 @@ Das Wetter hat zu 100% mitgespielt und auf der ersten Hälfte der Tour bei angen
 
 Insgesamt zeichnet sich die Strecke durch einen geringen Asphalt-Anteil und viele schöne Waldwege sowie einige technische Singletrails aus. An zwei Stellen musste ich mich allerdings der Steigung geschlagen geben und schieben, da zu viele Hindernisse im Weg waren und die Steigung für sich schon eine Herausforderung darstellte.
 
-<div style="max-width: 500px; margin: 10px auto;"><iframe width="500" height="350" border="0" src="http://www.bikemap.net/route/726526/widget?width=500&amp;height=350&amp;extended=false&amp;maptype=2&amp;unit=km&amp;redirect=no&amp;distance_markers=always" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">&nbsp;</iframe></div>
+{% assign route = "726526" %}
+{% include bikemap_map.html %}
 
 Die Tour hat eine Länge von 30 Kilometern auf denen man laut Garmin Oregon knapp 1000 Höhenmeter hinter sich bringt. Bikemap attestiert dagegen “nur” 650 Höhenmeter – vermutlich liegt die Wahrheit irgendwo dazwischen.
