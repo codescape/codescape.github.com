@@ -143,6 +143,9 @@ h2, h3, h4 {
 
 #content p.image {
   text-align: center; }
+  
+#content p.image a {
+  border: none; }
 
 #content ul, content ol {
   margin: 10px 0; }

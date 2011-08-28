@@ -21,6 +21,6 @@ $(document).ready(function() {
   ------------------------------------------------------------------- */
   
   /* add the image class to paragraphs containing an image */
-  $('article p img').parent().addClass('image');
+  $('article p:has(img)').addClass('image');
 
 });
