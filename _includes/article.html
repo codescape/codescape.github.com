@@ -8,16 +8,28 @@
       {% if is_single %}<li><a href="{{ post.url}}">Permalink</a></li>{% endif %}
     </ul>          
   </header>
+
   {{ content }}
 
+  {% if is_single and site.disqus_username %}
+  <section>
+    <h3>Kommentare</h3>
+    <div id="comments">
+      {% include disqus_comments.html %}
+    </div>
+  </section>
+  {% endif %}
+
   {% if is_single %}
-  <nav role="related">
-    <h3>Verwandte Artikel</h3>
-    <ul>
-      {% for related in site.related_posts limit:3 %}
-      <li><a href="{{ related.url }}">{{ related.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </nav>
+  <footer>
+    <nav role="related">
+      <h3>Verwandte Artikel</h3>
+      <ul>
+        {% for related in site.related_posts limit:3 %}
+        <li><a href="{{ related.url }}">{{ related.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </footer>
   {% endif %}
 </article>
