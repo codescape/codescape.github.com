@@ -267,6 +267,12 @@ h2, h3, h4 {
 .highlight .cm { /* Comment.Multiline */
   color: #6D9CBE; }
 
+/* Comments
+----------------------------------------------------------- */
+
+#comments ul li {
+  list-style: none; }
+
 /* Pagination
 ----------------------------------------------------------- */
 
