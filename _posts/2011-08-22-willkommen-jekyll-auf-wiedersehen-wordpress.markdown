@@ -18,6 +18,7 @@ In der aktuellen Version der Webseite gibt es noch eine Menge interessanter tech
 * Automatisch generierte [sitemap.xml](http://www.sitemaps.org) für die bessere Auffindbarkeit in Suchmaschinen
 * Darstellung der letzten Twitter-Nachrichten mit [TwitterJS](http://twitterjs.googlecode.com)
 * Automatische Generierung eines [atom.xml](http://www.atomenabled.org)-Newsfeeds
+* Leichtgewichtiges Kommentarsystem mit [Disqus](http://disqus.com) inklusive mobiler Variante
 * Einfachste Konfiguration für die Einbindung von [Google Analytics](http://www.google.com/intl/de/analytics)
 * Hervorhebung von Source-Code mit Hilfe von [Pygments](http://pygments.org)
 
