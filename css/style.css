@@ -164,6 +164,15 @@ h2, h3, h4 {
 #content img {
   max-width: 100%; }
 
+/* Aside
+----------------------------------------------------------- */
+
+#content aside.left-aligned {
+  float: left; padding: 5px; }
+
+#content aside.right-aligned {
+  float: right; padding: 5px; }
+
 /* Teaser
 ----------------------------------------------------------- */
 
