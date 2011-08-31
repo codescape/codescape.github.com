@@ -14,7 +14,7 @@ layout: nil
 
   {% for post in site.posts %}
   <url>
-    <loc>http://example.com{{ post.url }}/</loc>
+    <loc>{{ site.url }}{{ post.url }}/</loc>
     <lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.2</priority>
@@ -23,7 +23,7 @@ layout: nil
 
   {% for page in site.html_pages %}
   <url>
-    <loc>http://example.com{{ page.url }}</loc>
+    <loc>{{ site.url }}{{ page.url }}</loc>
     <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
     {% if page.changefreq %}<changefreq>{{ page.changefreq }}</changefreq>{% endif %}
     {% if page.priority %}<priority>{{ page.priority }}</priority>{% endif %}
