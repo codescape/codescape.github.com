@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Doping für mein Macbook
-tags: mac osx macbook software kostenlos
+categories: mac osx macbook software kostenlos
 ---
 
 In diesem Artikel möchte ich einmal einen kleinen Überblick geben über die kleinen aber nützlichen Applikationen, die ich auf meinem Macbook nicht mehr vermissen möchte. Bedingung für eine Nennung in der unten aufgeführten Liste ist, dass es eine zeitlich uneingeschränkt benutzbare und kostenlose Variante der Software gibt.

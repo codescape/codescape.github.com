@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neues Spielzeug - Garmin Oregon
-tags: mountainbike tour gps garmin oregon
+categories: mountainbike tour gps garmin oregon
 ---
 
 Das sonnige Wetter lud heute einmal wieder zu einer Mountainbiketour ein. Als mittlerweile stolzer Besitzer eines [Garmin Oregon 300](https://buy.garmin.com/shop/shop.do?pID=14903&locale=de) habe ich dieses heute auf eine kleine Jungfernfahrt ausgeführt. Ausgestattet mit der [Garmin Topo Deutschland V3](https://buy.garmin.com/shop/products/010-11288-00?locale=de) konnte ich es auf dieser Tour einer Bewährungsprobe unterziehen – und das mit Erfolg.

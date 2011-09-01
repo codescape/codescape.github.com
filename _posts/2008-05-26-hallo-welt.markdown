@@ -1,7 +1,7 @@
----
+﻿---
 layout: post
 title: Auf geht's...
-tags: blog canyon mountainbike wordpress
+categories: blog canyon mountainbike wordpress
 ---
 
 Hallo Blog, hallo Welt!

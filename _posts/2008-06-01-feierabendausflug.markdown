@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Feierabendausflug
-tags: mountainbike tour gps gummersbach
+categories: mountainbike tour gps gummersbach
 ---
 
 Der Himmel ließ Böses erwarten doch irgendwie zog es mich nach einem langen Arbeitstag aufs Fahrrad… also waren kurzerhand die nötigen Utensilien zusammengepackt und am Körper sowie in der Fahrradtasche verstaut und schon stand ich vor der Tür und es galt zu überlegen wohin die Tour mich führen sollte.

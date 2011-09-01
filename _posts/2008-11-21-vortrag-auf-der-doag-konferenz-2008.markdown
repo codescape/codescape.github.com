@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vortrag auf der DOAG Konferenz 2008
-tags: java doag oracle spring springsource vortrag
+categories: java doag oracle spring springsource vortrag
 ---
 
 In der Zeit vom 1. bis zum 3. Dezember werde ich die [DOAG Konferenz 2008](http://www.doag.org/konferenz/doag/2008/) in Nürnberg besuchen und mir einige hoffentlich interessante Vorträge anhören können sowie auch selber einen Vortrag am Montag zwischen 13:00 Uhr und 13:45 Uhr halten.

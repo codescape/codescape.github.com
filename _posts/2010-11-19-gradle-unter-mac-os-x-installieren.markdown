@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gradle unter Mac OS X installieren
-tags: java gradle macosx groovy
+categories: java gradle macosx groovy
 ---
 
 Nachdem ich heute auf der Arbeit erstmals mit dem Buildsystem [Gradle](http://gradle.org) in einem kleinen [Coding Kata](http://codingkata.org/katas/unit/movie-tickets) in Berührung gekommen bin, musste ich mich – einmal neugierig geworden nun auch daheim auf dem Macbook – damit beschäftigen. Der manuellen Installation von Gradle unter Mac OS X möchte ich mich in diesem Beitrag widmen.

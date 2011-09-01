@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Auf neuen Pfaden
-tags: mountainbike tour gps gummersbach
+categories: mountainbike tour gps gummersbach
 ---
 
 Auch gestern war ich bei schönstem Wetter und warmen Temperaturen unterwegs. Da ich bereits etwas früher losgefahren war als sonst, sollte die Strecke etwas länger sein und so erforschte ich neues Terrain zwischen Gummersbach und Meinerzhagen. Die Gesamtstrecke betrug 42 Kilometer (ohne die Umwege die ich aufgrund mangelnder Ortskenntnis machen musste), das Höhenprofil der Strecke liegt zwischen 229 bis 480 Metern mit einem Gesamtanstieg von 978 Metern. Wer sich die Beschreibung der Strecke sparen möchte, kann sich bei GPSies die [Strecke ansehen und herunterladen](http://www.gpsies.com/map.do?fileId=nnabnzqfiwocgzcv).

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Navigon 2100 and the world is yours
-tags: navigon application error navigon.exe
+categories: navigon application error navigon.exe
 ---
 
 _And the world is yours…_ das möchte uns zumindest die Werbung weismachen. In der Realität sieht es leider nicht ganz so rosig aus und schon die nächste Seitenstraße kann plötzlich hinter einem “Fatal Application Error” verschwinden.

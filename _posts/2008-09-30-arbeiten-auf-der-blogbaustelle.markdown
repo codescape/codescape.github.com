@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arbeiten auf der Blogbaustelle
-tags: blog css html wordpress
+categories: blog css html wordpress
 ---
 
 Heute und gestern Abend habe ich mal wieder Zeit und Lust gehabt, etwas am Blog zu schrauben. Herausgekommen ist dabei im Kopfbereich ein selbst geschossenes Foto als Logo sowie eine Überarbeitung der Überschriften- und Textformatierung im gesamten Blog. Einige kleinere Änderungen, was Schriften in Text- und Eingabefeldern angeht, stehen allerdings noch aus.

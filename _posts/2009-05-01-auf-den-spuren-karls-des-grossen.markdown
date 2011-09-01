@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Auf den Spuren Karls des Großen
-tags: mountainbike kaiserroute gps tour
+categories: mountainbike kaiserroute gps tour
 ---
 
 Das Wetter lockte am verlängerten ersten Maiwochenende viele Läufer, Wanderer, Nordic-Walker, Radfahrer, Spaziergänger… aus dem Haus und auch ich konnte und wollte mich diesem Drang nicht widersetzen. Mit Rennrad und Mountainbike ging es in Begleitung meiner Schwester von [Hilden aus in nördlicher Richtung nach Essen](http://gpsies.de/map.do?fileId=oxubnwtfhbyjrhio) mit dem Baldeneysee als Ziel.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Von Donaueschingen nach Saig
-tags: mountainbike tour gps schwarzwald donaueschingen saig
+categories: mountainbike tour gps schwarzwald donaueschingen saig
 ---
 
 Das Wetter war bestens, der Himmel zeigte lediglich ein paar harmlose Wolken und auch die Temperaturen waren einladend warm. Das war Einladung genug für eine Tour mit dem Mountainbike durch den Schwarzwald.

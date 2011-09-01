@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Frühzeitiges Wochenende
-tags: mountainbike tour gps gummersbach
+categories: mountainbike tour gps gummersbach
 ---
 
 Da ich morgen einen freien Tag habe und mein Wochenende somit heute schon beginnt, habe ich einen kleinen Ausflug mit dem Mountainbike unternommen. Die Strecke kombiniert einige Abschnitte aus bereits vorgestellten Strecken und folgt einer Route, die ich mir so ungefähr vorher bei Google-Maps ausgedacht habe.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Back to Business
-tags: mountainbike tour reparatur ergon gummersbach
+categories: mountainbike tour reparatur ergon gummersbach
 ---
 
 Mein Mountainbike ist dank dem hervorragenden Service von [Radsport Nagel](http://www.radsport-nagel.de) und dem ausgeliehen Schaltauge von [Alexander](http://www.kuwap.de) – an dieser Stelle noch einmal vielen Dank – wieder fahrtüchtig! Auf einer Probefahrt musste die reparierte Schaltung und das Handling mit den neuen Ergon Griffen direkt getestet werden. Für mich sind die Ergon Griffe nach dieser ersten Fahrt nicht nur eine Modeerscheinung oder irgendwelcher Schnick-Schnack sondern ein paar superbequeme aber gleichzeitig auch sehr gute Griffe. Man gewinnt auch - zumindest an gefühlter - Kontrolle über das Fahrrad.

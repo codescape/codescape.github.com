@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Geführte Tour - Codename "Plattfuß"
-tags: mountainbike radrebellen fotos tour
+categories: mountainbike radrebellen fotos tour
 ---
 
 Wie bereits in einem [früheren Artikel](/2008/09/22/unterwegs-mit-den-radrebellen) angekündigt, hat es mich heute nach Bad Münstereifel zu einer geführten [Mountainbike-Tour der Rad Rebellen](http://www.rad-rebellen.de/wordpress/?p=15) verschlagen. Schon einmal vorab, das frühe Aufstehen an einem Sonntag hat sich gelohnt! Vielen Dank auf an [Alexander](http://www.mountainbiking-weilerswist.de.ki) für den Hinweis auf die Tour.

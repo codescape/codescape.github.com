@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Die Saison ist eröffnet
-tags: mountainbike tour gps gummersbach
+categories: mountainbike tour gps gummersbach
 ---
 
 Die Tage werden wieder länger und so kann auch nach der Arbeit mal wieder das Mountainbike über den ein oder anderen Waldweg bewegt werden. Am Mittwoch konnte ich mich dann bei fast schon sommerlichen 20° Grad auf das Mountainbike schwingen und durfte bei einer kleinen Tour mit Schrecken feststellen, dass sich Kondition nicht mit Weihnachtsplätzchen und anderen Leckereien konservieren lässt.

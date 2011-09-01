@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tour der Radrebellen 2011
-tags: mountainbike tour gps eifel
+categories: mountainbike tour gps eifel
 ---
 
 An diesem Wochenende startete bei perfektem Wetter die neueste Auflage der [Tour der Radrebellen](http://rad-rebellen.de/) mit sage und schreibe 100 Mountainbike-begeisterten Fahrerinnen und Fahrern.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Frühlingstour mit den Rad-Rebellen
-tags: mountainbike tour radrebellen eifel
+categories: mountainbike tour radrebellen eifel
 ---
 
 Nach einer wirklich [gelungenen Herbsttour](/2008/10/12/gefuehrte-tour-codename-plattfuss/) haben die Rad-Rebellen den noch jungen Frühling genutzt und erneut zu einer [geführten Mountainbiketour](http://www.rad-rebellen.de/wordpress/?p=278) in die Nordeifel eingeladen.

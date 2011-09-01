@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tour zur Müngstener Brücke
-tags: mountainbike gps tour solingen wuppertal
+categories: mountainbike gps tour solingen wuppertal
 ---
 
 Gestern lockte das schöne Wetter wieder einmal zu einer Ausfahrt mit dem Mountainbike. Gestartet wurde im Hildener Osten: Von hier aus ging es ein kurzes Stück entlang der Walderstraße bis wir in die Ohligser Heide einbogen. Vorbei am Engelsberger Hof und der Schwanenmühle umfuhren wir den Langenfelder Segelflugplatz. Von hier aus ging es stetig bergan in Richtung Solingen bis wir in das Nackerbachtal einbogen.

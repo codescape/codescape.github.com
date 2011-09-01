@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WordPress - Theme mit eigenem Suchformular
-tags: wordpress php suche suchformular suchfeld
+categories: wordpress php suche suchformular suchfeld
 ---
 
 WordPress kommt bereits von Haus aus mit einer integrierten Suchfunktion, die beispielsweise über Widgets in das verwendete WordPress Theme eingebunden werden kann. Das Suchformular in WordPress wird über den Befehl `get_search_form();` eingebunden.

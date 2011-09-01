@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wochenend-Tour
-tags: mountainbike tour gps gummersbach
+categories: mountainbike tour gps gummersbach
 ---
 
 Auch heute gibt es wieder einen kleinen [Tourenbericht zur Tour](http://www.gpsies.com/map.do?fileId=sxjxboweaugwownj) am heutigen Tag zusammen mit meinem Vater und meiner Schwester. Beim Start in Gummersbach Reininghausen stand zuerst ein kleiner Fahrradcheck an bis die Bremsen bremsten und der Tacho mehr als nur die Uhrzeit anzeigte. Dann ging es über die Straße Richtung Becke-Oese und von dort am Steinbruch vorbei durch das Örtchen Dahl mit dem historischen Bauernhaus. An der Steigung hinter Dahl wurden die Teilnehmer und das Material auf Bergtauglichkeit direkt geprüft.

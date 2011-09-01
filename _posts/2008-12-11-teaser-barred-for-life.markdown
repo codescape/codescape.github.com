@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teaser - Barred for Life
-tags: mountainbike video stunts wordpress
+categories: mountainbike video stunts wordpress
 ---
 
 Nachdem ich heute meinen Blog erfolgreich auf die aktuelle Version 2.7 der WordPress-Software aktualisiert habe, folgt hier der Test, ob denn auch alles läuft wie es soll. Natürlich bietet es sich da an, direkt einen neuen Artikel zu verfassen.

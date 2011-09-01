@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tour zum Kirnbergsee
-tags: mountainbike tour gps schwarzwald donaueschingen
+categories: mountainbike tour gps schwarzwald donaueschingen
 ---
 
 Heute stand vor der morgigen Heimfahrt noch eine Tour mit dem Mountainbike durch den Schwarzwald auf dem Programm. Bei der Fahrt ins Blaue kam eine schön zu fahrende [Runde von Donaueschingen aus um den Kirnbergsee](http://gpsies.com/map.do?fileId=pzyltkxhqcpvezof) heraus.

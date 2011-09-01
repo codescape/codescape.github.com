@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Skiurlaub in Chamonix
-tags: ski skifahren alpen chamonix
+categories: ski skifahren alpen chamonix
 ---
 
 Auch im April kann ein Winterurlaub noch ein echter Winterurlaub sein! Dieses Jahr ging es für mich zum ersten Mal auf Carving-Skiern die Pisten von [Le Tour] hinunter. Le Tour ist eines der beliebten Skigebiete in der direkten Umgebung von [Chamonix](http://www.chamonix.com/) im französischen Teil der Alpen.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Im Naturpark Hohes Venn-Eifel
-tags: mountainbike tour gps fotos eifel nettersheim
+categories: mountainbike tour gps fotos eifel nettersheim
 ---
 
 Am Sonntag stand für uns eine Tour durch den Naturpark Hohes Venn-Eifel auf dem Programm. Bereits während der Anreise mit dem Auto bis Weilerswist und von hier aus mit der Bahn nach Nettersheim zeigte sich das Wetter von seiner besten Seite.

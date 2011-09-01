@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Biikebrennen &amp; Ellenbogen
-tags:
+categories: urlaub fotos sylt
 ---
 
 Auch wenn der Titel nun eingefleischte Mountainbiker erst einmal an verbrannte Fahrräder oder gar einen Fahrradunfall denken lassen könnte. Um Beides geht es in diesem Beitrag aber nicht – sondern um meinen Kurzurlaub auf der [Insel Sylt](http://www.sylt.de).

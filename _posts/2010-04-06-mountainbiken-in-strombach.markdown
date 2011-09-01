@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mountainbiken in Strombach
-tags: mountainbike tour gps gummersbach
+categories: mountainbike tour gps gummersbach
 ---
 
 Das Wetter zeigte sich heute von der besten Seite und lud bereits in der Mittagspause zu einem kleinen Marsch auf den Berg zwischen Gummersbach Nochen und Berghausen ein. Einmal erste Frühlingsluft geschnuppert musste dann nach Feierabend das Mountainbike dran glauben und beweisen, dass es den Umzug gut überstanden hatte.

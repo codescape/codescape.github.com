@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eclipse: Workspace in use or cannot be created'
-tags: eclipse workspace fehlermeldung lock java
+categories: eclipse workspace fehlermeldung lock java
 ---
 
 Wer kennt das nicht? Der Rechner stürzt ab, es geht nichts mehr und es bleibt lediglich die Hoffnung, dass man vorher noch gespeichert hatte. So geschehen heute mit meinem Entwicklungsrechner beim Kunden.

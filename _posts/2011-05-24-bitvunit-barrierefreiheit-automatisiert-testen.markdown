@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BitvUnit – Barrierefreiheit automatisiert testen
-tags: bitv barrierefreiheit java testen
+categories: bitv barrierefreiheit java testen
 ---
 
 Motiviert durch einen Workshop zum Thema Barrierefreiheit mit einigen Kollegen und der Lektüre eines interessanten [Artikels bei WebTestPraxis](http://webtestpraxis.de/blog/?p=15), über den ich gestolpert bin, als ich mich nach Werkzeugen für die Testautomatisierung von Kriterien der Barrierefreiheit umgesehen habe, entstand die Idee, ein Open-Source-Framework zu erstellen.

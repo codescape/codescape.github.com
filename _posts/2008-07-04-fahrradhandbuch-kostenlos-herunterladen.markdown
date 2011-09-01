@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fahrradhandbuch kostenlos herunterladen
-tags: mountainbike handbuch wartung pflege
+categories: mountainbike handbuch wartung pflege
 ---
 
 Nachdem ich auch heute wieder eine kleine Runde gedreht und die etwas kühleren Temperaturen und die Waldlfuft genossen habe, ist in meinem EMail-Posteingang der bestellte Newsletter von Canyon eingetrudelt. Der Fahrradversender, bei dem auch ich mein Mountainbike erworben habe, bietet seit heute auf der eigenen Webseite zwei recht umfangreiche und äußerst informative Handbücher für Mountainbikes und Rennräder an. Finden kann man die beiden Handbücher im PDF-Format auf der [Downloadseite der Canyon-Homepage](http://www.canyon.com/service/downloads.html) neben den Produktkatalogen von diesem und dem letzten Jahr.
