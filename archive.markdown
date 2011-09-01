@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Artikel
+permalink: archive/index.html
 ---
 
 Hier findet sich eine chronologisch geordnete Liste aller Artikel, die sich im Laufe der Zeit in meinem Blog angesammelt haben. Insgesamt gibt es bereits die stolze Anzahl von {{ site.posts | size }} Artikeln.

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Themen
+permalink: categories/index.html
 ---
 
 <ul id="category-list">

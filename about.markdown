@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Über mich
+permalink: about/index.html
 ---
 
 In diesem Blog möchte ich mich sowohl meinen Hobbies widmen, zu denen unter anderem das Mountainbiking und die Webentwicklung zählen, als auch einige Dinge aus meiner beruflichen Tätigkeit als Softwareberater und -entwickler im Java-Enterprise-Umfeld an den interessierten Leser weitergeben.

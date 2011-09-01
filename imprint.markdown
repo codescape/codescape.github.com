@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Impressum
+permalink: imprint/index.html
 ---
 
 Für diesen Blog gemäß [Telemediengesetz](http://www.gesetze-im-internet.de/tmg/) verantwortlich:
