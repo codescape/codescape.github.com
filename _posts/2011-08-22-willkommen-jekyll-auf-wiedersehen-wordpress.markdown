@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Willkommen Jekyll - Auf Wiedersehen Wordpress
-categories: blog wordpress jekyll html5 mobile
+categories: blog wordpress jekyll html
 ---
 
 Nach ich etwas mehr als drei Jahre meinen Blog mit [Wordpress](http://de.wordpress.com) betrieben habe, wurde es mal wieder Zeit für eine Runderneuerung meines Blogs. In diesem Artikel möchte ich das neue System, welches mit [Jekyll](https://github.com/mojombo/jekyll) auf Basis von [Ruby](http://www.ruby-lang.org/de) läuft, kurz vorstellen.
