@@ -150,9 +150,6 @@ h2, h3, h4 {
 #content ul, content ol {
   margin: 10px 0; }
   
-#content ul:last-of-type, #content ol:last-of-type {
-  margin: 10px 0 0 0; }
-
 #content ul li {
   list-style: square ;
   margin: 0 0 0 40px; }
@@ -347,6 +344,18 @@ h2, h3, h4 {
 
 #footer ul li:last-child:after {	
   content: ""; }
+
+/* Categories
+----------------------------------------------------------- */
+
+#content #categories > li {
+  list-style: none;
+  margin: 0; }
+
+#content #categories-links li {
+  list-style: none;
+  display: inline;
+  margin: 0 10px 0 0; }
 
 /* Media Queries
 ----------------------------------------------------------- */

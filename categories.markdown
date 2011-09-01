@@ -4,17 +4,11 @@ title: Themen
 permalink: categories/index.html
 ---
 
-<ul id="category-list">
-{% for category in site.categories %}
-  <li><a href="#{{ category | first }}">{{ category | first }}</a></li>
-{% endfor %}
-</ul>
+Hier findet sich eine Liste aller Themen, zu denen Artikel in meinem Blog existieren.
 
-<h2>Artikel je Thema</h2>
-<ul id="category-posts">
+<ul id="categories">
 {% for category in site.categories %}
-  <li>
-    <a name="{{ category | first }}">{{ category | first }}</a>
+  <li id="{{ category | first }}"><h3>{{ category | first }}</h3>
     <ul>
     {% for posts in category %}
       {% for post in posts %}

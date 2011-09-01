@@ -4,7 +4,7 @@ title: Publikationen
 permalink: publications/index.html
 ---
 
-Auf dieser Seite möchte ich von mir gehaltene [Vorträge](#vortrge) auf Messen und Konferenzen vorstellen und ankündigen sowie eine Liste der von mir verfassten oder mit meiner Beteiligung erstellten [Artikel](#artikel) präsentieren.
+Auf dieser Seite möchte ich von mir gehaltene [Vorträge](#vortrge) auf Messen und Konferenzen vorstellen und ankündigen sowie eine Liste der von mir verfassten oder mit meiner Beteiligung erstellten [Veröffentlichungen](#verffentlichungen) präsentieren.
 
 Vorträge
 --------
@@ -29,7 +29,7 @@ Der Oracle Server ist nicht "nur" eine SQL-Datenbank, er bietet z.B. mit Support
 * Vortrag auf der [DOAG Konferenz 2008](http://www.doag.org/konferenz/doag/2008) am 01.12.2008
 * Vortrag auf der [Java User Group Cologne](http://jugcologne.org) am 13.10.2008
 
-Artikel
+Veröffentlichungen
 -------
 
 ### ADF – eine Universallösung für Web-Anwendungen?
