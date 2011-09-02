@@ -13,7 +13,7 @@ layout: default
     {% include article.html %}
 {% endfor %}
 
-<nav role="pagination">
+<nav id="pagination">
   <ul class="pagination clearfix">
     {% if paginator.next_page %}
       <li class="prev"><a href="/page{{ paginator.next_page }}" title="Ältere Beiträge">Ältere Beiträge</a></li>
