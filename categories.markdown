@@ -13,7 +13,7 @@ Hier findet sich eine Liste aller Themen, zu denen Artikel in meinem Blog existi
     {% for posts in category %}
       {% for post in posts %}
         {% if post.title %}
-        <li><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m." }}</time> <a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m.%Y" }}</time> <a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endif %}
       {% endfor %}
     {% endfor %}

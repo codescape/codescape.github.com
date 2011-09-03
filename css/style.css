@@ -230,6 +230,20 @@ h2, h3, h4 {
   border-bottom-left-radius: 12px;
   border-bottom-right-radius: 12px; }
 
+/* Bikemap Routes
+----------------------------------------------------------- */
+
+.bikemap-route {  
+  max-width: 100%;
+  text-align: center;
+  overflow: hidden; }
+
+.bikemap-route iframe {
+  width: 600px;
+  height: 400px;
+  max-width: 100%;
+  overflow: hidden; }
+
 /* Syntax Highlighting (pygments)
 ----------------------------------------------------------- */
 
