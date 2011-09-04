@@ -88,6 +88,10 @@ h2, h3, h4 {
   letter-spacing: 1px;
   text-transform: uppercase; }
 
+h2 {
+  font-size: 20px;
+  line-height: 30px; }
+
 #container {
   max-width: 700px;
   margin: 0 auto;
