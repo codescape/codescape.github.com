@@ -290,6 +290,10 @@ h2 {
 #comments ul li {
   list-style: none; }
 
+#comments a {
+  border: none;
+}
+
 /* Pagination
 ----------------------------------------------------------- */
 
