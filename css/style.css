@@ -249,6 +249,24 @@ h2 {
   max-width: 100%;
   overflow: hidden; }
 
+/* Embedded Content
+----------------------------------------------------------- */
+
+.elastic-iframe {
+  position: relative;
+  padding-bottom: 55%;
+  padding-top: 15px;
+  height: 0;
+  overflow: hidden;
+}
+.elastic-iframe iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 /* Syntax Highlighting (pygments)
 ----------------------------------------------------------- */
 
