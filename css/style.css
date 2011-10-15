@@ -49,7 +49,7 @@ html {
   overflow-y: scroll; }
 
 body {
-  background: #fff;
+  background: #fff url('../images/background.gif');
   font: normal 14px/24px 'Droid Sans', sans-serif;
   color: #111; }
 
@@ -63,7 +63,7 @@ a:hover {
   border-bottom: 1px dotted #111; }
 
 em, strong {
-  font-weight: 600; }
+  font-weight: 700; }
 
 blockquote {
   font-style: italic;
@@ -84,7 +84,7 @@ code {
 
 h2, h3, h4 {
   color: #868682;
-  font-weight: 600;
+  font-weight: 700;
   margin: 20px 0 10px;
   letter-spacing: 1px;
   text-transform: uppercase; }
@@ -108,7 +108,7 @@ h2 {
 
 #header h1 {
   width: 25%;
-  font-weight: 600;
+  font-weight: 700;
   display: inline-block; }
 
 #header nav {
@@ -180,7 +180,7 @@ h2 {
 ----------------------------------------------------------- */
 
 #content .teaser {
-  background: #eee;
+  background: rgba(0, 0, 0, .1);
   border-radius: 12px;
   color: #111;
   padding: 15px; }
