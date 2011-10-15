@@ -8,7 +8,7 @@ In diesem Blog möchte ich mich sowohl meinen Hobbies widmen, zu denen unter and
 
 Schon in der Schulzeit zählte ich neben der Leichtathletik auch die Gestaltung von Webseiten zu meinen Hobbies. Dies schlug sich auch in der Gestaltung der Internetseite des [Helmholtz-Gymnasium Hilden](http://www.hilden.de/hgh) in den Jahren 1997 bis 2003 nieder. Auch die Seite [Planet-Tutorials.de](http://www.planet-tutorials.de) ist im Rahmen dieses Hobbies entstanden und stellt ein Forum für den Austausch zum Thema Webentwicklung und damit verbundenen Themen dar.
 
-![Ich und ich und ich und noch einmal ich](/images/about.jpg)
+![Stefan](/images/about.jpg)
 
 Nach dem Abitur folgte das Studium der Wirtschaftsinformatik auf Diplom an der [Fachhochschule Köln Campus Gummersbach](http://www.gm.fh-koeln.de/), welches ich 2007 in der Tasche hatte. Nach einigen Touren mit Mountainbike-begeisterten Kollegen wurde auch ich von diesem Hobby angefixt und so erkunde ich seit dem Frühjahr 2008 auf und mit meinem Mountainbike das Bergische Land rund um [Gummersbach](http://www.gummersbach.de), die umliegenden Talsperren und Berge. 
 
