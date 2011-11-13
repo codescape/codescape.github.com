@@ -84,7 +84,7 @@ pre {
   line-height: 1.3em; }
 
 code {
-  font: 0.85em/1em Monaco,monospace; }
+  font: 0.85em/1em Monaco, monospace; }
 
 h2, h3, h4 {
   color: #868682;
@@ -136,7 +136,8 @@ h2 {
   font-size: 0.85em; }
 
 #content article header ul li {
-  display: inline; margin: 0; }
+  display: inline;
+  margin: 0; }
 
 #content article header ul li:after {
   content: "\00A0\00A0\00B7\00A0\00A0"; }
@@ -175,10 +176,12 @@ h2 {
 ----------------------------------------------------------- */
 
 #content aside.left-aligned {
-  float: left; padding: 5px; }
+  float: left;
+  padding: 5px; }
 
 #content aside.right-aligned {
-  float: right; padding: 5px; }
+  float: right;
+  padding: 5px; }
 
 /* Teaser
 ----------------------------------------------------------- */
@@ -261,15 +264,14 @@ h2 {
   padding-bottom: 55%;
   padding-top: 15px;
   height: 0;
-  overflow: hidden;
-}
+  overflow: hidden; }
+
 .elastic-iframe iframe {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
-}
+  height: 100%; }
 
 /* Syntax Highlighting (pygments)
 ----------------------------------------------------------- */
@@ -313,8 +315,7 @@ h2 {
   list-style: none; }
 
 #comments a {
-  border: none;
-}
+  border: none; }
 
 /* Pagination
 ----------------------------------------------------------- */
