@@ -9,11 +9,18 @@ Auf dieser Seite möchte ich von mir gehaltene [Vorträge](#vortrge) auf Messen 
 Vorträge
 --------
 
+### GroovyFX und JavaFX 2.0
+
+*Abstract folgt...*
+
+* Vortrag auf der [OOP 2012](http://www.sigs-datacom.de/oop2012/konferenz) am 26.01.2012
+
 ### Grails - Die Suche ist vorbei
 
 Grails ist ein Framework für Webapplikationen auf Basis der dynamisch typisierten Programmiersprache Groovy und bewährten Technologien wie dem Spring Framework und Hibernate. Eine Vielzahl von Plug-Ins macht es möglich, wiederkehrende Problemstellungen mit bewährten Lösungen umzusetzen. Dieser Vortrag startet mit einem kurzen Überblick über Groovy & Grails und zeigt im Anschluss an Beispielen und echtem Code eine Auswahl der interessantesten Funktionen und Möglichkeiten.
 
-* Vortrag auf der [DOAG Konferenz 2011](http://www.doag.org/konferenz/doag/2011) am 15.-17.11.2011
+* Vortrag auf der [Java User Group Ostfalen](http://www.jug-ostfalen.de) am 22.03.2012
+* Vortrag auf der [DOAG Konferenz 2011](http://www.doag.org/konferenz/doag/2011) am 17.11.2011
 
 ### Statische Code-Analyse für Groovy & Grails mit CodeNarc
 
