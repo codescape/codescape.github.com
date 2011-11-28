@@ -11,7 +11,7 @@ Vorträge
 
 ### GroovyFX entfesselt JavaFX 2.0
 
-JavaFX ist ein heißer Kandidat als zukünftiger Standard für die Entwicklung moderner Rich Internet Applications. Es bietet unter anderem eine Vielzahl an Widgets und Animationen, Unterstützung diverser Multimediainhalte sowie die Portierbarkeit auf verschiedenste Plattformen. Es setzt auf den Stärken von Java auf und läuft in der Java Virtual Machine. Auch die dynamische Programmiersprache Groovy ist in der Java Virtual Machine zu Hause und qualifiziert sich als starker Partner, wenn es um die Entwicklung JavaFX-basierter Anwendungen unter dem Gesichtpunkt der Entwicklungseffizienz geht. Nach einer kurzen Einführung in die Sprache Groovy und die Plattform JavaFX wird dieser Vortrag das Framework GroovyFX als den Klebstoff zwischen den beiden Technologien an Beispielen und echtem Code vorstellen.
+JavaFX ist ein heißer Kandidat für einen zukünftigen Standard zur Entwicklung moderner Rich Internet Applications. Es bietet unter anderem eine Vielzahl an Widgets und Animationen, Unterstützung diverser Multimediainhalte sowie die Portierbarkeit auf verschiedenste Plattformen. Dabei setzt JavaFX auf den Stärken von Java auf und läuft in der Java Virtual Machine. Auch die dynamische Programmiersprache Groovy ist in der Java Virtual Machine zu Hause und qualifiziert sich als starker Partner, wenn es um die Entwicklung JavaFX-basierter Anwendungen unter dem Gesichtpunkt der Entwicklungseffizienz geht. Nach einer kurzen Einführung in die Sprache Groovy und die Plattform JavaFX wird dieser Vortrag das Framework GroovyFX als Bindeglied zwischen den beiden Technologien anhand von Beispielen und Sourcecode vorstellen.
 
 * Vortrag auf der [OOP 2012](http://www.sigs-datacom.de/oop2012/konferenz) am 26.01.2012
 
