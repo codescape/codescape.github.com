@@ -49,9 +49,9 @@ html {
   overflow-y: scroll; }
 
 body {
-  background: #fff url('../images/background.gif');
-  font: normal 14px/24px 'Droid Sans', sans-serif;
-  color: #111; }
+  background: #333 url('../images/bg.jpg');
+  font: normal 14px/24px 'Droid Serif', serif;
+  color: #eee; }
 
 a, a:visited {
   color: #07c;
@@ -63,8 +63,8 @@ a, a:visited {
   transition: all 0.5s ease; }
 
 a:hover {
-  color: #111;
-  border-bottom: 1px dotted #111; }
+  color: #eee;
+  border-bottom: 1px dotted #eee; }
 
 em, strong {
   font-weight: 700; }
@@ -86,19 +86,19 @@ pre {
 code {
   font: 0.85em/1em Monaco, monospace; }
 
-h2, h3, h4 {
+h1, h2, h3, h4 {
   color: #868682;
   font-weight: 700;
+  font-style: italic;
   margin: 20px 0 10px;
-  letter-spacing: 1px;
-  text-transform: uppercase; }
+  letter-spacing: 1px; }
 
-h2 {
+h1, h2 {
   font-size: 20px;
   line-height: 30px; }
 
 #container {
-  max-width: 700px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 0 20px 40px 20px; }
 
@@ -106,27 +106,26 @@ h2 {
 ----------------------------------------------------------- */
 
 #header {
-  border-bottom: 1px dotted #C5C5C5;
+  border-bottom: 1px dotted #666;
   margin: 20px 0;
-  padding: 0 0 20px; }
-
-#header h1 {
-  width: 25%;
-  font-weight: 700;
-  display: inline-block; }
-
-#header nav {
-  float: right; }
+  padding: 0 0 20px;
+  text-align: center; }
 
 #header nav ul li {
   display: inline;
-  margin-left: 10px; }
+  margin: 0; }
+
+#header nav ul li:after {
+  content: "\00A0\00A0\00B7\00A0\00A0"; }
+
+#header nav ul li:last-child:after {	
+  content: ""; }
 
 /* Content
 ----------------------------------------------------------- */
 
 #content {
-  border-bottom: 1px dotted #C5C5C5;
+  border-bottom: 1px dotted #666;
   margin: 20px 0;
   padding: 0 0 20px; }
 
@@ -146,8 +145,7 @@ h2 {
   content: ""; }
 
 #content p {
-  margin: 10px 0;
-  text-align: justify; }
+  margin: 10px 0; }
 
 #content p:last-of-type {
   margin: 10px 0 0 0; }
@@ -189,7 +187,7 @@ h2 {
 #content .teaser {
   background: rgba(0, 0, 0, .1);
   border-radius: 12px;
-  color: #111;
+  color: #eee;
   padding: 15px; }
 
 #content .teaser p:first-of-type {
@@ -197,6 +195,10 @@ h2 {
 
 /* Gallery (http://flex.madebymufffin.com)
 ----------------------------------------------------------- */
+
+#content .flexslider {
+  max-width: 700px;
+  margin: 0 auto; }
 
 #content .flexslider li {
   list-style: none;
@@ -339,7 +341,7 @@ h2 {
 ----------------------------------------------------------- */
 
 #twitter {
-  border-bottom: 1px dotted #C5C5C5;
+  border-bottom: 1px dotted #666;
   margin: 20px 0;
   padding: 0 0 20px; }
 
@@ -357,7 +359,7 @@ h2 {
 ----------------------------------------------------------- */
 
 #elsewhere {
-  border-bottom: 1px dotted #C5C5C5;
+  border-bottom: 1px dotted #666;
   margin: 20px 0;
   padding: 0 0 20px; }
 
@@ -409,15 +411,6 @@ h2 {
 
 @media screen and (max-width: 800px) {
 
-  #header h1 {
-    width: 100%;
-    display: inline-block;
-    text-align: center; }
-
-  #header nav {
-    float: none;
-    text-align: center; }
-    
   .github-ribbon {
     display: none; }
 
