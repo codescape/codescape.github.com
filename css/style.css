@@ -49,9 +49,10 @@ html {
   overflow-y: scroll; }
 
 body {
-  background: #111 url('../images/bg.jpg');
+  background: #300;
   font: normal 14px/24px 'Droid Serif', serif;
-  color: #eee; }
+  color: #eee;
+  text-shadow: 1px 1px 1px #100; }
 
 a, a:visited {
   color: #a00;
