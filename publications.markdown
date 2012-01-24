@@ -39,6 +39,12 @@ Der Oracle Server ist nicht "nur" eine SQL-Datenbank, er bietet z.B. mit Support
 Veröffentlichungen
 -------
 
+### Grails - Die Suche ist vorbei
+
+Grails ist ein Open Source Framework zur Entwicklung moderner Webapplikationen auf Basis der dynamisch typisierten Programmiersprache Groovy und bewährten Technologien wie dem Spring Framework, Hibernate und SiteMesh. Eine Vielzahl von Plug-Ins macht es zudem möglich, wiederkehrende Problemstellungen mit bewährten Lösungen umzusetzen. Dieser Artikel gibt einen Überblick über das Framework und zeigt anhand von kleinen Code-Beispielen interessante Aspekte bei der Entwicklung von Grails-Anwendungen.
+
+* Artikel in der [JAVAaktuell 02/2012](http://www.ijug.eu/index.php?option=com_content&view=article&id=10&Itemid=35)
+
 ### ADF – eine Universallösung für Web-Anwendungen?
 
 ADF, das Application Development Framework von Oracle, wird als Komplettlösung für die Anwendungsentwicklung im Web empfohlen. Der 4-GL-Ansatz soll dabei insbesondere Forms-Entwicklern den Technologiewechsel erleichtern. In diesem Artikel wird den Fragen nachgegangen, wie und in welchen Szenarien sich ADF in der Praxis bewährt hat und welche Vor- und Nachteile gegenüber einem vergleichbaren Open-Source-Stack existieren.
