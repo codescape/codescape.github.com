@@ -49,10 +49,9 @@ html {
   overflow-y: scroll; }
 
 body {
-  background: #300;
+  background: #fff;
   font: normal 14px/24px 'Droid Serif', serif;
-  color: #eee;
-  text-shadow: 1px 1px 1px #100; }
+  color: #111; }
 
 a, a:visited {
   color: #a00;
@@ -64,8 +63,8 @@ a, a:visited {
   transition: all 0.5s ease; }
 
 a:hover {
-  color: #eee;
-  border-bottom: 1px dotted #eee; }
+  color: #111;
+  border-bottom: 1px dotted #111; }
 
 em, strong {
   font-weight: 700; }
@@ -188,7 +187,7 @@ h1, h2 {
 #content .teaser {
   background: rgba(0, 0, 0, .1);
   border-radius: 12px;
-  color: #eee;
+  color: #111;
   padding: 15px; }
 
 #content .teaser p:first-of-type {
