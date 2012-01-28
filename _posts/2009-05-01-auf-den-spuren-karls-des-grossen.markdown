@@ -18,4 +18,4 @@ Von Hilden ging es durch den Hildener Stadtwald über Hochdahl hinab in das [Nea
 
 Hinter Wülfrath wurde es wieder ländlicher und wir folgten über Landstraßen der Ausschilderung nach Velbert. Bei einem Zwischenstopp kurz vor Velbert schlängelte sich eine Blindschleiche vor die Linse meiner Kamera und wurde digital verewigt. Am [Haus Scheppen am Baldeneysee](http://www.road-concept.eu/motorrad-treff-haus-scheppen.html) angekommen wurde auch das Rätsel gelöst, mit welchem Ziel vermutlich einige der vielen Motorradfahrer unterwegs waren, die uns auf den letzten Kilometern einer nach dem anderen überholt hatten.
 
-Nachdem wir der Ausblick und das schöne Wetter bei einem leckeren Eis und immer noch sommerlichen Temperaturen eine Weile genossen hatten, ging es im Anschluss mit der Bahn ab Essen-Hügel zurück in heimische Gefilde.
+Nachdem wir den Ausblick und das schöne Wetter bei einem leckeren Eis und immer noch sommerlichen Temperaturen eine Weile genossen hatten, ging es im Anschluss mit der Bahn ab Essen-Hügel zurück in heimische Gefilde.
