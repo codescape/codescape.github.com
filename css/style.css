@@ -184,18 +184,6 @@ h1, h2 {
   float: right;
   padding: 5px; }
 
-/* Teaser
------------------------------------------------------------ */
-
-#content .teaser {
-  background: rgba(0, 0, 0, .05);
-  border-radius: 12px;
-  color: #111;
-  padding: 15px; }
-
-#content .teaser p:first-of-type {
-  margin: 0; }
-
 /* Gallery (http://flex.madebymufffin.com)
 ----------------------------------------------------------- */
 

@@ -2,12 +2,6 @@
 layout: default
 ---
 
-{% if paginator.page == 1 %}
-<div class="teaser">
-  <p>Hallo und herzlich Willkommen in meinem Blog mit dem Fokus auf den Themen Mountainbike und Softwareentwicklung. Vielleicht möchtest Du mich etwas kennenlernen, so schau doch mal auf der Seite <a href="/about">Über mich</a> vorbei. Ansonsten lohnt sich sicherlich ein Blick in die Liste aller <a href="/archive">Artikel</a>.</p>
-</div>
-{% endif %}
-
 {% for post in paginator.posts %}
 {% assign content = post.content %}
     {% include article.html %}
