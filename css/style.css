@@ -159,7 +159,7 @@ h1, h2 {
 #content p.image a {
   border: none; }
 
-#content ul, content ol {
+#content ul, #content ol {
   margin: 10px 0; }
   
 #content ul li {
@@ -324,6 +324,9 @@ h1, h2 {
 
 /* Pagination
 ----------------------------------------------------------- */
+
+#content .pagination {
+  margin: 25px 0 0 0; }
 
 #content .pagination li { 
   margin: 0; }
