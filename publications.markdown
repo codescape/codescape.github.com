@@ -9,6 +9,12 @@ Auf dieser Seite möchte ich von mir gehaltene [Vorträge](#vortrge) auf Messen 
 Vorträge
 --------
 
+### Mobile JavaScript-Web-Apps professionell entwickeln
+
+Das ist ein Workshop für alle diejenigen, die professionell mobile JavaScript-Web-Apps entwickeln möchten und sich dabei auch für innere Werte wie Wartbarkeit, Erweiterbarkeit und Testbarkeit interessieren. Nach einer kurzen Vorstellung des Übungsbeispiels und dem Setup der Entwicklungsumgebung beginnen wir mit testgetriebener JavaScript-Entwicklung. Anschließend widmen wir uns den Entwurfsmustern MVC, Dependency Injection und Data Binding sowie deren praktischer Umsetzung. Den Abschluss bildet die Implementierung der Oberfläche der Beispiel-App mit jQuery Mobile. Die Teilnehmer verlassen den Workshop mit einer JavaScript-Web-App, die auf den eigenen mobilen Endgeräten lauffähig ist. Voraussetzung für die umfangreichen Übungen sind ein Entwickler-Notebook und gute JavaScript-Grundkenntnisse.
+
+* Workshop auf der [JAX 2012](http://jax.de/2012/workshops/?tid=2344) mit Torsten Winterberg, Stefan Scheidt und Tobias Bosch am 16.04.2012
+
 ### GroovyFX entfesselt JavaFX 2.0
 
 JavaFX ist ein heißer Kandidat für einen zukünftigen Standard zur Entwicklung moderner Rich Internet Applications. Es bietet unter anderem eine Vielzahl an Widgets und Animationen, Unterstützung diverser Multimediainhalte sowie die Portierbarkeit auf verschiedenste Plattformen. Dabei setzt JavaFX auf den Stärken von Java auf und läuft in der Java Virtual Machine. Auch die dynamische Programmiersprache Groovy ist in der Java Virtual Machine zu Hause und qualifiziert sich als starker Partner, wenn es um die Entwicklung JavaFX-basierter Anwendungen unter dem Gesichtpunkt der Entwicklungseffizienz geht. Nach einer kurzen Einführung in die Sprache Groovy und die Plattform JavaFX wird dieser Vortrag das Framework GroovyFX als Bindeglied zwischen den beiden Technologien anhand von Beispielen und Sourcecode vorstellen.
@@ -20,7 +26,7 @@ JavaFX ist ein heißer Kandidat für einen zukünftigen Standard zur Entwicklung
 Grails ist ein Framework für Webapplikationen auf Basis der dynamisch typisierten Programmiersprache Groovy und bewährten Technologien wie dem Spring Framework und Hibernate. Eine Vielzahl von Plug-Ins macht es möglich, wiederkehrende Problemstellungen mit bewährten Lösungen umzusetzen. Dieser Vortrag startet mit einem kurzen Überblick über Groovy & Grails und zeigt im Anschluss an Beispielen und echtem Code eine Auswahl der interessantesten Funktionen und Möglichkeiten.
 
 * Vortrag auf der [Java User Group Ostfalen](http://www.jug-ostfalen.de) am 22.03.2012
-* Vortrag auf der [DOAG Konferenz 2011](http://www.doag.org/konferenz/doag/2011) am 17.11.2011
+* Vortrag auf der [DOAG Konferenz 2011](http://www.doag.org/konferenz/doag/2011) mit Michael Stähler am 17.11.2011
 
 ### Statische Code-Analyse für Groovy & Grails mit CodeNarc
 
