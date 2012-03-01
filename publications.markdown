@@ -49,13 +49,13 @@ Veröffentlichungen
 
 Grails ist ein Open Source Framework zur Entwicklung moderner Webapplikationen auf Basis der dynamisch typisierten Programmiersprache Groovy und bewährten Technologien wie dem Spring Framework, Hibernate und SiteMesh. Eine Vielzahl von Plug-Ins macht es zudem möglich, wiederkehrende Problemstellungen mit bewährten Lösungen umzusetzen. Dieser Artikel gibt einen Überblick über das Framework und zeigt anhand von kleinen Code-Beispielen interessante Aspekte bei der Entwicklung von Grails-Anwendungen.
 
-* Artikel in der [JAVAaktuell 02/2012](http://www.ijug.eu/index.php?option=com_content&view=article&id=10&Itemid=35)
+* Artikel in der [JAVAaktuell 02/2012](http://www.ijug.eu/index.php?option=com_content&view=article&id=10&Itemid=35) mit Christian Metzler
 
 ### ADF – eine Universallösung für Web-Anwendungen?
 
 ADF, das Application Development Framework von Oracle, wird als Komplettlösung für die Anwendungsentwicklung im Web empfohlen. Der 4-GL-Ansatz soll dabei insbesondere Forms-Entwicklern den Technologiewechsel erleichtern. In diesem Artikel wird den Fragen nachgegangen, wie und in welchen Szenarien sich ADF in der Praxis bewährt hat und welche Vor- und Nachteile gegenüber einem vergleichbaren Open-Source-Stack existieren.
 
-* Artikel in den [DOAG News Q1 2009](http://www.doag.de/publikationen/news.php)
+* Artikel in den [DOAG News Q1 2009](http://www.doag.de/publikationen/news.php) mit Christian Schmitz
 
 ### SpringSource Advanced Pack für die Oracle Datenbank
 
