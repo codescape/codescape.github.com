@@ -49,7 +49,7 @@ Veröffentlichungen
 
 Grails ist ein Open Source Framework zur Entwicklung moderner Webapplikationen auf Basis der dynamisch typisierten Programmiersprache Groovy und bewährten Technologien wie dem Spring Framework, Hibernate und SiteMesh. Eine Vielzahl von Plug-Ins macht es zudem möglich, wiederkehrende Problemstellungen mit bewährten Lösungen umzusetzen. Dieser Artikel gibt einen Überblick über das Framework und zeigt anhand von kleinen Code-Beispielen interessante Aspekte bei der Entwicklung von Grails-Anwendungen.
 
-* Artikel in der [JAVAaktuell 02/2012](http://www.ijug.eu/index.php?option=com_content&view=article&id=10&Itemid=35) mit Christian Metzler
+* Artikel in der [Java aktuell 02/2012](http://www.ijug.eu/index.php?option=com_content&view=article&id=10&Itemid=35) mit Christian Metzler
 
 ### ADF – eine Universallösung für Web-Anwendungen?
 
