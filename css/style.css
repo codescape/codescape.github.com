@@ -97,28 +97,25 @@ h1, h2 {
   font-size: 20px;
   line-height: 30px; }
 
-#container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 0 20px 40px 20px; }
+#container { }
 
 .tag {
   border: 0;
   border-radius: 2px;
-  background: rgba(255,255,255,0.4);
+  background: rgba(255, 255, 255, 0.4);
   padding: 2px 4px; }
   
 .tag:hover {
   border: 0;
-  background: rgba(255,255,255,0.9); }
+  background: rgba(255, 255, 255, 0.9); }
 
 /* Header
 ----------------------------------------------------------- */
 
 #header {
-  border-bottom: 1px dotted #666;
-  margin: 20px 0;
-  padding: 0 0 20px;
+  border-bottom: 1px solid #eee;
+  background: rgba(255, 255, 255, 0.4);
+  padding: 0 20px 20px;
   text-align: center; }
 
 #header > h1 {
@@ -138,9 +135,9 @@ h1, h2 {
 ----------------------------------------------------------- */
 
 #content {
-  border-bottom: 1px dotted #666;
-  margin: 20px 0;
-  padding: 0 0 20px; }
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 0 20px; }
 
 #content article header ul {
   color: #333;
@@ -341,12 +338,21 @@ h1, h2 {
   text-align: right;
   width: 40%; }
 
+/* Additional
+ ---------------------------------------------------------- */
+
+#additional {
+  border-top: 1px solid #eee;
+  background: rgba(255, 255, 255, 0.4);
+  padding: 0 20px 20px; }
+
 /* Twitter
 ----------------------------------------------------------- */
 
 #twitter {
+  max-width: 800px;
   border-bottom: 1px dotted #666;
-  margin: 20px 0;
+  margin: 20px auto;
   padding: 0 0 20px; }
 
 #twitter aside {
@@ -363,8 +369,9 @@ h1, h2 {
 ----------------------------------------------------------- */
 
 #elsewhere {
+  max-width: 800px;
   border-bottom: 1px dotted #666;
-  margin: 20px 0;
+  margin: 20px auto;
   padding: 0 0 20px; }
 
 #elsewhere ul {
@@ -387,6 +394,8 @@ h1, h2 {
 ----------------------------------------------------------- */
 
 #footer {
+  max-width: 800px;
+  margin: 20px auto;
   text-align: center;
   color: #333; }
 
