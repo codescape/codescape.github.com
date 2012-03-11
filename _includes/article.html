@@ -6,7 +6,7 @@
       {% if post.categories != empty %}
       <li>
         {% for category in post.categories %}
-          <a href="/categories/#{{ category }}" title="Artikel zum Thema {{ category | capitalize }}">{{ category | capitalize }}</a>{% unless category == post.categories.last %}, {% endunless %}
+          <a href="/categories/#{{ category }}" title="Artikel zum Thema {{ category | capitalize }}" class="tag">{{ category | capitalize }}</a>{% unless category == post.categories.last %}, {% endunless %}
         {% endfor %}
       </li>
       {% endif %}
