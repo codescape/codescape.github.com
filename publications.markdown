@@ -4,9 +4,9 @@ title: Publikationen
 permalink: publications/index.html
 ---
 
-Auf dieser Seite möchte ich von mir gehaltene [Vorträge](#vortrge) auf Messen und Konferenzen vorstellen und ankündigen sowie eine Liste der von mir verfassten oder mit meiner Beteiligung erstellten [Veröffentlichungen](#verffentlichungen) präsentieren.
+Auf dieser Seite möchte ich von mir gehaltene [Vorträge](#vortraege) auf Messen und Konferenzen vorstellen und ankündigen sowie eine Liste der von mir verfassten oder mit meiner Beteiligung erstellten [Veröffentlichungen](#veroeffentlichungen) präsentieren.
 
-Vorträge
+Vorträge {#vortraege}
 --------
 
 ### Mobile JavaScript-Web-Apps professionell entwickeln
@@ -42,14 +42,14 @@ Der Oracle Server ist nicht "nur" eine SQL-Datenbank, er bietet z.B. mit Support
 * Vortrag auf der [DOAG Konferenz 2008](http://www.doag.org/konferenz/doag/2008) am 01.12.2008
 * Vortrag auf der [Java User Group Cologne](http://jugcologne.org) am 13.10.2008
 
-Veröffentlichungen
+Veröffentlichungen {#veroeffentlichungen}
 -------
 
 ### Grails - Die Suche ist vorbei
 
 Grails ist ein Open Source Framework zur Entwicklung moderner Webapplikationen auf Basis der dynamisch typisierten Programmiersprache Groovy und bewährten Technologien wie dem Spring Framework, Hibernate und SiteMesh. Eine Vielzahl von Plug-Ins macht es zudem möglich, wiederkehrende Problemstellungen mit bewährten Lösungen umzusetzen. Dieser Artikel gibt einen Überblick über das Framework und zeigt anhand von kleinen Code-Beispielen interessante Aspekte bei der Entwicklung von Grails-Anwendungen.
 
-* Artikel in der [JAVAaktuell 02/2012](http://www.ijug.eu/index.php?option=com_content&view=article&id=10&Itemid=35) mit Christian Metzler
+* Artikel in der [Java aktuell 02/2012](http://www.ijug.eu/index.php?option=com_content&view=article&id=10&Itemid=35) mit Christian Metzler
 
 ### ADF – eine Universallösung für Web-Anwendungen?
 
