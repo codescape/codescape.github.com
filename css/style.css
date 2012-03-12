@@ -113,7 +113,7 @@ h1, h2 {
 ----------------------------------------------------------- */
 
 #header {
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.8);
   background: rgba(255, 255, 255, 0.4);
   padding: 0 20px 20px;
   text-align: center; }
@@ -277,9 +277,10 @@ h1, h2 {
 ----------------------------------------------------------- */
 
 .highlight {
-  background: #111;
+  background: rgba(255, 255, 255, 0.4);
   border-radius: 12px;
-  color: #eee; }
+  color: #111;
+  border: 1px solid rgba(255, 255, 255, 0.8); }
   
 .highlight .nb { /* Name.Builtin */
   color: #DA4939; }
@@ -342,7 +343,7 @@ h1, h2 {
  ---------------------------------------------------------- */
 
 #additional {
-  border-top: 1px solid #eee;
+  border-top: 1px solid rgba(255, 255, 255, 0.8);
   background: rgba(255, 255, 255, 0.4);
   padding: 0 20px 20px; }
 
