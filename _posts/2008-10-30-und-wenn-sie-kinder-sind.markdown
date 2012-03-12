@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Und wenn Sie Kinder sind...
-categories: foto spass lustig
+categories: diverses
 ---
 
 Da die Temperaturen im Moment nicht wirklich sommerlich zu nennen sind und auch das Tageslicht sich nur zu Zeiten zeigt, an denen ich arbeite, geht es in diesem Beitrag nicht um neue Tourenberichte mit dem Mountainbike sondern um etwas gänzlich anderes: Und zwar darum, was Waldorfkindergärten mit Switches und der nächsten Rechtschreibreform zu tun haben! Aber der Reihe nach…
