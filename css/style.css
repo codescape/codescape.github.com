@@ -295,19 +295,19 @@ h1, h2 {
   color: #DA4939; }
 
 .highlight .nv { /* Name.Variable */
-  color: #E8BF6A; }
+  color: #6D9CBE; }
 
 .highlight .s { /* Literal.String */
   color: #A5C261; }
 
 .highlight .n { /* ??? */
-  color: #E8BF6A; } 
+  color: #6D9CBE; } 
 
 .highlight .c { /* Comment */
-  color: #6D9CBE; }
+  color: #E8BF6A; }
   
 .highlight .cm { /* Comment.Multiline */
-  color: #6D9CBE; }
+  color: #E8BF6A; }
 
 /* Comments
 ----------------------------------------------------------- */
