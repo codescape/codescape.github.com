@@ -13,7 +13,11 @@ layout: default
       <li class="prev"><a href="/page{{ paginator.next_page }}" title="Ältere Beiträge">← Ältere Beiträge</a></li>
     {% endif %}
     {% if paginator.previous_page %}
-      <li class="next"><a href="/page{{ paginator.previous_page }}" title="Neuere Beiträge">Neuere Beiträge →</a></li>
+      {% if paginator.previous_page == 1 %}
+        <li class="next"><a href="/" title="Neuere Beiträge">Neuere Beiträge →</a></li>
+      {% else %}
+        <li class="next"><a href="/page{{ paginator.previous_page }}" title="Neuere Beiträge">Neuere Beiträge →</a></li>      
+      {% endif %}
     {% endif %}
   </ul>
 </nav>
