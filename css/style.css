@@ -70,10 +70,10 @@ em, strong {
   font-weight: 700; }
 
 blockquote {
+  background: rgba(255, 255, 255, 0.4);
   font-style: italic;
-  margin: 0 20px;
-  padding: 0 10px;
-  border-left: 1px dotted #373;
+  padding: 15px;
+  border-radius: 4px;
   text-align: justify; }
 
 pre {
@@ -206,7 +206,7 @@ h1, h2 {
 #content .flexslider .slides img {
   display: block;
   margin: 0 auto;
-  border-radius: 12px; } 
+  border-radius: 4px; } 
 
 #content .flexslider .flex-control-nav {
   text-align: center; }
@@ -239,8 +239,8 @@ h1, h2 {
   background: rgba(0, 0, 0, .3);
   color: white;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, .3);
-  border-bottom-left-radius: 12px;
-  border-bottom-right-radius: 12px; }
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px; }
 
 /* Bikemap Routes
 ----------------------------------------------------------- */
@@ -278,9 +278,8 @@ h1, h2 {
 
 .highlight {
   background: rgba(255, 255, 255, 0.4);
-  border-radius: 12px;
-  color: #111;
-  border: 1px solid rgba(255, 255, 255, 0.8); }
+  border-radius: 4px;
+  color: #111; }
   
 .highlight .nb { /* Name.Builtin */
   color: #DA4939; }
