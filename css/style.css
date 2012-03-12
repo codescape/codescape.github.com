@@ -352,9 +352,7 @@ h1, h2 {
 
 #twitter {
   max-width: 800px;
-  border-bottom: 1px dotted #666;
-  margin: 20px auto;
-  padding: 0 0 20px; }
+  margin: 20px auto; }
 
 #twitter aside {
   float: right;
