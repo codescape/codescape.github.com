@@ -72,7 +72,7 @@ em, strong {
 blockquote {
   background: rgba(255, 255, 255, 0.4);
   font-style: italic;
-  padding: 15px;
+  padding: 5px 15px 15px;
   border-radius: 4px;
   text-align: justify; }
 
