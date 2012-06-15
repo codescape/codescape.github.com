@@ -25,7 +25,8 @@ JavaFX ist ein heißer Kandidat für einen zukünftigen Standard zur Entwicklung
 
 Grails ist ein Framework für Webapplikationen auf Basis der dynamisch typisierten Programmiersprache Groovy und bewährten Technologien wie dem Spring Framework und Hibernate. Eine Vielzahl von Plug-Ins macht es möglich, wiederkehrende Problemstellungen mit bewährten Lösungen umzusetzen. Dieser Vortrag startet mit einem kurzen Überblick über Groovy & Grails und zeigt im Anschluss an Beispielen und echtem Code eine Auswahl der interessantesten Funktionen und Möglichkeiten.
 
-* Vortrag auf der [DOAG 2012 Development](http://www.doag.org/de/events/konferenzen/doag-2012-development.html) mit Christian Metzler am 14.06.2012
+* Vortrag auf der [CamelCaseCon 2012](http://www.camelcasecon.de) am 17.09.2012
+* Vortrag auf der [DOAG 2012 Development](http://www.doag.org/de/events/konferenzen/doag-2012-development.html) am 14.06.2012
 * Vortrag auf der [Java User Group Ostfalen](http://www.jug-ostfalen.de) am 22.03.2012
 * Vortrag auf der [DOAG Konferenz 2011](http://www.doag.org/konferenz/doag/2011) mit Michael Stähler am 17.11.2011
 
