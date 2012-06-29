@@ -49,14 +49,14 @@ html {
   overflow-y: scroll; }
 
 body {
-  background: #fff url('../images/wood_pattern.png');
+  background: #fff url('../images/noise.gif');
   font: normal 14px/24px 'Open Sans', sans-serif;
   color: #111; }
 
 a, a:visited {
-  color: #373;
+  color: rgba(229, 59, 44, 1);
   text-decoration: none;
-  border-bottom: 1px dotted #373;
+  border-bottom: 1px dotted rgba(229, 59, 44, 1);
   -moz-transition: all 0.5s ease;
   -webkit-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
@@ -135,7 +135,7 @@ h1, h2 {
 ----------------------------------------------------------- */
 
 #content {
-  max-width: 800px;
+  max-width: 700px;
   margin: 20px auto;
   padding: 0 20px; }
 
@@ -351,7 +351,7 @@ h1, h2 {
 ----------------------------------------------------------- */
 
 #twitter {
-  max-width: 800px;
+  max-width: 700px;
   margin: 20px auto; }
 
 #twitter aside {
@@ -368,8 +368,7 @@ h1, h2 {
 ----------------------------------------------------------- */
 
 #elsewhere {
-  max-width: 800px;
-  border-bottom: 1px dotted #666;
+  max-width: 700px;
   margin: 20px auto;
   padding: 0 0 20px; }
 
@@ -393,7 +392,7 @@ h1, h2 {
 ----------------------------------------------------------- */
 
 #footer {
-  max-width: 800px;
+  max-width: 700px;
   margin: 20px auto;
   text-align: center;
   color: #333; }
@@ -422,7 +421,7 @@ h1, h2 {
 /* Media Queries
 ----------------------------------------------------------- */
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 700px) {
 
   .github-ribbon {
     display: none; }
