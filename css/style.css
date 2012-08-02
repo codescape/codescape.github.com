@@ -343,9 +343,10 @@ h1, h2 {
  ---------------------------------------------------------- */
 
 #additional {
-  border-top: 1px solid rgba(255, 255, 255, 0.8);
-  background: rgba(255, 255, 255, 0.4);
-  padding: 0 20px 20px; }
+  border-top: 5px solid rgba(229, 59, 44, 1);
+  background: #111;
+  padding: 0 20px 20px;
+  color: #ddd; }
 
 /* Twitter
 ----------------------------------------------------------- */
@@ -394,8 +395,7 @@ h1, h2 {
 #footer {
   max-width: 700px;
   margin: 20px auto;
-  text-align: center;
-  color: #333; }
+  text-align: center; }
 
 #footer ul li {
   display: inline; }
