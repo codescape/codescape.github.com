@@ -348,6 +348,10 @@ h1, h2 {
   padding: 0 20px 20px;
   color: #ddd; }
 
+#additional a:hover {
+  color: #ddd;
+  border-bottom: 1px dotted #ddd; }
+
 /* Twitter
 ----------------------------------------------------------- */
 
