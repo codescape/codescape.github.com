@@ -338,7 +338,7 @@ h1, h2 {
 
 #additional {
   border-top: 5px solid rgba(229, 59, 44, 1);
-  background: #111;
+  background: #111 url('../images/footer.png');
   padding: 0 20px 20px;
   color: #ddd; }
 
