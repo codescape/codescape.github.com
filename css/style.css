@@ -121,6 +121,9 @@ h1, h2 {
 #header > h1 {
   color: #ddd; }
 
+#header a {
+  font-weight: bold; }
+
 #header a:hover {
   color: #ddd;
   border-bottom: 1px dotted #ddd; }
