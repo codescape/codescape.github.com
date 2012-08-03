@@ -192,56 +192,50 @@ h1, h2 {
   float: right;
   padding: 5px; }
 
-/* Gallery (http://flex.madebymufffin.com)
+/* Gallery (http://responsiveslides.com)
 ----------------------------------------------------------- */
 
-#content .flexslider {
-  max-width: 700px;
-  margin: 0 auto; }
-
-#content .flexslider li {
-  list-style: none;
+.rslides {
   position: relative;
-  margin: 0 auto; }
-
-#content .flexslider .slides img {
-  display: block;
-  margin: 0 auto;
-  border-radius: 4px; } 
-
-#content .flexslider .flex-control-nav {
-  text-align: center; }
-
-#content .flexslider .flex-control-nav li {
-  display: inline; }
-
-#content .flexslider .flex-control-nav a {
-  display: inline-block;
-  width: 12px;
-  height: 0;
-  padding-top: 12px;
-  background-image: url('../images/pagination.png');
-  background-position: 0 0;
+  list-style: none;
   overflow: hidden;
-  border: none; }
+  width: 100%;
+  padding: 0;
+  margin: 0; }
 
-#content .flexslider .flex-control-nav a.active {
-   background-position: 0 -12px; }
-
-.flex-direction-nav { /* for the moment hide 'next' and 'previous' controls */
-  display: none; }
-
-.flex-caption {
-  width: 96%;
-  padding: 2%;
+.rslides li {
   position: absolute;
+  display: none;
+  width: 100%;
   left: 0;
-  bottom: 0;
-  background: rgba(0, 0, 0, .3);
-  color: white;
-  text-shadow: 0 -1px 0 rgba(0, 0, 0, .3);
-  border-bottom-left-radius: 4px;
-  border-bottom-right-radius: 4px; }
+  top: 0; }
+
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left; }
+
+.rslides img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 100%;
+  border: 0; }
+
+#content ul.rslides_tabs {
+  text-align: right; }
+
+#content ul.rslides_tabs li {
+  position: relative;
+  list-style: none;
+  display: inline;
+  margin: 0 0 0 10px; }
+
+#content ul.rslides_tabs li a {
+  border: 0; }
+
+#content ul.rslides_tabs li.rslides_here a {
+  color: #111; }
 
 /* Bikemap Routes
 ----------------------------------------------------------- */

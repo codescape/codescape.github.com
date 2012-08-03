@@ -7,15 +7,15 @@ $(document).ready(function() {
   $('.gallery p').replaceWith(function() { return $(this).contents(); });
   
   /* assign style classes to gallery div and wrap it's contents inside a unordered list */
-  $('.gallery').addClass('flexslider').wrapInner('<ul class="slides"/>');
+  $('.gallery').wrapInner('<ul class="rslides"/>');
 
-  /* wrap every image inside a list element and extract alt text into caption paragraph */
-  $('.slides img').wrap('<li/>').each(function() {
-    $(this).after('<p class="flex-caption">' + $(this).attr('alt')  + '</p>');
+  /* wrap every image inside a list element */
+  $('.slides img').wrap('<li/>');
+
+  /* start the responsive slides */
+  $('.rslides').responsiveSlides({
+       pager: true
   });
-
-  /* start the flexslider */
-  $('.flexslider').flexslider();
 
   /* Single Images
   ------------------------------------------------------------------- */
