@@ -46,6 +46,12 @@ Der Oracle Server ist nicht "nur" eine SQL-Datenbank, er bietet z.B. mit Support
 Veröffentlichungen {#veroeffentlichungen}
 -------
 
+### Grooviges Gezwitscher
+
+Grails ist ein Open-Source-Framework zur Entwicklung moderner Webapplikationen auf Basis der dynamisch typisierten Programmiersprache Groovy und bewährten Technologien wie dem Spring Framework, Hibernate und SiteMesh. Eine Vielzahl von Plug-ins macht es zudem möglich, wieder- kehrende Problemstellungen mit bewährten Lösungen umzusetzen.
+
+* Artikel im [Java Magazin 12/2012](http://it-republik.de/jaxenter/java-magazin-ausgaben/Spring-000526.html) mit Christian Metzler
+
 ### Grails - Die Suche ist vorbei
 
 Grails ist ein Open Source Framework zur Entwicklung moderner Webapplikationen auf Basis der dynamisch typisierten Programmiersprache Groovy und bewährten Technologien wie dem Spring Framework, Hibernate und SiteMesh. Eine Vielzahl von Plug-Ins macht es zudem möglich, wiederkehrende Problemstellungen mit bewährten Lösungen umzusetzen. Dieser Artikel gibt einen Überblick über das Framework und zeigt anhand von kleinen Code-Beispielen interessante Aspekte bei der Entwicklung von Grails-Anwendungen.
