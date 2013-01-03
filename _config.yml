@@ -5,6 +5,7 @@ server: true
 permalink: /:year/:month/:day/:title/
 pygments: true
 paginate: 3
+future: false
 
 # site configuration
 # ------------------
