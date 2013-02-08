@@ -387,8 +387,7 @@ img::-moz-selection {
 
 #elsewhere {
   max-width: 700px;
-  margin: 20px auto;
-  padding: 0 0 20px; }
+  margin: 20px auto; }
 
 #elsewhere ul {
   text-align: center; }
