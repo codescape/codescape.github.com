@@ -49,28 +49,26 @@ html {
   overflow-y: scroll; }
 
 body {
-  background: #fff url('../images/noise.gif');
-  font: normal 13px/24px "Lucida Grande", "Lucida Sans Unicode", Lucida, Arial, Helvetica, sans-serif;
-  color: #111; }
+  background: #222 url('../images/dark_wood.png');
+  font: 300 14px/26px "Open Sans", sans-serif;
+  color: #eee; }
 
 a, a:visited {
-  color: #57AD68;
+  color: #F2B33D;
   text-decoration: none;
-  border-bottom: 1px dotted #57AD68;
   -moz-transition: all 0.5s ease;
   -webkit-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   transition: all 0.5s ease; }
 
 a:hover {
-  color: #111;
-  border-bottom: 1px dotted #111; }
+  color: #F22E2E; }
 
 em, strong {
   font-weight: 700; }
 
 blockquote {
-  background: rgba(255, 255, 255, 0.4);
+  background: rgba(0, 0, 0, 0.4);
   font-style: italic;
   padding: 5px 15px 15px;
   border-radius: 4px;
@@ -87,14 +85,14 @@ code {
   font: 0.85em/1em Monaco, monospace; }
 
 h1, h2, h3, h4 {
-  color: #333;
-  font-weight: bold;
+  color: #F22E2E;
+  font-weight: 300;
   margin: 20px 0 10px;
   letter-spacing: 1px; }
 
 h1, h2 {
-  font-size: 20px;
-  line-height: 30px; }
+  font-size: 26px;
+  line-height: 40px; }
 
 /* Tagging
 ----------------------------------------------------------- */
@@ -102,12 +100,12 @@ h1, h2 {
 .tag {
   border: 0;
   border-radius: 2px;
-  background: rgba(255, 255, 255, 0.4);
+  background: rgba(0, 0, 0, 0.4);
   padding: 2px 4px; }
   
 .tag:hover {
   border: 0;
-  background: rgba(255, 255, 255, 0.9); }
+  background: rgba(0, 0, 0, 0.9); }
 
 /* Selection
 ----------------------------------------------------------- */
@@ -130,26 +128,31 @@ img::-moz-selection {
 ----------------------------------------------------------- */
 
 #header {
-  border-bottom: 5px solid #57AD68;
-  background: #111 url('../images/black.png');  
-  padding: 0 20px 20px;
+  border-bottom: 1px solid #292929;
+  background: #111 url('../images/darkish.png');
   text-align: center; }
 
 #header > h1 {
-  color: #ddd; }
+  margin: 10px 0;  
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 25px; }
 
-#header a:hover {
-  color: #ddd;
-  border-bottom: 1px dotted #ddd; }
+#header > h1 > a, #header > h1 > a:hover {
+  color: #fff; }
 
-#header nav ul li {
-  display: inline;
+#header > nav {
+  display: inline-block; }
+
+#header li {
+  vertical-align: middle;
+  display: inline-block;
   margin: 0; }
 
-#header nav ul li:after {
+#header li:after {
   content: "\00A0\00A0\00B7\00A0\00A0"; }
 
-#header nav ul li:last-child:after {	
+#header li:last-child:after {	
   content: ""; }
 
 /* Content
@@ -161,7 +164,7 @@ img::-moz-selection {
   padding: 0 20px; }
 
 #content article header ul {
-  color: #333;
+  color: #666;
   margin: -10px 0 0 0;
   font-size: 0.85em; }
 
@@ -256,7 +259,7 @@ img::-moz-selection {
   border: 0; }
 
 #content ul.rslides_tabs li.rslides_here a {
-  color: #111; }
+  color: #F22E2E; }
 
 /* Bikemap Routes
 ----------------------------------------------------------- */
@@ -293,9 +296,9 @@ img::-moz-selection {
 ----------------------------------------------------------- */
 
 .highlight {
-  background: rgba(255, 255, 255, 0.4);
+  background: rgba(0, 0, 0, 0.4);
   border-radius: 4px;
-  color: #111; }
+  color: #fff; }
   
 .highlight .nb { /* Name.Builtin */
   color: #DA4939; }
@@ -358,14 +361,9 @@ img::-moz-selection {
  ---------------------------------------------------------- */
 
 #additional {
-  border-top: 5px solid #57AD68;
-  background: #111 url('../images/black.png');
-  padding: 0 20px 20px;
-  color: #ddd; }
-
-#additional a:hover {
-  color: #ddd;
-  border-bottom: 1px dotted #ddd; }
+  border-top: 1px solid #292929;
+  background: #111 url('../images/darkish.png');
+  padding: 0 20px 20px; }
 
 /* Twitter
 ----------------------------------------------------------- */
@@ -412,9 +410,11 @@ img::-moz-selection {
 ----------------------------------------------------------- */
 
 #footer {
+  color: #666;
   max-width: 700px;
   margin: 20px auto;
-  text-align: center; }
+  text-align: center;
+  font-size: 0.85em; }
 
 #footer ul li {
   display: inline; }
