@@ -432,11 +432,6 @@ img::-moz-selection {
   list-style: none;
   margin: 0; }
 
-#content #categories-links li {
-  list-style: none;
-  display: inline;
-  margin: 0 10px 0 0; }
-
 /* Media Queries
 ----------------------------------------------------------- */
 
