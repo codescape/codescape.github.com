@@ -6,7 +6,7 @@ permalink: about/index.html
 
 In diesem Blog möchte ich mich sowohl meinen Hobbies widmen, zu denen unter anderem das Mountainbiking und die Webentwicklung zählen, als auch einige Dinge aus meiner beruflichen Tätigkeit als Softwareberater und -entwickler im Java-Enterprise-Umfeld einfließen lassen.
 
-Schon in der Schulzeit zählte ich neben der Leichtathletik auch die Gestaltung von Webseiten zu meinen Hobbies. Dies schlug sich unter anderem in der Gestaltung der Internetseite des [Helmholtz-Gymnasium Hilden](http://www.hilden.de/hgh) in den Jahren 1997 bis 2003 nieder. Auch meine private Websete ist seit 1995 im Netz erreichbar und damit sogar bereits älter als Google.
+Schon in der Schulzeit zählte ich neben der Leichtathletik auch die Gestaltung von Webseiten zu meinen Hobbies. Dies schlug sich unter anderem in der Gestaltung der Internetseite des [Helmholtz-Gymnasium Hilden](http://www.hilden.de/hgh) in den Jahren 1997 bis 2003 nieder. Auch meine private Webseite ist seit 1995 im Netz erreichbar und damit sogar bereits älter als Google.
 
 ![Stefan](/images/about.jpg)
 
