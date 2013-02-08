@@ -129,7 +129,7 @@ img::-moz-selection {
 
 #header {
   border-bottom: 1px solid #292929;
-  background: #111 url('../images/darkish.png');
+  background: rgba(0, 0, 0, 0.4);
   text-align: center; }
 
 #header > h1 {
@@ -362,7 +362,7 @@ img::-moz-selection {
 
 #additional {
   border-top: 1px solid #292929;
-  background: #111 url('../images/darkish.png');
+  background: rgba(0, 0, 0, 0.4);
   padding: 0 20px 20px; }
 
 /* Twitter
