@@ -4,7 +4,13 @@ title: Themen
 permalink: categories/index.html
 ---
 
-Hier findet sich eine Liste aller Themen, zu denen Artikel in meinem Blog existieren.
+Hier findet sich eine Liste aller Themen, zu denen Artikel in meinem Blog existieren. Ein Klick auf das Thema führt zur Liste der mit diesem Thema assoziierten Beiträge:
+
+<ul id="categories-list">
+{% for category in site.categories %}
+  <li><a href="#{{ category | first }}">{{ category | first }}</a></li>
+{% endfor %}
+</ul>
 
 <ul id="categories">
 {% for category in site.categories %}
