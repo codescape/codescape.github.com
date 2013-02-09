@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring MessageSource mit UTF-8 Encoding
-categories: spring java messagesurce resourcebundle utf8
+categories: spring java messagesource resourcebundle utf8
 ---
 
 Dieser Artikel erklärt das Vorgehen, wenn bei der Internationalisierung von Spring-Anwendungen die Texte innerhalb von \*.properties-Dateien direkt im UTF-8 Encoding abgelegt und nicht auf das im JDK befindliche Werkzeug [native2ascii] zurückgegriffen werden soll.
