@@ -9,6 +9,14 @@ Auf dieser Seite möchte ich von mir gehaltene [Vorträge](#vortraege) auf Messe
 Vorträge {#vortraege}
 --------
 
+### BPM Roadshow -  Enterprise Integration mit der camunda BPM platform
+
+Mit der camunda BPM platform existiert im Gegensatz zu vielen BPM-Suiten eine sehr leichtgewichtige BPM-Lösung im Java-Umfeld. Dieser Vortrag stellt das mit OPITZ CONSULTING bei der Freenet AG durchgeführte Projekt vor, in welchem die camunda BPM platform erfolgreich eingesetzt werden konnte, um eine bestehende über die Jahre gewachsene Prozesslösung zu ersetzen. Mit der von der camunda BPM platform zugrundeliegenden BPMN 2.0 Notation konnten Fachbereich und IT zusammengebracht und so eine viel bessere Kommunikation über die zentralen Prozesse des Unternehmens etabliert werden.
+
+* Vortrag auf der [BPM Roadshow](http://www.opitz-consulting.com/bpm_roadshow_2013.php) in Köln am 25.06.2013
+* Vortrag auf der [BPM Roadshow](http://www.opitz-consulting.com/bpm_roadshow_2013.php) in Frankfurt am 26.06.2013
+* Vortrag auf der [BPM Roadshow](http://www.opitz-consulting.com/bpm_roadshow_2013.php) in München am 27.06.2013
+
 ### Mobile JavaScript-Web-Apps professionell entwickeln
 
 Dieser Workshop stellt die professionelle Entwicklung mobiler JavaScript-Web-Apps unter den Gesichtspunkten Wartbarkeit, Erweiterbarkeit und Testbarkeit vor. Nach einem kurzen Überblick über das Übungsbeispiel und dem Setup der Entwicklungsumgebung beginnen wir mit testgetriebener JavaScript-Entwicklung. Hierbei werden die Entwurfsmuster MVC, Dependency Injection und Data Binding in der praktische Umsetzung verprobt. Die Oberfläche der Beispiel-App wird mit jQuery Mobile implementiert. Die Teilnehmer verlassen den Workshop mit einer JavaScript-Web-App, die auf den eigenen mobilen Endgeräten lauffähig ist. Voraussetzung für die umfangreichen Übungen sind ein Entwickler-Notebook und gute JavaScript-Grundkenntnisse.
