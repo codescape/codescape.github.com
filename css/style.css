@@ -365,23 +365,6 @@ img::-moz-selection {
   background: rgba(0, 0, 0, 0.4);
   padding: 0 20px 20px; }
 
-/* Twitter
------------------------------------------------------------ */
-
-#twitter {
-  max-width: 720px;
-  margin: 20px auto; }
-
-#twitter aside {
-  float: right;
-  padding: 0 0 0 15px; }
-
-#twitter li {
-  margin: 0 0 10px 0; }
-
-#twitter li:last-of-type {
-  margin: 0; }
-
 /* Elsewhere
 ----------------------------------------------------------- */
 
