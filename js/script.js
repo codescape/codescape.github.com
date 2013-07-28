@@ -1,3 +1,10 @@
+/* Categories */
+
+function showCategory(name) {
+  $('#categories > li').hide();
+  $('#' + name).show();
+}
+
 $(document).ready(function() {
 
   /* Galleries
@@ -22,5 +29,30 @@ $(document).ready(function() {
   
   /* add the image class to paragraphs containing an image */
   $('article p:has(img)').addClass('image');
+
+  /* Categories
+  ------------------------------------------------------------------- */
+
+  if ($('#categories').length) {
+    // check for url fragment
+    var fragment = $.url().attr('fragment');
+
+    // hide all categories
+    $('#categories > li').hide();
+
+    // create list of categories
+    $('#categories').before('<ul id="categories-list"/>');
+
+    // fill list of categories
+    $("#categories > li").each(function(index) {
+      var category = $(this).find('h3').first().text();
+      $('#categories-list').append('<li><a href="#' + category + '" onclick="showCategory(\'' + category + '\')">' + category + '</a></li>');
+    });
+
+    // display selected catgeory
+    if (fragment) {
+      showCategory(fragment);
+    }
+  }
 
 });

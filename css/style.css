@@ -261,6 +261,21 @@ img::-moz-selection {
 #content ul.rslides_tabs li.rslides_here a {
   color: #F22E2E; }
 
+/* Categories
+----------------------------------------------------------- */
+
+#content #categories > li {
+  list-style: none;
+  margin: 0; }
+
+#content #categories-list {
+  text-align: center; }
+
+#content #categories-list > li {
+  list-style: none;
+  display: inline-block;
+  margin: 0 5px; }
+
 /* Bikemap Routes
 ----------------------------------------------------------- */
 
@@ -406,21 +421,6 @@ img::-moz-selection {
 
 #footer ul li:last-child:after {	
   content: ""; }
-
-/* Categories
------------------------------------------------------------ */
-
-#content #categories > li {
-  list-style: none;
-  margin: 0; }
-
-#content #categories-list {
-  text-align: center; }
-
-#content #categories-list > li {
-  list-style: none;
-  display: inline;
-  margin: 0 5px; }
 
 /* Media Queries
 ----------------------------------------------------------- */
