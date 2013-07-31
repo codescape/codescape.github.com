@@ -4,7 +4,7 @@ title: Logging der SQL-Statements in Oracle ADF
 categories: java oracle adf logging
 ---
 
-Während der Entwicklung einer Oracle ADF Anwendungen möchte man spätestens dann, wenn es zu Fehlern bei der Ausführung von Datenbankoperationen kommt, die von Oracle ADF ausgeführten SQL-Statements auf der Konsole nachvollziehen können. Hierzu geht man wie folgt vor:
+Während der Entwicklung von Anwendungen mit dem Oracle Application Development Framework (ADF) möchte man spätestens dann, wenn es zu Fehlern bei der Ausführung von Datenbankoperationen kommt, die von Oracle ADF ausgeführten SQL-Statements auf der Konsole nachvollziehen können. Hierzu geht man wie folgt vor:
 
 1. Im Menü des Oracle JDeveloper auf `Run` gehen. 
 1. Die Option `Choose Active Run Configuration` auswählen. 
