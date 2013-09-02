@@ -1,12 +1,12 @@
-Jekyll driven static site hosted on GitHub Pages replacing my former Wordpress blog.
+codescape.github.com
+====================
 
-Configuration
--------------
+This is my Jekyll driven static site hosted on GitHub Pages which replaced my former wordpress based blog in 2011. Since I wanted to keep this blog as simple as possible to lower the burden of writing posts I avoided using plugins that would make some aspects (e.g. tag pages) easier but would not work with GitHub Pages out of the box.
 
-Most aspects can be configured inside the `_config.yml` file.
+Instructions
+------------
 
-Creating a gallery
-------------------
+### Gallery
 
 To create a gallery simply upload the pictures and include them into a post in this way:
 
@@ -16,8 +16,7 @@ To create a gallery simply upload the pictures and include them into a post in t
       ![My third picture](/folder/to/third-picture.jpg)
     </div>
 
-Including a Bikemap route
--------------------------
+### Bikemap route
 
 To include a Bikemap route look up the route id from the Bikemap.
 
