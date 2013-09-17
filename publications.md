@@ -9,6 +9,12 @@ Auf dieser Seite möchte ich von mir gehaltene [Vorträge](#vortraege) auf Messe
 Vorträge {#vortraege}
 --------
 
+### Rapid Application Development mit Grails und AngularJS
+
+Mit Seiten-basierten Webanwendungen lassen sich keine Blumentöpfe mehr gewinnen. Nutzer erwarten und benötigen interaktive Inhalte, hohen Bedienkomfort und die Darstellung auf verschiedensten Medien. Solche Anforderungen müssen uns jedoch nicht mehr ins Schwitzen bringen. Der Vortrag zeigt am konkreten Beispiel, wie sich durch Kombination von Server- und Client-seitigen Application Development Frameworks eine höchst produktive Plattform für die Entwicklung individueller Rich Client Web Apps zusammen stellen lässt.
+
+* Vortrag auf der [OOP 2014](http://www.sigs-datacom.de/oop2014/konferenz/konferenzprogramm/conference-detail/rapid-application-development-mit-grails-und-angularjs.html) in München am 05.02.2014
+
 ### BPM Roadshow -  Enterprise Integration mit der camunda BPM platform
 
 Mit der camunda BPM platform existiert im Gegensatz zu vielen BPM-Suiten eine sehr leichtgewichtige BPM-Lösung im Java-Umfeld. Dieser Vortrag stellt das mit OPITZ CONSULTING bei der Freenet AG durchgeführte Projekt vor, in welchem die camunda BPM platform erfolgreich eingesetzt werden konnte, um eine bestehende über die Jahre gewachsene Prozesslösung zu ersetzen. Mit der von der camunda BPM platform zugrundeliegenden BPMN 2.0 Notation konnten Fachbereich und IT zusammengebracht und so eine viel bessere Kommunikation über die zentralen Prozesse des Unternehmens etabliert werden.
