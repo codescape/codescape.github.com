@@ -13,7 +13,7 @@ Vorträge {#vortraege}
 
 Mit Seiten-basierten Webanwendungen lassen sich keine Blumentöpfe mehr gewinnen. Nutzer erwarten und benötigen interaktive Inhalte, hohen Bedienkomfort und die Darstellung auf verschiedensten Medien. Solche Anforderungen müssen uns jedoch nicht mehr ins Schwitzen bringen. Der Vortrag zeigt am konkreten Beispiel, wie sich durch Kombination von Server- und Client-seitigen Application Development Frameworks eine höchst produktive Plattform für die Entwicklung individueller Rich Client Web Apps zusammen stellen lässt.
 
-* Vortrag auf der [OOP 2014](http://www.sigs-datacom.de/oop2014/konferenz/konferenzprogramm/conference-detail/rapid-application-development-mit-grails-und-angularjs.html) in München am 05.02.2014
+* Vortrag auf der [OOP 2014](http://www.sigs-datacom.de/oop2014/konferenz/konferenzprogramm/conference-detail/rapid-application-development-mit-grails-und-angularjs.html) mit Stefan Scheidt in München am 05.02.2014
 
 ### BPM Roadshow -  Enterprise Integration mit der camunda BPM platform
 
