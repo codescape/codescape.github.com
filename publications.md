@@ -19,6 +19,7 @@ Mit Seiten-basierten Webanwendungen lassen sich keine Blumentöpfe mehr gewinnen
 
 Mit der camunda BPM platform existiert im Gegensatz zu vielen BPM-Suiten eine sehr leichtgewichtige BPM-Lösung im Java-Umfeld. Dieser Vortrag stellt das mit OPITZ CONSULTING bei der Freenet AG durchgeführte Projekt vor, in welchem die camunda BPM platform erfolgreich eingesetzt werden konnte, um eine bestehende über die Jahre gewachsene Prozesslösung zu ersetzen. Mit der von der camunda BPM platform zugrundeliegenden BPMN 2.0 Notation konnten Fachbereich und IT zusammengebracht und so eine viel bessere Kommunikation über die zentralen Prozesse des Unternehmens etabliert werden.
 
+* Vortrag auf den [OC Days 2013](http://www.opitz-consulting.com) in Gummersbach am 15.06.2013
 * Vortrag auf der [BPM Roadshow](http://www.opitz-consulting.com/bpm_roadshow_2013.php) in Köln am 25.06.2013
 * Vortrag auf der [BPM Roadshow](http://www.opitz-consulting.com/bpm_roadshow_2013.php) in Frankfurt am 26.06.2013
 * Vortrag auf der [BPM Roadshow](http://www.opitz-consulting.com/bpm_roadshow_2013.php) in München am 27.06.2013
