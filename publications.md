@@ -15,7 +15,7 @@ Mit Seiten-basierten Webanwendungen lassen sich keine Blumentöpfe mehr gewinnen
 
 * Vortrag auf der [OOP 2014](http://www.sigs-datacom.de/oop2014/konferenz/konferenzprogramm/conference-detail/rapid-application-development-mit-grails-und-angularjs.html) mit Stefan Scheidt in München am 05.02.2014
 
-### BPM Roadshow -  Enterprise Integration mit der camunda BPM platform
+### Enterprise Integration mit der camunda BPM platform
 
 Mit der camunda BPM platform existiert im Gegensatz zu vielen BPM-Suiten eine sehr leichtgewichtige BPM-Lösung im Java-Umfeld. Dieser Vortrag stellt das mit OPITZ CONSULTING bei der Freenet AG durchgeführte Projekt vor, in welchem die camunda BPM platform erfolgreich eingesetzt werden konnte, um eine bestehende über die Jahre gewachsene Prozesslösung zu ersetzen. Mit der von der camunda BPM platform zugrundeliegenden BPMN 2.0 Notation konnten Fachbereich und IT zusammengebracht und so eine viel bessere Kommunikation über die zentralen Prozesse des Unternehmens etabliert werden.
 
@@ -23,6 +23,12 @@ Mit der camunda BPM platform existiert im Gegensatz zu vielen BPM-Suiten eine se
 * Vortrag auf der [BPM Roadshow](http://www.opitz-consulting.com/bpm_roadshow_2013.php) in Köln am 25.06.2013
 * Vortrag auf der [BPM Roadshow](http://www.opitz-consulting.com/bpm_roadshow_2013.php) in Frankfurt am 26.06.2013
 * Vortrag auf der [BPM Roadshow](http://www.opitz-consulting.com/bpm_roadshow_2013.php) in München am 27.06.2013
+
+### Agile Development by Example - Ein Theaterstueck in einer Iteration
+
+Die XY GmbH hat uns mit der Realisierung einer XY-Anwendung beauftragt. Die Anforderungen stehen noch nicht genau fest. Die Anwendung sollte am besten schon gestern fertig sein. Wie können wir dem Kunden helfen sein Problem so schnell wie möglich zu lösen? Agile Softwareentwicklung scheint die Rettung zu sein. Wir wagen die Anforderungsanalyse mittels Specification by Example, befüllen unser Backlog mit den ersten Stories und Tasks, organisieren uns über das Kanban-Board, implementieren zwischen den Daily Scrum Meetings mittels Grails, sprinten testgetrieben durch unsere erste Iteration. Die Abnahme erfolgt auf der bereitgestellten Anwendung in der Cloud, beendet durch die Retrospektive mit dem Team.
+
+* Vortrag auf den [OC Days 2013](http://www.opitz-consulting.com) in Gummersbach am 14.06.2013
 
 ### Mobile JavaScript-Web-Apps professionell entwickeln
 
