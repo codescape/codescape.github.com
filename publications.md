@@ -67,6 +67,12 @@ Der Oracle Server ist nicht "nur" eine SQL-Datenbank, er bietet z.B. mit Support
 Veröffentlichungen {#veroeffentlichungen}
 -------
 
+### Der Werkzeugkoffer fuer verteilte agile Teams
+
+Wenn agile Softwareentwicklung und verteilte Teams aufeinandertreffen, sehen sich die Beteiligten vor neue Anforderungen gestellt, um in einem agilen Team gemeinsam planen, arbeiten und im agilen Alltag miteinander kommunizieren zu können. Für das Team gilt es also, den Softwareentwicklungsprozess mit Werkzeugen und Methoden so zu unterstützen, dass trotz der räumlichen Distanz der Teammitglieder eine effektive Zusammenarbeit möglich ist. Dabei soll auch weiterhin aus guten Gründen der Forderung nach der höheren Bewertung von Individuen und Interaktionen vor Prozessen und Werkzeugen Rechnung getragen werden. (Vgl. Manifesto for Agile Software Development: „Individuals and interactions over processes and tools“) Dieser Artikel stellt einige Werkzeuge und Methoden vor, die sich in der Praxis bei verteilten Softwareentwicklungsprojekten für verschiedenste Szenarien im Projektalltag bewährt haben und klärt die Frage nach der richtigen Dosis.
+
+* Artikel im [Objekt Spektrum Online Themenspecial Agility 2013](http://www.sigs-datacom.de/fachzeitschriften/objektspektrum/archiv/artikelansicht.html?tx_mwjournals_pi1%5Bpointer%5D=0&tx_mwjournals_pi1%5Bmode%5D=1&tx_mwjournals_pi1%5BshowUid%5D=7504) 
+
 ### Grooviges Gezwitscher
 
 Grails ist ein Open-Source-Framework zur Entwicklung moderner Webapplikationen auf Basis der dynamisch typisierten Programmiersprache Groovy und bewährten Technologien wie dem Spring Framework, Hibernate und SiteMesh. Eine Vielzahl von Plug-ins macht es zudem möglich, wieder- kehrende Problemstellungen mit bewährten Lösungen umzusetzen.
