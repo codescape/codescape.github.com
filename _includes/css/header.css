@@ -1,0 +1,30 @@
+/* Header
+----------------------------------------------------------- */
+
+#header {
+  border-bottom: 1px solid #292929;
+  background: rgba(0, 0, 0, 0.4);
+  text-align: center; }
+
+#header > h1 {
+  margin: 10px 0;  
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 25px; }
+
+#header > h1 > a, #header > h1 > a:hover {
+  color: #fff; }
+
+#header > nav {
+  display: inline-block; }
+
+#header li {
+  vertical-align: middle;
+  display: inline-block;
+  margin: 0; }
+
+#header li:after {
+  content: "\00A0\00A0\00B7\00A0\00A0"; }
+
+#header li:last-child:after {	
+  content: ""; }

@@ -1,0 +1,12 @@
+/* Tagging
+----------------------------------------------------------- */
+
+.tag {
+  border: 0;
+  border-radius: 2px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 2px 4px; }
+  
+.tag:hover {
+  border: 0;
+  background: rgba(0, 0, 0, 0.9); }

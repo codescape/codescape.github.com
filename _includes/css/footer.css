@@ -1,0 +1,40 @@
+/* Additional
+ ---------------------------------------------------------- */
+
+#additional {
+  border-top: 1px solid #292929;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 0 20px 20px; }
+
+/* Elsewhere
+----------------------------------------------------------- */
+
+#elsewhere {
+  max-width: 720px;
+  margin: 20px auto; }
+
+#elsewhere ul {
+  text-align: center; }
+
+#elsewhere ul li {
+  display: inline; 
+  margin-right: 10px; }
+
+/* Footer
+----------------------------------------------------------- */
+
+#footer {
+  color: #666;
+  max-width: 720px;
+  margin: 20px auto;
+  text-align: center;
+  font-size: 0.85em; }
+
+#footer ul li {
+  display: inline; }
+
+#footer ul li:after {
+  content: "\00A0\00A0\00B7\00A0\00A0"; }
+
+#footer ul li:last-child:after {	
+  content: ""; }
