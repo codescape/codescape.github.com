@@ -1,13 +1,7 @@
-/* Additional
- ---------------------------------------------------------- */
-
 #additional {
   border-top: 1px solid #292929;
   background: rgba(0, 0, 0, 0.4);
   padding: 0 20px 20px; }
-
-/* Elsewhere
------------------------------------------------------------ */
 
 #elsewhere {
   max-width: 720px;
@@ -19,9 +13,6 @@
 #elsewhere ul li {
   display: inline; 
   margin-right: 10px; }
-
-/* Footer
------------------------------------------------------------ */
 
 #footer {
   color: #666;

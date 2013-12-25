@@ -1,6 +1,3 @@
-/* Global Settings
------------------------------------------------------------ */
-
 html {
   overflow-y: scroll; }
 
@@ -49,9 +46,6 @@ h1, h2, h3, h4 {
 h1, h2 {
   font-size: 26px;
   line-height: 40px; }
-
-/* Selection
------------------------------------------------------------ */
 
 ::selection {
   background: #333;

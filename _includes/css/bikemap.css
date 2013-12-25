@@ -1,6 +1,3 @@
-/* Bikemap Routes
------------------------------------------------------------ */
-
 .bikemap-route {  
   max-width: 100%;
   text-align: center;
@@ -11,9 +8,6 @@
   height: 400px;
   max-width: 100%;
   overflow: hidden; }
-
-/* Embedded Content
------------------------------------------------------------ */
 
 .elastic-iframe {
   position: relative;
