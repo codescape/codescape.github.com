@@ -1,6 +1,3 @@
-/* Content
------------------------------------------------------------ */
-
 #content {
   max-width: 720px;
   margin: 20px auto;
@@ -47,9 +44,6 @@
 #content img {
   max-width: 100%;
   border-radius: 4px; }
-
-/* Aside
------------------------------------------------------------ */
 
 #content aside.left-aligned {
   float: left;
