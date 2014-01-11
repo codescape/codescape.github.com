@@ -10,8 +10,7 @@ An diesem Wochenende startete bei perfektem Wetter die neueste Auflage der [Tour
 
 Für mich als langjährigen Stammgast gehörte die Teilnahme natürlich zum gerne absolvierten Pflichtprogramm! Gefahren bin ich die kürzere Runde mit knapp 35 Kilometern, vielen schönen Trails, tollen Aussichtspunkten und einer Menge netten Leuten.
 
-{% assign route = "898608" %}
-{% include bikemap_map.html %}
+<div class="gpxmap">2011-04-10-Radrebellen.gpx</div>
 
 Als “rasender Reporter” habe ich mit meiner Kamera auch unterwegs den einen oder anderen Teilnehmer vor die Linse bekommen. Wenn du dich auf einem Foto wieder findest und gerne die Originaldatei hättest, so schreibe mir doch bitte eine [E-Mail](/imprint) mit den gewünschten Bildnummern, damit ich dir die Originaldateien zuschicken kann.
 

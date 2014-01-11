@@ -16,9 +16,8 @@ To create a gallery simply upload the pictures and include them into a post in t
       ![My third picture](/folder/to/third-picture.jpg)
     </div>
 
-### Bikemap route
+### GPX map
 
-To include a Bikemap route look up the route id from the Bikemap.
+Including a GPX map is as easy as adding the following snippet referencing the GPX file inside the /gpx folder:
 
-    {% assign route = "ROUTE_ID" %}
-    {% include bikemap_map.html %}
+	<div class="gpxmap">2011-04-10-Radrebellen.gpx</div>
