@@ -6,8 +6,7 @@ categories: mountainbike gps tour solingen wuppertal
 
 Gestern lockte das schöne Wetter wieder einmal zu einer Ausfahrt mit dem Mountainbike. Gestartet wurde im Hildener Osten: Von hier aus ging es ein kurzes Stück entlang der Walderstraße bis wir in die Ohligser Heide einbogen. Vorbei am Engelsberger Hof und der Schwanenmühle umfuhren wir den Langenfelder Segelflugplatz. Von hier aus ging es stetig bergan in Richtung Solingen bis wir in das Nackerbachtal einbogen.
 
-{% assign route = '318700' %}
-{% include bikemap_map.html %}
+<div class="gpxmap">2009-09-20-Solingen.gpx</div>
 
 Nach dem Verlassen des Nackerbachtals war es nur noch ein kleines Stück bis zum ehemaligen Solinger Hauptbahnhof, an dem das [Cafe Stückgut](http://www.gueterhallen.com/stueckgut.html) zu einer kleinen Rast einlud. Anschließend folgten wir den Windungen der Korkenziehertrasse bis nach Solingen Gräfrath zum höchsten Punkt unserer Tour.
 
