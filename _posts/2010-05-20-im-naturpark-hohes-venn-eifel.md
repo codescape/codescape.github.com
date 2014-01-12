@@ -28,7 +28,6 @@ Zu viert starteten wir in Nettersheim zuerst über Wald- und Feldwege in Richtun
 
 An der Klostermauer entlang ging es nun weiter über einen Abschnitt des [Wanderweges Eifelsteig](http://www.eifelsteig.de) bis nach Rinnen und weiter über eine fast alpin anmutende Auf- und anschließende Abfahrt nach Sötenich. Auf den weiteren Kilometern zwischen Kall und Urft und weiter bis Nettersheim konnten wir noch einmal einige Höhenmeter sowohl bergauf als auch bergab sammeln während wir das hervorragende Wetter und die Landschaft genossen.
 
-{% assign route = '493934' %}
-{% include bikemap_map.html %}
+<div class="gpxmap">2010-05-20-Nettersheim.gpx</div>
 
 Nach einer [Strecke von etwa 36 Kilometern](http://www.bikemap.net/route/493934) und gefühlt etwas mehr als den angegebenen 670 Höhenmetern waren wir wieder am Ausgangspunkt der Tour am Bahnhof von Nettersheim angekommen. Hier lud der [Nettersheimer Hof](http://www.nettersheimerhof.de) mit seinem beschaulichen Biergarten zur Überbrückung der Wartezeit bis zur Ankunft der Bahn zurück nach Weilerswist ein.

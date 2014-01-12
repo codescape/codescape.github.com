@@ -8,8 +8,7 @@ Auf dem Programm für den diesjährigen Feiertag [Christi Himmelfahrt](http://de
 
 Gegen 10:30 Uhr trafen wir am vereinbarten Treffpunkt auf dem Wanderparkplatz in Neschen am südwestlichen Ende der Großen Dhünntalsperre ein. Nachdem aus den angekündigten fünf Mitfahrern und Mitfahrerinnen die stattliche Anzahl von acht geworden war starteten wir über Feldwege zuerst in nördlicher Richtung bis Bömberg und über Lindscheid dann in östlicher Richtung bis Schaffeld. Von da führte uns unser Guide über Waldwege dank bester Ortskenntnis mit dem ein oder anderen Höhenmeter im Uhrzeigersinn um die Große Dhünntalsperre herum.
 
-{% assign route = '489109' %}
-{% include bikemap_map.html %}
+<div class="gpxmap">2010-05-13-Dhuenntalsperre.gpx</div>
 
 Einzig die Umfahrung der Vorsperre Kleine Dhünn sparten wir uns und fuhren an dieser über die Sperrmauer auf die Ortschaft Unterberg zu. Von Unterberg aus ging es mit einer kleinen aber interessanten Etappe über die Landstraße L409, die zu diesem Zeitpunkt von diversen Rennradfahrern des Events “Rund um den Altenberger Dom” veranstaltet vom [RSG Burscheid](http://www.rsgburscheid.de) befahren wurde, um die Vorsperre Große Dhünn herum und auf schnellstem Wege wieder in Gelände in dem sich das Mountainbike besonders wohl fühlt.
 

@@ -10,8 +10,7 @@ Auf halben Wege stoppte ich bei einem Kollegen und nach Verladung meines Bikes i
 
 Nach der Aufteilung der knapp 50 Mountainbiker auf drei Gruppen ging es dann zusammen mit 7 Guides um kurz nach 12 Uhr endlich los. Schon auf den ersten 10 Kilometern ging es richtig zur Sache und die Hauptfahrrichtung könnte grob mit den Worten “nach oben” umschrieben werden. Nachdem dann aber etwa 300 Höhenmeter überbrückt waren lockte bei Kilometer 17 schon der Verpflegungsstand mit diversen Leckereien und war so für den ein oder anderen Ansporn genug um die Steigung am Anfang der Tour zu schaffen.
 
-{% assign route = '335410' %}
-{% include bikemap_map.html %}
+<div class="gpxmap">2009-10-12-Radrebellen.gpx</div>
 
 Nach einer ausgedehnten Stärkung, die auch zu einem kleineren Plausch und den ein oder anderen Technikdiskussionen einlud, trennte sich die 35km-Runde von der 45km-Runde, welche noch einen kleinen Abstecher in Richtung [Kirchsahr](http://www.kirchsahr.de) machte.
 

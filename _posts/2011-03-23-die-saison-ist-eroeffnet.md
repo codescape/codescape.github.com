@@ -10,7 +10,6 @@ Die Tage werden wieder länger und so kann auch nach der Arbeit mal wieder das M
 
 Und so war nach knapp 18 Kilometern und ca 370 Höhenmetern nicht nur die Puste aus sondern auch die Temperaturen und die schnell verschwindende Sonne verrieten, dass der Sommer noch nicht vollkommen in Gummersbach angekommen war.
 
-{% assign route = "867336" %}
-{% include bikemap_map.html %}
+<div class="gpxmap">2011-03-23-Gummersbach.gpx</div>
 
 Als Vorbereitung für die kommende [Tour mit den Radrebellen](http://www.rad-rebellen.de) am 10.04.2011 war das eine schöne Runde um die diesjährige Mountainbike-Saison für mich einzuleiten.
