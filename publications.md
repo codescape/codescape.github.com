@@ -9,11 +9,18 @@ Auf dieser Seite möchte ich von mir gehaltene [Vorträge](#vortraege) auf Messe
 Vorträge {#vortraege}
 --------
 
+### BPM - It's done when it is tested!
+
+Agiles Vorgehen macht vor keinem Projekt halt, erst recht nicht vor BPM-Projekten. Wie können wir mit einer performanten Testautomatisierung die Funktionalität und Wartbarkeit unserer automatisierten Prozesse sicherstellen? Wie lassen sich die bekannten und liebgewonnen Testmechanismen aus der Java-Welt auf die Prozessdenkweise übertragen? Anhand von Live-Beispielen auf der camunda BPM Plattform und der Oracle BPM Suite erläutern wir praxiserprobte Testarchitekturen und -lösungen.
+
+* Vortrag auf der [JAX 2014](http://jax.de/2014/sessions/bpm-its-done-when-it-tested) mit Torsten Winterberg am 15.05.2014
+
 ### Rapid Application Development mit Grails und AngularJS
 
 Mit Seiten-basierten Webanwendungen lassen sich keine Blumentöpfe mehr gewinnen. Nutzer erwarten und benötigen interaktive Inhalte, hohen Bedienkomfort und die Darstellung auf verschiedensten Medien. Solche Anforderungen müssen uns jedoch nicht mehr ins Schwitzen bringen. Der Vortrag zeigt am konkreten Beispiel, wie sich durch Kombination von Server- und Client-seitigen Application Development Frameworks eine höchst produktive Plattform für die Entwicklung individueller Rich Client Web Apps zusammen stellen lässt.
 
 * Vortrag auf der [OOP 2014](http://www.sigs-datacom.de/oop2014/konferenz/konferenzprogramm/conference-detail/rapid-application-development-mit-grails-und-angularjs.html) mit Stefan Scheidt in München am 05.02.2014
+* Vortrag auf der [JAX 2014](http://jax.de/2014/sessions/rapid-application-development-mit-grails-und-angular-js) mit Stefan Glase am 15.05.2014
 
 ### Enterprise Integration mit der camunda BPM platform
 
