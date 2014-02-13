@@ -5,6 +5,8 @@ function showCategory(name) {
   $('#' + name).show();
 }
 
+/* GPX maps */
+
 function showMap(file, id) {
   var map = L.map('track' + id);
   var url = '/gpx/' + file;
