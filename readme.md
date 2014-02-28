@@ -1,5 +1,5 @@
-codescape.github.com
-====================
+stefanglase.de
+==============
 
 This is my Jekyll driven static site hosted on GitHub Pages which replaced my former wordpress based blog in 2011. Since I wanted to keep this blog as simple as possible to lower the burden of writing posts I avoided using plugins that would make some aspects (e.g. tag pages) easier but would not work with GitHub Pages out of the box.
 
