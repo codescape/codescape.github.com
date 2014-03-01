@@ -18,11 +18,11 @@ Die [Relative Luminance Kata][kata] besteht aus vier inkrementellen Schritten, d
 
 ### Relative Leuchtkraft
 
-Im ersten Schritt gilt es die Relative Leuchtkraft für einen Farbwert zu berechnen. Mögliche Ergebnisse variieren dabei zwischen 0 (dunkelste Farbe) und 1 (hellste Farbe). Die Formel zur Berechnung der Relativen Leuchtwert lautet wie folgt:
+Im ersten Schritt gilt es die relative Leuchtkraft für einen Farbwert zu berechnen. Mögliche Ergebnisse variieren dabei zwischen 0 (dunkelste Farbe) und 1 (hellste Farbe). Die Formel zur Berechnung der relativen Leuchtkraft lautet wie folgt:
 
     L = 0.2126 * R + 0.7152 * G + 0.0722 * B
 
-wobei für R, G und B die folgende Formel gilt:
+wobei für R, G und B gilt:
 
     Wenn RsRGB <= 0.03928 dann R = RsRGB/12.92 ansonsten R = ((RsRGB+0.055)/1.055) ^ 2.4
     Wenn GsRGB <= 0.03928 dann G = GsRGB/12.92 ansonsten G = ((GsRGB+0.055)/1.055) ^ 2.4
@@ -34,7 +34,7 @@ und die RsRGB, GsRGB und BsRGB wie folgt definiert sind:
     GsRGB = G8bit/255
     BsRGB = B8bit/255
 
-In einfachem Groovy Code könnte ein mögliches Zwischenergebnis dann beispielsweise so aussehen:
+In einfachem Groovy Code könnte ein mögliches Zwischenergebnis dann beispielsweise so ausgedrückt werden:
 
 {% highlight groovy %}
 def relativeLuminance(def red, def green, def blue) {
@@ -43,10 +43,7 @@ def relativeLuminance(def red, def green, def blue) {
 
 def weight(def color) {
     def sRGB = color / 255
-    if (sRGB <= 0.03928)
-        sRGB / 12.92
-    else
-        Math.pow((sRGB + 0.055) / 1.055, 2.4)
+    sRGB <= 0.03928 ? sRGB / 12.92 : Math.pow((sRGB + 0.055) / 1.055, 2.4)
 }
 
 println relativeLuminance(0, 0, 0)
