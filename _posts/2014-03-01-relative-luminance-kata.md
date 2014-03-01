@@ -36,21 +36,23 @@ und die RsRGB, GsRGB und BsRGB wie folgt definiert sind:
 
 In einfachem Groovy Code könnte ein mögliches Zwischenergebnis dann beispielsweise so aussehen:
 
-    def relativeLuminance(def red, def green, def blue) {
-        0.2126 * weight(red) + 0.7152 * weight(green) + 0.0722 * weight(blue)
-    }
+{% highlight groovy %}
+def relativeLuminance(def red, def green, def blue) {
+    0.2126 * weight(red) + 0.7152 * weight(green) + 0.0722 * weight(blue)
+}
 
-    def weight(def color) {
-        def sRGB = color / 255
-        if (sRGB <= 0.03928)
-            sRGB / 12.92
-        else
-            Math.pow((sRGB + 0.055) / 1.055, 2.4)
-    }
+def weight(def color) {
+    def sRGB = color / 255
+    if (sRGB <= 0.03928)
+        sRGB / 12.92
+    else
+        Math.pow((sRGB + 0.055) / 1.055, 2.4)
+}
 
-    println relativeLuminance(0, 0, 0)
-    println relativeLuminance(64, 128, 0)
-    println relativeLuminance(255,255,255)
+println relativeLuminance(0, 0, 0)
+println relativeLuminance(64, 128, 0)
+println relativeLuminance(255,255,255)
+{% endhighlight %}
 
 ### Kontrastverhältnis 
 
@@ -60,19 +62,21 @@ Im zweiten Schritt soll das Kontrastverhältnis zweier Farben auf Basis der nun 
 
 wobei für L1 der Wert der Relativen Leuchtkraft der helleren Farbe und für L2 der Wert der Relativen Leuchtkraft der dunkleren Farbe eingesetzt wird. Auch das lässt sich mit Groovy recht einfach ausdrücken und nach einem kleinen Refactoring ist dabei noch ein Color-Objekt herausgefallen:
 
-    def contrastRatio(Color first, Color second) {
-        def firstLum = relativeLuminance(first)
-        def secondLum = relativeLuminance(second)
-        if (firstLum > secondLum)
-            (firstLum + 0.05) / (secondLum + 0.05)
-        else
-            (secondLum + 0.05) / (firstLum + 0.05)
-    }
+{% highlight groovy %}
+def contrastRatio(Color first, Color second) {
+    def firstLum = relativeLuminance(first)
+    def secondLum = relativeLuminance(second)
+    if (firstLum > secondLum)
+        (firstLum + 0.05) / (secondLum + 0.05)
+    else
+        (secondLum + 0.05) / (firstLum + 0.05)
+}
 
-    println contrastRatio(
-        new Color(red: 0, green: 0, blue: 0),
-        new Color(red: 255, green: 255, blue: 255)
-    )
+println contrastRatio(
+    new Color(red: 0, green: 0, blue: 0),
+    new Color(red: 255, green: 255, blue: 255)
+)
+{% endhighlight %}
 
 Das Kontrastverhältnis variiert mit dieser Formel zwischen 1:1 (kein Kontrast, z.B. schwarzer Text auf schwarzem Hintergrund) bis hin zu 21:1 (maximaler Kontrast, z.B. weißer Text auf schwarzem Hintergrund).
 
