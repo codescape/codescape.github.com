@@ -8,11 +8,11 @@ categories: craftsmanship software coding
 
 Katas mag der Eine oder Andere aus fernöstlichen Kampfsportarten wie beispielsweise Karate kennen. Eine Kata stellt dabei einen fest definierten Bewegungsablauf im Kampf gegen imaginäre Gegner dar. Dieser Ablauf wird durch Wiederholungen so oft eingeübt, bis der Ablauf in Fleisch und Blut übergeht und somit auch in realen Kämpfen abgerufen werden kann.
 
-Das Prinzip der Katas hat [Dave Thomas](http://codekata.pragprog.com/) auf die Softwareentwicklung übertragen und die sogenannten Coding Katas geprägt. Coding Katas stellen eine Programmierübung dar, anhand derer wir beispielsweise die  Verwendung der Entwicklungsumgebung, die Formulierung von Testfällen oder das Refactoring von Code trainieren können.
+Das Prinzip der Katas hat [Dave Thomas](http://codekata.pragprog.com/) auf die Softwareentwicklung übertragen und die sogenannten Coding Katas geprägt. Coding Katas stellen eine Programmierübung dar anhand derer wir beispielsweise die  Verwendung der Entwicklungsumgebung, die Formulierung von Testfällen oder das Refactoring von Code trainieren können.
 
 ### Relative Luminance Kata
 
-Einmal im Monat treffen wir uns bei [OPITZ CONSULTING](http://www.opitz-consulting.com/) um uns gemeinsam an einem Programmierabend beispielsweise der Durchführung von Coding Katas zu widmen. Da wir bei unserem letzten Event auch einige Kollegen mit Fokus auf PL/SQL dabei hatten, habe ich mir eine eher algorithmische Aufgabe ausgedacht, über die ich vor einiger Zeit im Rahmen der Erstellung meiner kleinen Bibliothek [BitvUnit](http://bitvunit.codescape.de/) zur Sicherstellung von Regeln der Barrierefreiheit gestolpert bin.
+Einmal im Monat treffen wir uns bei [OPITZ CONSULTING](http://www.opitz-consulting.com/) um uns gemeinsam an einem Programmierabend beispielsweise der Durchführung von Coding Katas zu widmen. Da wir bei unserem letzten Event auch einige Kollegen ohne Java-Kenntnisse dabei hatten, habe ich mir eine eher algorithmische und sprachenneutrale Aufgabe ausgedacht, über die ich im Rahmen der Erstellung meiner kleinen Bibliothek [BitvUnit](http://bitvunit.codescape.de/) zur Sicherstellung von Regeln der Barrierefreiheit gestolpert bin.
 
 Die [Relative Luminance Kata][kata] besteht aus vier inkrementellen Schritten, die im Erfolgsfall zu einem Programm führen, mit welchem bei Eingabe von zwei Farbcodes(CMYK oder RGB) das Kontrastverhältnis basierend auf der relativen Leuchtkraft beider Farben berechnet und mit den Mindestanforderungen der [WCAG 2.0][wcag] abgeglichen werden können.
 
