@@ -20,4 +20,10 @@ To create a gallery simply upload the pictures and include them into a post in t
 
 Including a GPX map is as easy as adding the following snippet referencing the GPX file inside the /gpx folder:
 
-	<div class="gpxmap">2011-04-10-Radrebellen.gpx</div>
+    <div class="gpxmap">2011-04-10-Radrebellen.gpx</div>
+
+### Code Highlighting
+
+    {% highlight groovy %}
+    // code here
+    {% endhighlight %}
