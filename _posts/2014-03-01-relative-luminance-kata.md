@@ -66,10 +66,7 @@ wobei für L1 der Wert der Relativen Leuchtkraft der helleren Farbe und für L2 
 def contrastRatio(Color first, Color second) {
     def firstLum = relativeLuminance(first)
     def secondLum = relativeLuminance(second)
-    if (firstLum > secondLum)
-        (firstLum + 0.05) / (secondLum + 0.05)
-    else
-        (secondLum + 0.05) / (firstLum + 0.05)
+    (Math.max(firstLum, secondLum) + 0.05) / (Math.min(firstLum, secondLum) + 0.05)
 }
 
 println contrastRatio(
