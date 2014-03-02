@@ -1,7 +1,5 @@
 # jekyll configuration
 # --------------------
-auto: true
-server: true
 permalink: /:year/:month/:day/:title/
 pygments: true
 paginate: 3
