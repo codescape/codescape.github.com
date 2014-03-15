@@ -9,7 +9,7 @@ function showCategory(name) {
 
 function showMap(file, id) {
   var map = L.map('track' + id);
-  var url = '/gpx/' + file;
+  var url = '/files/gpx/' + file;
   L.tileLayer('http://{s}.tile.opencyclemap.org/cycle/{z}/{x}/{y}.png', {
     attribution: '<a href="http://opencyclemap.org">OpenCycleMap</a> | <a href="' + url + '">Download GPX</a>',
     maxZoom: 18
