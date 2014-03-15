@@ -78,28 +78,28 @@ Veröffentlichungen {#veroeffentlichungen}
 
 Wenn agile Softwareentwicklung und verteilte Teams aufeinandertreffen, sehen sich die Beteiligten vor neue Anforderungen gestellt, um in einem agilen Team gemeinsam planen, arbeiten und im agilen Alltag miteinander kommunizieren zu können. Für das Team gilt es also, den Softwareentwicklungsprozess mit Werkzeugen und Methoden so zu unterstützen, dass trotz der räumlichen Distanz der Teammitglieder eine effektive Zusammenarbeit möglich ist. Dabei soll auch weiterhin aus guten Gründen der Forderung nach der höheren Bewertung von Individuen und Interaktionen vor Prozessen und Werkzeugen Rechnung getragen werden. (Vgl. Manifesto for Agile Software Development: „Individuals and interactions over processes and tools“) Dieser Artikel stellt einige Werkzeuge und Methoden vor, die sich in der Praxis bei verteilten Softwareentwicklungsprojekten für verschiedenste Szenarien im Projektalltag bewährt haben und klärt die Frage nach der richtigen Dosis.
 
-* Artikel im [Objekt Spektrum Online Themenspecial Agility 2013](http://www.sigs-datacom.de/fachzeitschriften/objektspektrum/archiv/artikelansicht.html?tx_mwjournals_pi1%5Bpointer%5D=0&tx_mwjournals_pi1%5Bmode%5D=1&tx_mwjournals_pi1%5BshowUid%5D=7504) 
+* Artikel im [Objekt Spektrum Online Themenspecial Agility 2013](/files/publications/2013-objekt-spektrum--online-der-werkzeugkoffer-fuer-verteilte-agile-teams.pdf) 
 
 ### Grooviges Gezwitscher
 
 Grails ist ein Open-Source-Framework zur Entwicklung moderner Webapplikationen auf Basis der dynamisch typisierten Programmiersprache Groovy und bewährten Technologien wie dem Spring Framework, Hibernate und SiteMesh. Eine Vielzahl von Plug-ins macht es zudem möglich, wieder- kehrende Problemstellungen mit bewährten Lösungen umzusetzen.
 
-* Artikel im [Java Magazin 12/2012](http://it-republik.de/jaxenter/java-magazin-ausgaben/Spring-000526.html) mit Christian Metzler
+* Artikel im [Java Magazin 12/2012](/files/publications/2012-java-magazin-grooviges-gezwitscher.pdf) mit Christian Metzler
 
 ### Grails - Die Suche ist vorbei
 
 Grails ist ein Open Source Framework zur Entwicklung moderner Webapplikationen auf Basis der dynamisch typisierten Programmiersprache Groovy und bewährten Technologien wie dem Spring Framework, Hibernate und SiteMesh. Eine Vielzahl von Plug-Ins macht es zudem möglich, wiederkehrende Problemstellungen mit bewährten Lösungen umzusetzen. Dieser Artikel gibt einen Überblick über das Framework und zeigt anhand von kleinen Code-Beispielen interessante Aspekte bei der Entwicklung von Grails-Anwendungen.
 
-* Artikel in der [Java aktuell 02/2012](http://www.ijug.eu/index.php?option=com_content&view=article&id=10&Itemid=35) mit Christian Metzler
+* Artikel in der [Java aktuell 02/2012](/files/publications/2012-java-aktuell-grails-die-suche-ist-vorbei.pdf) mit Christian Metzler
 
 ### ADF – eine Universallösung für Web-Anwendungen?
 
 ADF, das Application Development Framework von Oracle, wird als Komplettlösung für die Anwendungsentwicklung im Web empfohlen. Der 4-GL-Ansatz soll dabei insbesondere Forms-Entwicklern den Technologiewechsel erleichtern. In diesem Artikel wird den Fragen nachgegangen, wie und in welchen Szenarien sich ADF in der Praxis bewährt hat und welche Vor- und Nachteile gegenüber einem vergleichbaren Open-Source-Stack existieren.
 
-* Artikel in den [DOAG News Q1 2009](http://www.doag.de/publikationen/news.php) mit Christian Schmitz
+* Artikel in den [DOAG News Q1 2009](/files/publications/2009-doag-news-adf-eine-universalloesung-fuer-webanwendungen.pdf) mit Christian Schmitz
 
 ### SpringSource Advanced Pack für die Oracle Datenbank
 
 Der Oracle Datenbank-Server hat sich unter anderem durch umfangreiche Unterstützung kritischer Funktionen wie Replikation, Clustering und komplexer Datentypen als Markt- und Technologieführer etabliert. Das Spring Framework ist ein Applikations-Framework für die Java-Plattform auf Open-Source-Basis und verfolgt das Ziel, die Entwicklung von Java-Enterprise-Anwendungen zu vereinfachen und gute Programmierpraktiken zu fördern. Im Vordergrund steht hierbei die Unterstützung für das Zusammenspiel und die Austauschbarkeit lose gekoppelter Komponenten.
 
-* Artikel in den [DOAG News Q3 2008](http://www.doag.de/publikationen/news.php)
+* Artikel in den [DOAG News Q3 2008](/files/publications/2008-doag-news-springsource-advanced-pack-fuer-die-oracle-datenbank.pdf)
