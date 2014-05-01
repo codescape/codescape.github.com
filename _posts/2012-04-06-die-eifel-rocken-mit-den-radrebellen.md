@@ -10,6 +10,6 @@ Als treue Teilnehmer konnten wir auch dieses Mal den Verlockungen von tollen Tra
 
 Ein paar Impressionen und Auschnitte aus der Tour habe ich mit meiner Kamera festgehalten und nun zu einem 3-minütigen Clip zusammengeschnitten. Viel Spaß beim Anschauen!
 
-<div class="elastic-iframe"><iframe src="http://player.vimeo.com/video/39858436?title=0&amp;byline=0&amp;portrait=0" width="700" height="394" frameborder="0" webkitAllowFullScreen="webkitAllowFullScreen" allowFullScreen="allowFullScreen">&nbsp;</iframe></div>
+<div class="elastic-iframe"><iframe src="//player.vimeo.com/video/39858436?portrait=0&amp;color=f2b33d" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 Wer einen guten Rechner hat, kann am Besten direkt zu [Vimeo](http://vimeo.com/39858436) wechseln und dort das Video auch in HD-Qualität betrachten.

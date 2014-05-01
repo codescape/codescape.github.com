@@ -6,7 +6,7 @@ categories: bikepark stromberg flowtrail emser mountainbike video
 
 Am vergangenen Wochenende standen direkt zwei Bike-Ereignisse an einem Tag für uns an. Schon früh morgens starteten wir in Richtung Stromberg und konnten so als Erste an diesem Tag die uns schon aus dem letzten Jahr bekannte und nur in kleinen Teilen erweiterte oder umgestalteten Strecken des [Flowtrail Stromberg](http://www.flowtrail-stromberg.de/) befahren.
 
-<div class="elastic-iframe"><iframe src="http://player.vimeo.com/video/93423943?title=0&amp;byline=0&amp;portrait=0" width="700" height="394" frameborder="0" webkitAllowFullScreen="webkitAllowFullScreen" allowFullScreen="allowFullScreen">&nbsp;</iframe></div>
+<div class="elastic-iframe"><iframe src="//player.vimeo.com/video/93423943?portrait=0&amp;color=f2b33d" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 Nach diversen Abfahren und einer spassigen Fotosession packten wir bereits am frühen Nachmittag die Räder wieder hinter beziehungsweise in die Autos und brachen in Richtung Koblenz auf, denn ganz in der Nähe von Koblenz öffnete an diesem Tag der [Emser Bikepark](http://www.emser-bikepark.de/) mit umfangreichem Programm seine Pforten für abfahrtsorientierte Mountainbiker. Das wollten wir uns natürlich nicht entgehen lassen!
 

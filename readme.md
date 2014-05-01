@@ -27,3 +27,9 @@ Including a GPX map is as easy as adding the following snippet referencing the G
     {% highlight groovy %}
     // code here
     {% endhighlight %}
+
+### Vimeo video
+
+To embed a vimeo video I am using this code:
+
+    <div class="elastic-iframe"><iframe src="//player.vimeo.com/video/93423943?portrait=0&amp;color=f2b33d" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>

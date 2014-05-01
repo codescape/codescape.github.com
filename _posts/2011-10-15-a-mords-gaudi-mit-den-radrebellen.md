@@ -8,6 +8,6 @@ Bereits zum siebten Mal haben die [Radrebellen](http://www.rad-rebellen.de) am 2
 
 Was erwartete die Teilnehmer auf einer Tour mit dem Motto "A mords Gaudi"? Die Radrebellen lieferten uns dann mit einer Menge schicker Trails, netten Mitfahrern und Mitfahrerinnen, wunderbarem Oktoberwetter bei strahlendem Sonnenschein und einem leckeren Verpflegungsstand mit Kaffee, Kuchen und verschiedenen Getränken die Übersetzung für das Motto der Tour.
 
-<div class="elastic-iframe"><iframe src="http://player.vimeo.com/video/30275606?title=0&amp;byline=0&amp;portrait=0" width="700" height="394" frameborder="0" webkitAllowFullScreen="webkitAllowFullScreen" allowFullScreen="allowFullScreen">&nbsp;</iframe></div>
+<div class="elastic-iframe"><iframe src="//player.vimeo.com/video/30275606?portrait=0&amp;color=f2b33d" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 Schon jetzt freue ich mich auf den Frühling, wenn es neben wieder länger werdenden Tagen und angenehmeren Temperaturen zum Mountainbiken hoffentlich auch wieder eine neue Tour mit und von den [Radrebellen](http://www.rad-rebellen.de) geben wird.
