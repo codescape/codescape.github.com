@@ -3,6 +3,7 @@
 permalink: /:year/:month/:day/:title/
 pygments: true
 paginate: 3
+markdown: kramdown
 
 # site configuration
 # ------------------
