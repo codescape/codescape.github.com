@@ -1,0 +1,3 @@
+#!/bin/sh
+# meh! I always forget the command...
+jekyll serve -w
