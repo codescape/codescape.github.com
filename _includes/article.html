@@ -11,7 +11,8 @@
       </li>
       {% endif %}
       <li>{{ content | number_of_words }} Wörter</li>
-      {% if is_single %}<li><a href="{{ post.url}}">Permalink</a></li>{% endif %}
+      <li><a href="{{ post.url }}#comments" data-disqus-identifier="{{ site.url }}{{ post.url }}">Kommentare</a></li>
+      {% if is_single %}<li><a href="{{ post.url }}">Permalink</a></li>{% endif %}
     </ul>          
   </header>
 
