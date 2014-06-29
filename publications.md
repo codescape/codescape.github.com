@@ -14,6 +14,7 @@ Vorträge {#vortraege}
 Agiles Vorgehen macht vor keinem Projekt halt, erst recht nicht vor BPM-Projekten. Wie können wir mit einer performanten Testautomatisierung die Funktionalität und Wartbarkeit unserer automatisierten Prozesse sicherstellen? Wie lassen sich die bekannten und liebgewonnen Testmechanismen aus der Java-Welt auf die Prozessdenkweise übertragen? Anhand von Live-Beispielen auf der camunda BPM Plattform und der Oracle BPM Suite erläutern wir praxiserprobte Testarchitekturen und -lösungen.
 
 * Vortrag auf der [JAX 2014](http://jax.de/2014/sessions/bpm-its-done-when-it-tested) mit Attila Németh am 15.05.2014
+* Vortrag auf den [CU SOA/BPM Days](http://www.opitz-consulting.com) mit Attila Németh am 28.06.2014
 
 ### Rapid Application Development mit Grails und AngularJS
 
