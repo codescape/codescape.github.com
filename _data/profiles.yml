@@ -1,0 +1,43 @@
+- service: twitter
+  username: stefanglase
+  url: http://www.twitter.com/stefanglase
+
+- service: google+
+  username: stefanglase
+  url: http://www.google.com/+StefanGlase
+
+- service: github
+  username: codescape
+  url: http://www.github.com/codescape
+
+- service: sxc
+  username: caseaplace
+  url: http://www.sxc.hu/profile/caseaplace
+
+- service: stackoverflow
+  username: stefanglase
+  url: http://stackoverflow.com/users/266268/stefanglase
+
+- service: bikemap
+  username: caseaplace
+  url: http://www.bikemap.net/user/caseaplace
+
+- service: facebook
+  username: stefan.glase
+  url: http://www.facebook.com/stefan.glase
+
+- service: xing
+  username: stefan_glase
+  url: http://www.xing.com/profile/Stefan_Glase
+
+- service: vimeo
+  username: codescape
+  url: http://vimeo.com/codescape
+
+- service: instagram
+  username: stefanglase
+  url: http://instagram.com/stefanglase
+
+- service: lanyrd
+  username: stefanglase
+  url: http://lanyrd.com/profile/stefanglase

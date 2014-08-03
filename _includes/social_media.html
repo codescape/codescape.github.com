@@ -1,13 +1,5 @@
 <ul>
-  <li><a href="http://www.twitter.com/stefanglase"><strong>twitter</strong>/stefanglase</a></li>
-  <li><a href="http://www.google.com/+StefanGlase"><strong>google+</strong>/stefanglase</a></li>
-  <li><a href="http://www.github.com/codescape"><strong>github</strong>/codescape</a></li>
-  <li><a href="http://www.sxc.hu/profile/caseaplace"><strong>sxc</strong>/caseaplace</a></li>
-  <li><a href="http://stackoverflow.com/users/266268/stefanglase"><strong>stackoverflow</strong>/stefanglase</a></li>
-  <li><a href="http://www.bikemap.net/user/caseaplace"><strong>bikemap</strong>/caseaplace</a></li>
-  <li><a href="http://www.facebook.com/stefan.glase"><strong>facebook</strong>/stefan.glase</a></li>
-  <li><a href="http://www.xing.com/profile/Stefan_Glase"><strong>xing</strong>/stefan_glase</a></li>
-  <li><a href="http://vimeo.com/codescape"><strong>vimeo</strong>/caseaplace</a></li>
-  <li><a href="http://instagram.com/stefanglase"><strong>instagram</strong>/stefanglase</a></li>
-  <li><a href="http://lanyrd.com/profile/stefanglase"><strong>lanyrd</strong>/stefanglase</a></li>
+{% for profile in site.data.profiles %}
+  <li><a href="{{profile.url}}"><strong>{{profile.service}}</strong>/{{profile.username}}</a></li>
+{% endfor %}
 </ul>
