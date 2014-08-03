@@ -1,7 +1,7 @@
 # jekyll configuration
 # --------------------
 permalink: /:year/:month/:day/:title/
-pygments: true
+highlighter: pygments
 paginate: 3
 markdown: kramdown
 
