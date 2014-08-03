@@ -4,7 +4,7 @@ permalink: /:year/:month/:day/:title/
 highlighter: pygments
 paginate: 3
 markdown: kramdown
-exclude: ['readme.md', 'Gemfile.lock', 'Gemfile', 'run.sh']
+exclude: ['readme.md', 'Gemfile.lock', 'Gemfile', 'run.sh', 'CNAME']
 
 # site configuration
 # ------------------
