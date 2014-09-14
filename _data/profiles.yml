@@ -10,10 +10,6 @@
   username: codescape
   url: http://www.github.com/codescape
 
-- service: sxc
-  username: caseaplace
-  url: http://www.sxc.hu/profile/caseaplace
-
 - service: stackoverflow
   username: stefanglase
   url: http://stackoverflow.com/users/266268/stefanglase
