@@ -9,6 +9,13 @@ Auf dieser Seite möchte ich von mir gehaltene [Vorträge](#vortraege) auf Messe
 Vorträge {#vortraege}
 --------
 
+### Agilität entmystifiziert
+
+In unserer Rolle als Agile Coaches haben wir bereits in viele unterschiedliche Projekte und Unternehmen hineinschauen und bei der Einführung von Agilen Methoden und Werten unterstützen können. Anhand von kleinen Geschichten aus Projekten und Situationen unserer Mitarbeiter und Kunden wollen wir in diesem Vortrag die Nebelschleier rund um einige Mythen der Agile Softwareentwicklung auflösen.
+
+* Vortrag auf dem [Agile Retreat v3](http://www.opitz-consulting.vom) mit Christian Linck in München am 19.09.2014
+* Vortrag auf dem [QVC IT Technologie Tag](http://www.qvc.de) mit Christian Linck in Bochum am 23.09.2014
+
 ### BPM - It's done when it is tested!
 
 Agiles Vorgehen macht vor keinem Projekt halt, erst recht nicht vor BPM-Projekten. Wie können wir mit einer performanten Testautomatisierung die Funktionalität und Wartbarkeit unserer automatisierten Prozesse sicherstellen? Wie lassen sich die bekannten und liebgewonnen Testmechanismen aus der Java-Welt auf die Prozessdenkweise übertragen? Anhand von Live-Beispielen auf der camunda BPM Plattform und der Oracle BPM Suite erläutern wir praxiserprobte Testarchitekturen und -lösungen.
