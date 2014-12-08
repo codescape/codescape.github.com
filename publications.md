@@ -16,6 +16,7 @@ In unserer Rolle als Agile Coaches haben wir bereits in viele unterschiedliche P
 * Vortrag auf dem [Agile Retreat v3](http://www.opitz-consulting.vom) mit Christian Linck in München am 19.09.2014
 * Vortrag auf dem [QVC IT Technologie Tag](http://www.qvc.de) mit Christian Linck in Bochum am 23.09.2014
 * Vortrag auf den [CU SD Days](http://www.opitz-consulting.vom) mit Christian Linck in Brühl am 08.11.2014
+* Vortrag auf der [Insight 2014](http://www.insight2014.de/) mit Christian Linck in Nürnberg am 02.12.2014
 
 ### BPM - It's done when it is tested!
 
