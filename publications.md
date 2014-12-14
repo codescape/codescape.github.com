@@ -15,6 +15,8 @@ In unserer Rolle als Agile Coaches haben wir bereits in viele unterschiedliche P
 
 * Vortrag auf dem [Agile Retreat v3](http://www.opitz-consulting.vom) mit Christian Linck in München am 19.09.2014
 * Vortrag auf dem [QVC IT Technologie Tag](http://www.qvc.de) mit Christian Linck in Bochum am 23.09.2014
+* Vortrag auf den [CU SD Days](http://www.opitz-consulting.vom) mit Christian Linck in Brühl am 08.11.2014
+* Vortrag auf der [Insight 2014](http://www.insight2014.de/) mit Christian Linck in Nürnberg am 02.12.2014
 
 ### BPM - It's done when it is tested!
 
@@ -29,6 +31,7 @@ Mit Seiten-basierten Webanwendungen lassen sich keine Blumentöpfe mehr gewinnen
 
 * Vortrag auf der [OOP 2014](http://www.sigs-datacom.de/oop2014/konferenz/konferenzprogramm/conference-detail/rapid-application-development-mit-grails-und-angularjs.html) mit Stefan Scheidt am 05.02.2014
 * Vortrag auf der [JAX 2014](http://jax.de/2014/sessions/rapid-application-development-mit-grails-und-angular-js) mit Stefan Scheidt am 15.05.2014
+* Vortrag auf den [CU SD Days](http://www.opitz-consulting.vom) mit Stefan Scheidt in Brühl am 08.11.2014
 
 ### Enterprise Integration mit der camunda BPM platform
 
@@ -61,6 +64,7 @@ JavaFX ist ein heißer Kandidat für einen zukünftigen Standard zur Entwicklung
 
 Grails ist ein Framework für Webapplikationen auf Basis der dynamisch typisierten Programmiersprache Groovy und bewährten Technologien wie dem Spring Framework und Hibernate. Eine Vielzahl von Plug-Ins macht es möglich, wiederkehrende Problemstellungen mit bewährten Lösungen umzusetzen. Dieser Vortrag startet mit einem kurzen Überblick über Groovy & Grails und zeigt im Anschluss an Beispielen und echtem Code eine Auswahl der interessantesten Funktionen und Möglichkeiten.
 
+* Vortrag auf den [CU SD Days](http://www.opitz-consulting.vom) in Brühl am 08.11.2014
 * Vortrag auf der [DOAG 2012 Development](http://www.doag.org/de/events/konferenzen/doag-2012-development.html) am 14.06.2012
 * Vortrag auf der [Java User Group Ostfalen](http://www.jug-ostfalen.de) am 22.03.2012
 * Vortrag auf der [DOAG Konferenz 2011](http://www.doag.org/konferenz/doag/2011) mit Michael Stähler am 17.11.2011
