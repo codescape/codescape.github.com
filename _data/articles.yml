@@ -1,0 +1,23 @@
+- title: Der Werkzeugkoffer fuer verteilte agile Teams
+  description: Wenn agile Softwareentwicklung und verteilte Teams aufeinandertreffen, sehen sich die Beteiligten vor neue Anforderungen gestellt, um in einem agilen Team gemeinsam planen, arbeiten und im agilen Alltag miteinander kommunizieren zu können. Für das Team gilt es also, den Softwareentwicklungsprozess mit Werkzeugen und Methoden so zu unterstützen, dass trotz der räumlichen Distanz der Teammitglieder eine effektive Zusammenarbeit möglich ist. Dabei soll auch weiterhin aus guten Gründen der Forderung nach der höheren Bewertung von Individuen und Interaktionen vor Prozessen und Werkzeugen Rechnung getragen werden. (Vgl. Manifesto for Agile Software Development: „Individuals and interactions over processes and tools“) Dieser Artikel stellt einige Werkzeuge und Methoden vor, die sich in der Praxis bei verteilten Softwareentwicklungsprojekten für verschiedenste Szenarien im Projektalltag bewährt haben und klärt die Frage nach der richtigen Dosis.
+  magazine: Objekt Spektrum Online Themenspecial Agility 2013
+  file: 
+- title: Grooviges Gezwitscher
+  description: Grails ist ein Open-Source-Framework zur Entwicklung moderner Webapplikationen auf Basis der dynamisch typisierten Programmiersprache Groovy und bewährten Technologien wie dem Spring Framework, Hibernate und SiteMesh. Eine Vielzahl von Plug-ins macht es zudem möglich, wieder- kehrende Problemstellungen mit bewährten Lösungen umzusetzen.
+  magazine: Java Magazin 12/2012
+  coauthor: Christian Metzler
+  file: 
+- title: Grails - Die Suche ist vorbei
+  description: Grails ist ein Open Source Framework zur Entwicklung moderner Webapplikationen auf Basis der dynamisch typisierten Programmiersprache Groovy und bewährten Technologien wie dem Spring Framework, Hibernate und SiteMesh. Eine Vielzahl von Plug-Ins macht es zudem möglich, wiederkehrende Problemstellungen mit bewährten Lösungen umzusetzen. Dieser Artikel gibt einen Überblick über das Framework und zeigt anhand von kleinen Code-Beispielen interessante Aspekte bei der Entwicklung von Grails-Anwendungen.
+  magazine: Java aktuell 02/2012
+  coauthor: Christian Metzler
+  file: 
+- title: ADF – eine Universallösung für Web-Anwendungen?
+  description: ADF, das Application Development Framework von Oracle, wird als Komplettlösung für die Anwendungsentwicklung im Web empfohlen. Der 4-GL-Ansatz soll dabei insbesondere Forms-Entwicklern den Technologiewechsel erleichtern. In diesem Artikel wird den Fragen nachgegangen, wie und in welchen Szenarien sich ADF in der Praxis bewährt hat und welche Vor- und Nachteile gegenüber einem vergleichbaren Open-Source-Stack existieren.
+  magazine: DOAG News Q1 2009
+  coauthor: Christian Schmitz
+  file: 
+- title: SpringSource Advanced Pack für die Oracle Datenbank
+  description: Der Oracle Datenbank-Server hat sich unter anderem durch umfangreiche Unterstützung kritischer Funktionen wie Replikation, Clustering und komplexer Datentypen als Markt- und Technologieführer etabliert. Das Spring Framework ist ein Applikations-Framework für die Java-Plattform auf Open-Source-Basis und verfolgt das Ziel, die Entwicklung von Java-Enterprise-Anwendungen zu vereinfachen und gute Programmierpraktiken zu fördern. Im Vordergrund steht hierbei die Unterstützung für das Zusammenspiel und die Austauschbarkeit lose gekoppelter Komponenten.
+  magazine: DOAG News Q3 2008
+  file: 
