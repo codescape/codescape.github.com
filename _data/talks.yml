@@ -21,6 +21,7 @@
       cospeaker: Christian Linck
       location: München
       date: 19.09.2014
+
 - title: BPM - It's done when it is tested!
   description: Agiles Vorgehen macht vor keinem Projekt halt, erst recht nicht vor BPM-Projekten. Wie können wir mit einer performanten Testautomatisierung die Funktionalität und Wartbarkeit unserer automatisierten Prozesse sicherstellen? Wie lassen sich die bekannten und liebgewonnen Testmechanismen aus der Java-Welt auf die Prozessdenkweise übertragen? Anhand von Live-Beispielen auf der camunda BPM Plattform und der Oracle BPM Suite erläutern wir praxiserprobte Testarchitekturen und -lösungen.
   conferences:
@@ -34,6 +35,7 @@
       cospeaker: Attila Németh
       location: Mainz
       date: 15.05.2014
+
 - title: Rapid Application Development mit Grails und AngularJS
   description: Mit Seiten-basierten Webanwendungen lassen sich keine Blumentöpfe mehr gewinnen. Nutzer erwarten und benötigen interaktive Inhalte, hohen Bedienkomfort und die Darstellung auf verschiedensten Medien. Solche Anforderungen müssen uns jedoch nicht mehr ins Schwitzen bringen. Der Vortrag zeigt am konkreten Beispiel, wie sich durch Kombination von Server- und Client-seitigen Application Development Frameworks eine höchst produktive Plattform für die Entwicklung individueller Rich Client Web Apps zusammen stellen lässt.
   conferences:
@@ -52,6 +54,7 @@
       cospeaker: Stefan Scheidt
       location: München
       date: 05.02.2014
+
 - title: Enterprise Integration mit der camunda BPM platform
   description: Mit der camunda BPM platform existiert im Gegensatz zu vielen BPM-Suiten eine sehr leichtgewichtige BPM-Lösung im Java-Umfeld. Dieser Vortrag stellt das mit OPITZ CONSULTING bei der Freenet AG durchgeführte Projekt vor, in welchem die camunda BPM platform erfolgreich eingesetzt werden konnte, um eine bestehende über die Jahre gewachsene Prozesslösung zu ersetzen. Mit der von der camunda BPM platform zugrundeliegenden BPMN 2.0 Notation konnten Fachbereich und IT zusammengebracht und so eine viel bessere Kommunikation über die zentralen Prozesse des Unternehmens etabliert werden.
   conferences:
@@ -71,6 +74,7 @@
       link: http://www.opitz-consulting.com
       location: Gummersbach
       date: 15.06.2013
+
 - title: Agile Development by Example - Ein Theaterstueck in einer Iteration
   description: "Unser Kunde benötigt eine Anwendung von uns: Die Anforderungen stehen noch nicht genau fest und die Zeit drängt. Wie können wir unserem Kunden helfen sein Problem so schnell wie möglich zu lösen? Agile Softwareentwicklung scheint die Rettung zu sein! Wir wagen die Anforderungsanalyse mittels Specification by Example, befüllen unser Backlog mit den ersten Stories und Akzeptanzkriterien, organisieren uns über das Kanban-Board, implementieren testgetrieben und sprinten mit Daily Scrums durch unsere erste Iteration. Die erste Abnahme begeistert den Kunden und mit einer Retrospektive beenden wir den ersten Sprint. Die nächste Iteration kann kommen! Dieser Vortrag zeigt auf interaktive Art und Weise den Alltag in einem agilen Projekt."
   conferences:
@@ -79,6 +83,7 @@
       cospeaker: Christian Metzler und Michael Stähler
       location: Gummersbach
       date: 14.06.2013
+
 - title: Mobile JavaScript-Web-Apps professionell entwickeln
   description: Dieser Workshop stellt die professionelle Entwicklung mobiler JavaScript-Web-Apps unter den Gesichtspunkten Wartbarkeit, Erweiterbarkeit und Testbarkeit vor. Nach einem kurzen Überblick über das Übungsbeispiel und dem Setup der Entwicklungsumgebung beginnen wir mit testgetriebener JavaScript-Entwicklung. Hierbei werden die Entwurfsmuster MVC, Dependency Injection und Data Binding in der praktische Umsetzung verprobt. Die Oberfläche der Beispiel-App wird mit jQuery Mobile implementiert. Die Teilnehmer verlassen den Workshop mit einer JavaScript-Web-App, die auf den eigenen mobilen Endgeräten lauffähig ist. Voraussetzung für die umfangreichen Übungen sind ein Entwickler-Notebook und gute JavaScript-Grundkenntnisse.
   conferences:
@@ -87,6 +92,7 @@
       cospeaker: Torsten Winterberg, Stefan Scheidt und Tobias Bosch
       location: Mainz
       date: 16.04.2012
+
 - title: GroovyFX entfesselt JavaFX 2.0
   description: JavaFX ist ein heißer Kandidat für einen zukünftigen Standard zur Entwicklung moderner Rich Internet Applications. Es bietet unter anderem eine Vielzahl an Widgets und Animationen, Unterstützung diverser Multimediainhalte sowie die Portierbarkeit auf verschiedenste Plattformen. Dabei setzt JavaFX auf den Stärken von Java auf und läuft in der Java Virtual Machine. Auch die dynamische Programmiersprache Groovy ist in der Java Virtual Machine zu Hause und qualifiziert sich als starker Partner, wenn es um die Entwicklung JavaFX-basierter Anwendungen unter dem Gesichtpunkt der Entwicklungseffizienz geht. Nach einer kurzen Einführung in die Sprache Groovy und die Plattform JavaFX wird dieser Vortrag das Framework GroovyFX als Bindeglied zwischen den beiden Technologien anhand von Beispielen und Sourcecode vorstellen.
   conferences:
@@ -94,6 +100,7 @@
       link: http://www.sigs-datacom.de/oop2012/konferenz
       location: München
       date: 26.01.2012
+
 - title: Grails - Die Suche ist vorbei
   description: Grails ist ein Framework für Webapplikationen auf Basis der dynamisch typisierten Programmiersprache Groovy und bewährten Technologien wie dem Spring Framework und Hibernate. Eine Vielzahl von Plug-Ins macht es möglich, wiederkehrende Problemstellungen mit bewährten Lösungen umzusetzen. Dieser Vortrag startet mit einem kurzen Überblick über Groovy & Grails und zeigt im Anschluss an Beispielen und echtem Code eine Auswahl der interessantesten Funktionen und Möglichkeiten.
   conferences:
@@ -113,6 +120,7 @@
       link: http://www.doag.org/konferenz/doag/2011
       cospeaker: Michael Stähler
       date: 17.11.2011
+
 - title: Statische Code-Analyse für Groovy & Grails mit CodeNarc
   description: Dieser Vortrag stellt CodeNarc - ein Werkzeug für die statische Code-Analyse für Groovy & Grails - vor. Mit CodeNarc kann Groovy-Code auf Defekte, schlechte Praktiken, Inkonsistenzen und Formatfehler überprüft werden. CodeNarc stellt außerdem ein flexibles Framework für Regeln und Regelwerke bereit. Über Plugins kann CodeNarc in das Build-Management über Ant, Maven, Gradle, Grails, Griffon, Sonar und Hudson eingebunden werden. Eine Live-Demo demonstriert den Einsatz von CodeNarc.
   conferences:
@@ -124,6 +132,7 @@
       link: http://www.gearconf.com
       location: Düsseldorf
       date: 10.06.2011
+
 - title: SpringSource Advanced Pack for Oracle Database
   description: Der Oracle Server ist nicht "nur" eine SQL-Datenbank, er bietet z.B. mit Support für komplexe Datentypen, mit Oracle Streams und den Real Application Clustern eine hervorragende Plattform zur Umsetzung komplexer Anforderungen und Architekturen. Will man die Applikationsschicht mit Java implementieren, so empfiehlt sich hier das Spring Framework als De-Facto-Standard im Enterprise-Java-Umfeld. Die ideale Unterstützung für das Zusammenspiel dieser beiden Welten bietet das Advanced Pack for Oracle Database von SpringSource, der Firma hinter dem Spring Framework. Dieser Vortrag beginnt mit einer kurzen Vorstellung des Spring Framework, stellt dann das Advanced Pack im Überblick vor und zeigt abschließend ausgewählte Features an einigen Beispielen.
   conferences:
