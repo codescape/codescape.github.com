@@ -1,3 +1,8 @@
+- title: Grails 3.0 – Frühjahrsputz für das Webframework
+  description: Das Webframework Grails präsentiert sich nach einer gründlichen Überarbeitung seit Ende März in der dritten Major-Version als Grails 3.0. Mit Grails werden basierend auf der dynamisch typisierten Programmiersprache Groovy und einem sehr flexiblen Framework Webanwendungen entwickelt. Durch den Einsatz von zahlreichen Plug-ins können leicht weitere Features und Bausteine ergänzt werden. Das Framework Grails blickt bereits auf fast 10 Jahre aktive Weiterentwicklung, interessante Innovationen sowie Adaption von bewährten Konzepten aus anderen Webframeworks zurück.
+  magazine: JAXenter Online
+  link: https://jaxenter.de/grails-3-0-fruehjahrsputz-fuer-das-webframework-18813
+
 - title: Der Werkzeugkoffer für verteilte agile Teams
   description: Wenn agile Softwareentwicklung und verteilte Teams aufeinandertreffen, sehen sich die Beteiligten vor neue Anforderungen gestellt, um in einem agilen Team gemeinsam planen, arbeiten und im agilen Alltag miteinander kommunizieren zu können. Für das Team gilt es also, den Softwareentwicklungsprozess mit Werkzeugen und Methoden so zu unterstützen, dass trotz der räumlichen Distanz der Teammitglieder eine effektive Zusammenarbeit möglich ist. Dabei soll auch weiterhin aus guten Gründen der Forderung nach der höheren Bewertung von Individuen und Interaktionen vor Prozessen und Werkzeugen Rechnung getragen werden. Dieser Artikel stellt einige Werkzeuge und Methoden vor, die sich in der Praxis bei verteilten Softwareentwicklungsprojekten für verschiedenste Szenarien im Projektalltag bewährt haben und klärt die Frage nach der richtigen Dosis.
   magazine: Objekt Spektrum Online Themenspecial Agility 2013

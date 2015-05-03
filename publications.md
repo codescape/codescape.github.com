@@ -26,7 +26,8 @@ Auf dieser Seite möchte ich von mir gehaltene [Vorträge](#vortraege) auf Messe
 <h3>{{article.title}}</h3>
 <p>{{article.description}}</p>
 <ul>
-	<li>Artikel für <a href="/files/publications/{{article.file}}">{{article.magazine}}</a> 
+	<li>Artikel für {% if article.link %}<a href="{{article.link}}">{{article.magazine}}</a>{% endif %}
+	{% if article.file %}<a href="/files/publications/{{article.file}}">{{article.magazine}}</a>{% endif %} 
 	{% if article.coauthor %}mit {{article.coauthor}}{% endif %}
 	</li>
 </ul>

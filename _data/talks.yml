@@ -1,3 +1,12 @@
+- title: Grails und AngularJS - das Beste von Server und Client vereint
+  description: Grails ist ein sehr produktives Full-Stack-Framework für die Entwicklung klassischer serverseitiger Webanwendungen und Web-APIs. AngularJS ist einer der Favoriten für die Entwicklung moderner Clients mit Single-Page-Architektur. Dieser Vortrag zeigt, wie Grails und AngularJS integriert werden können, und beleuchtet Vor- und Nachteile der Alternativen. Insbesondere wird dabei die Grails-Asset-Pipeline vorgestellt und die sich dadurch ergebenden Integrationsmöglichkeiten zur Einbettung von AngularJS präsentiert.
+  conferences:
+    - title: JAX 2015
+      link: https://jax.de/2015/sessions/grails-und-angularjs-das-beste-von-server-und-client-vereint
+      cospeaker: Kerry Walder
+      location: Mainz
+      date: 22.04.2015
+
 - title: Agilität entmystifiziert
   description: In unserer Rolle als Agile Coaches haben wir bereits in viele unterschiedliche Projekte und Unternehmen hineinschauen und bei der Einführung von Agilen Methoden und Werten unterstützen können. Anhand von kleinen Geschichten aus Projekten und Situationen unserer Mitarbeiter und Kunden wollen wir in diesem Vortrag die Nebelschleier rund um einige Mythen der Agile Softwareentwicklung auflösen.
   conferences:
