@@ -1,3 +1,11 @@
+- title: "Praxisbericht: Führung von agilen, verteilten Teams"
+  description: Wenn agile Softwareentwicklung und verteilte Teams aufeinandertreffen, sehen sich die Beteiligten vor neue Anforderungen gestellt, um in einem agilen Team gemeinsam planen, arbeiten und im agilen Alltag miteinander kommunizieren zu können. Dieser Praxisbericht stellt Erfahrungen mit unterschiedlichsten Werkzeugen und Methoden vor, die sich in der Praxis bei verteilten Softwareentwicklungsprojekten im Projektalltag bewährt haben.
+  conferences:
+    - title: Inspire|IT 2015
+      link: http://inspireitcon.de
+      location: Frankfurt
+      date: 11.05.2015
+
 - title: Grails und AngularJS - das Beste von Server und Client vereint
   description: Grails ist ein sehr produktives Full-Stack-Framework für die Entwicklung klassischer serverseitiger Webanwendungen und Web-APIs. AngularJS ist einer der Favoriten für die Entwicklung moderner Clients mit Single-Page-Architektur. Dieser Vortrag zeigt, wie Grails und AngularJS integriert werden können, und beleuchtet Vor- und Nachteile der Alternativen. Insbesondere wird dabei die Grails-Asset-Pipeline vorgestellt und die sich dadurch ergebenden Integrationsmöglichkeiten zur Einbettung von AngularJS präsentiert.
   conferences:
