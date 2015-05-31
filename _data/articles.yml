@@ -1,5 +1,9 @@
 - title: Grails 3.0 – Frühjahrsputz für das Webframework
   description: Das Webframework Grails präsentiert sich nach einer gründlichen Überarbeitung seit Ende März in der dritten Major-Version als Grails 3.0. Mit Grails werden basierend auf der dynamisch typisierten Programmiersprache Groovy und einem sehr flexiblen Framework Webanwendungen entwickelt. Durch den Einsatz von zahlreichen Plug-ins können leicht weitere Features und Bausteine ergänzt werden. Das Framework Grails blickt bereits auf fast 10 Jahre aktive Weiterentwicklung, interessante Innovationen sowie Adaption von bewährten Konzepten aus anderen Webframeworks zurück.
+  magazine: Java Magazin 07/2015
+
+- title: Grails 3.0 – Frühjahrsputz für das Webframework
+  description: Das Webframework Grails präsentiert sich nach einer gründlichen Überarbeitung seit Ende März in der dritten Major-Version als Grails 3.0. Mit Grails werden basierend auf der dynamisch typisierten Programmiersprache Groovy und einem sehr flexiblen Framework Webanwendungen entwickelt. Durch den Einsatz von zahlreichen Plug-ins können leicht weitere Features und Bausteine ergänzt werden. Das Framework Grails blickt bereits auf fast 10 Jahre aktive Weiterentwicklung, interessante Innovationen sowie Adaption von bewährten Konzepten aus anderen Webframeworks zurück.
   magazine: JAXenter Online
   link: https://jaxenter.de/grails-3-0-fruehjahrsputz-fuer-das-webframework-18813
 
