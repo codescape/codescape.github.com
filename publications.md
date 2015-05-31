@@ -13,7 +13,7 @@ Auf dieser Seite möchte ich von mir gehaltene [Vorträge](#vortraege) auf Messe
 <p>{{talk.description}}</h3>
 <ul>
 	{% for conference in talk.conferences %}
-		<li>Vortrag für <a href="{{conference.link}}">{{conference.title}}</a> 
+		<li>Vortrag für <a href="{{conference.link}}">{{conference.title}}</a>
 		{% if conference.cospeaker %}mit {{conference.cospeaker}}{% endif %}
 		in {{conference.location}} am {{conference.date}}</li>
 	{% endfor %}
@@ -26,9 +26,16 @@ Auf dieser Seite möchte ich von mir gehaltene [Vorträge](#vortraege) auf Messe
 <h3>{{article.title}}</h3>
 <p>{{article.description}}</p>
 <ul>
-	<li>Artikel für {% if article.link %}<a href="{{article.link}}">{{article.magazine}}</a>{% endif %}
-	{% if article.file %}<a href="/files/publications/{{article.file}}">{{article.magazine}}</a>{% endif %} 
-	{% if article.coauthor %}mit {{article.coauthor}}{% endif %}
-	</li>
+	{% for magazine in article.magazines %}
+		<li>Artikel für
+			{% if magazine.link %}
+				<a href="{{magazine.link}}">{{magazine.name}}</a>
+			{% elsif magazine.file %}
+				<a href="/files/publications/{{magazine.file}}">{{magazine.name}}</a>
+			{% else %}
+				{{magazine.name}}
+			{% endif %}
+			{% if magazine.coauthor %}mit {{magazine.coauthor}}{% endif %}</li>
+	{% endfor %}
 </ul>
 {% endfor %}
