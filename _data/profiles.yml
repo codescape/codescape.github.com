@@ -14,9 +14,9 @@
   username: stefanglase
   url: http://stackoverflow.com/users/266268/stefanglase
 
-- service: bikemap
-  username: caseaplace
-  url: http://www.bikemap.net/user/caseaplace
+- service: strava
+  username: stefanglase
+  url: https://www.strava.com/athletes/stefanglase
 
 - service: facebook
   username: stefan.glase
