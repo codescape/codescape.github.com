@@ -2,9 +2,11 @@
 # --------------------
 permalink: /:year/:month/:day/:title/
 highlighter: pygments
-paginate: 3
 markdown: kramdown
 exclude: ['readme.md', 'Gemfile.lock', 'Gemfile', 'run.sh', 'CNAME']
+gems: [jekyll-paginate]
+paginate: 3
+paginate_path: "pages/:num/"
 
 # site configuration
 # ------------------
