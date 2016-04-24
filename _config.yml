@@ -1,7 +1,7 @@
 # jekyll configuration
 # --------------------
 permalink: /:year/:month/:day/:title/
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 exclude: ['readme.md', 'Gemfile.lock', 'Gemfile', 'run.sh', 'CNAME']
 gems: [jekyll-paginate]
@@ -13,7 +13,7 @@ paginate_path: "pages/:num/"
 url: http://www.stefanglase.de
 title: stefanglase.de
 description: 'Hier bloggt Stefan Glase über Softwareentwicklung, Mountainbiking und allerlei andere Dinge.'
-keywords: 'Mountainbike, Freeride, Java, Softwareentwicklung, Groovy, Grails, Maven, Spring, BitvUnit'
+keywords: 'Mountainbike, Enduro, Java, Softwareentwicklung, Groovy, Grails, Maven, Spring, BitvUnit'
 author: Stefan Glase
 email: stefan.glase@googlemail.com
 
