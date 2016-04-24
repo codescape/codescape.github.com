@@ -4,7 +4,7 @@ title: Skaliertes Scrum und die Sprint Review Messe
 categories: software scrum agile
 ---
 
-Seit mittlerweile bald vier Jahren bin als Scrum Master in einem agilen Scrum Team unterwegs. In der Ausübung dieser Rolle helfe ich dem Team dabei, dass wir nicht aufhören vorneinander und miteinander zu lernen und mit Spaß an der agilen Softwareentwicklung wertvolle und passende Produkt-Inkremente für unsere Kunden zu liefern.
+Seit mittlerweile bald vier Jahren bin als Scrum Master in einem agilen Scrum Team unterwegs. In der Ausübung dieser Rolle helfe ich dem Team dabei, dass wir nicht aufhören voneinander und miteinander zu lernen und mit Spaß an der agilen Softwareentwicklung wertvolle und passende Produkt-Inkremente für unsere Kunden zu liefern.
 
 Liefern bedeutet nicht nur Ergebnisse über einen imaginären Zaun werfen. Ganz im Gegenteil, es geht darum frühe Feedbackschleifen zu etablieren und das gewonnene wertvolle Feedback in die weitere Arbeit einfließen zu lassen. Hierfür sieht Scrum das [Sprint Review Meeting](http://www.scrumguides.org/scrum-guide.html#events-review) vor. In diesem Meeting stellt das Scrum Team Kunden und Interessierten die Weiterentwicklung vor.
 
@@ -24,4 +24,4 @@ Dadurch dass der Messe-Charakter die vorher eher frontal-lastige Vorstellung abg
 
 Zentral installiert haben wir einen einmal gebastelten und mit Hilfe von Post-its für jeden Sprint aktualisierten Wegweiser mit den wichtigsten Informationen dazu welche Themen von welchem Team in welchem Raum vorgestellt werden. Bereits frühzeitig schicken wir einen Terminblocker an das gesamte Unternehmen um zur Review Messe einzuladen und Vertreter und Interessierte aus den verschiedensten Fachabteilungen an die Stände der Teams zu locken.
 
-Wir haben es mit diesem Design der Scrum Reviews auf jeden Fall geschafft die Weiterentwicklungen der Software viel direkter und besser bis zu den Fachabteilungen zu bringen und gleichzeitig auch den wichtigen Austausch der Teams untereinander zu fördern.
+Wir haben es mit diesem Design der Scrum Reviews auf jeden Fall geschafft die Weiterentwicklungen der Software viel näher und transparenter bis zu den Fachabteilungen zu bringen und gleichzeitig auch den wichtigen Austausch der Teams untereinander zu fördern.
