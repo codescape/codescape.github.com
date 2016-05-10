@@ -4,7 +4,7 @@ title: Skaliertes Scrum und die Sprint Review Messe
 categories: software scrum agile
 ---
 
-Seit mittlerweile bald vier Jahren bin als Scrum Master in einem agilen Scrum Team unterwegs. In der Ausübung dieser Rolle helfe ich dem Team dabei, dass wir nicht aufhören voneinander und miteinander zu lernen und mit Spaß an der agilen Softwareentwicklung wertvolle und passende Produkt-Inkremente für unsere Kunden zu liefern.
+Seit mittlerweile bald vier Jahren bin ich als Scrum Master in einem agilen Scrum Team unterwegs. In der Ausübung dieser Rolle helfe ich dem Team dabei, dass wir nicht aufhören voneinander und miteinander zu lernen und mit Spaß an der agilen Softwareentwicklung wertvolle und passende Produkt-Inkremente für unsere Kunden zu liefern.
 
 Liefern bedeutet nicht nur Ergebnisse über einen imaginären Zaun werfen. Ganz im Gegenteil, es geht darum frühe Feedbackschleifen zu etablieren und das gewonnene wertvolle Feedback in die weitere Arbeit einfließen zu lassen. Hierfür sieht Scrum das [Sprint Review Meeting](http://www.scrumguides.org/scrum-guide.html#events-review) vor. In diesem Meeting stellt das Scrum Team Kunden und Interessierten die Weiterentwicklung vor.
 
