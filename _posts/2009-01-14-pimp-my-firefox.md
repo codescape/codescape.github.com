@@ -4,7 +4,7 @@ title: Pimp my Firefox
 categories: firefox browser
 ---
 
-Da ich schon des Öfteren gefragt wurde, mit welchem Browser ich mich im Internet bewege und warum die Wahl auf diese Browser gefallen ist, möchte ich in diesem Artikel den an meine Anforderungen angepassten [Mozilla Firefox](http://www.mozilla-europe.org/de/firefox)-Browser vorstellen.
+Da ich schon des Öfteren gefragt wurde, mit welchem Browser ich mich im Internet bewege und warum die Wahl auf diesen Browser gefallen ist, möchte ich in diesem Artikel den an meine Anforderungen angepassten [Mozilla Firefox](http://www.mozilla-europe.org/de/firefox)-Browser vorstellen.
 
 ![Mozilla Firefox](/images/2009-01-14/firefox.jpg)
 
