@@ -10,7 +10,7 @@ Auf dieser Seite möchte ich von mir gehaltene [Vorträge](#vortraege) auf Messe
 
 {% for talk in site.data.talks %}
 <h3>{{talk.title}}</h3>
-<p>{{talk.description}}</h3>
+<p>{{talk.description}}</p>
 <ul>
 	{% for conference in talk.conferences %}
 		<li>Vortrag für <a href="{{conference.link}}">{{conference.title}}</a>
