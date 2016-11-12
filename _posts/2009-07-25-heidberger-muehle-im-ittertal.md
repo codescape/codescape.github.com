@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Heidberger Mühle im Ittertal
-categories: mountainbike fotos haan hilden panorama
+category: mountainbike
+tags: mountainbike fotos haan hilden panorama
 ---
 
 Gestern Abend motivierte das kurzzeitig schöne Wetter für einen kleinen Ausflug durch das [Ittertal zwischen Hilden, Haan und Solingen](http://gpsies.com/map.do?fileId=dirxukvmidizhjgh). Der malerische Anblick der Heidberger Mühle lud zu einer kleinen Rast und einem kurzen Fotoshooting ein.

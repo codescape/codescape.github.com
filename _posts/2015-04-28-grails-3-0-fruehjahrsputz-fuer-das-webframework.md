@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Grails 3.0 – Frühjahrsputz für das Webframework
-categories: grails groovy java
+category: softwareentwicklung
+tags: grails groovy java
 ---
 
 Für das JAXenter Magazin habe ich einen Artikel zur neusten Version von Grails geschrieben.

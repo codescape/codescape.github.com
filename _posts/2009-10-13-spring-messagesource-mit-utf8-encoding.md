@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Spring MessageSource mit UTF-8 Encoding
-categories: spring java messagesource resourcebundle utf8
+category: softwareentwicklung
+tags: spring java messagesource resourcebundle utf8
 ---
 
 Dieser Artikel erklärt das Vorgehen, wenn bei der Internationalisierung von Spring-Anwendungen die Texte innerhalb von \*.properties-Dateien direkt im UTF-8 Encoding abgelegt und nicht auf das im JDK befindliche Werkzeug [native2ascii] zurückgegriffen werden soll.
@@ -12,11 +13,11 @@ Die Konfiguration der Standard-Implementierung im Spring-Umfeld sieht bei der Ve
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
- 
+
   <bean id="messageSource" class="org.springframework.context.support.ResourceBundleMessageSource">
     <property name="basename" value="messages"/>
   </bean>
- 
+
 </beans>
 {% endhighlight %}
 
@@ -28,12 +29,12 @@ Als Alternative bietet sich daher der Einsatz der Klasse `ReloadableResourceBund
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
- 
+
   <bean id="messageSource" class="org.springframework.context.support.ReloadableResourceBundleMessageSource">
     <property name="basename" value="messages" />
     <property name="defaultEncoding" value="UTF-8" />
   </bean>
- 
+
 </beans>
 {% endhighlight %}
 
@@ -52,44 +53,44 @@ Ein simpler Test mit dem oben konfigurierten [ApplicationContext] zeigt den Zugr
 
 {% highlight java %}
 package de.stefanglase.experimental.utf8;
- 
+
 import static org.junit.Assert.assertEquals;
- 
+
 import java.util.Locale;
- 
+
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
- 
+
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(locations = "/config-application.xml")
 public class TestUTF8MessageSource {
- 
+
     private static final String GERMAN = "Hallo Welt";
     private static final String ENGLISH = "hello world";
     private static final String HEBREW = "שלום העולם";
- 
+
     @Autowired
     private MessageSource messageSource;
- 
+
     @Test
     public void testGetMessageForGermanLocale() {
         assertEquals(GERMAN, messageSource.getMessage("example", null, Locale.GERMAN));
     }
- 
+
     @Test
     public void testGetMessageForEnglishLocale() {
         assertEquals(ENGLISH, messageSource.getMessage("example", null, Locale.ENGLISH));
     }
- 
+
     @Test
     public void testGetMessageForHebrewLocale() {
         assertEquals(HEBREW, messageSource.getMessage("example", null, new Locale("IW")));
     }
- 
+
 }
 {% endhighlight %}
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Besuch der DOAG Konferenz 2011
-categories: java grails groovy oracle doag konferenz
+category: softwareentwicklung
+tags: java grails groovy oracle doag konferenz
 ---
 
 In der kommenden Woche verschlägt es mich erneut auf die diesjährige DOAG Konferenz, wo ich [bereits 2008](/2008/11/21/vortrag-auf-der-doag-konferenz-2008) schon einmal interessanten Vorträgen folgen und einen eigenen Vortrag halten durfte.

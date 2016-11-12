@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Skaliertes Scrum und die Sprint Review Messe
-categories: software scrum agile
+category: softwareentwicklung
+tags: software scrum agile
 ---
 
 Seit mittlerweile bald vier Jahren bin ich als Scrum Master in einem agilen Scrum Team unterwegs. In der Ausübung dieser Rolle helfe ich dem Team dabei, dass wir nicht aufhören voneinander und miteinander zu lernen und mit Spaß an der agilen Softwareentwicklung wertvolle und passende Produkt-Inkremente für unsere Kunden zu liefern.

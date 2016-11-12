@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Rund um den Steinbruch
-categories: mountainbike tour gps fotos gummersbach
+category: mountainbike
+tags: mountainbike tour gps fotos gummersbach
 ---
 
 Ausgerüstet mit Kamera, Trinkrucksack und Powerriegel sollte es heute Abend nach getaner Arbeit noch einmal mit dem Mountainbike auf die Piste gehen. Zuerst galt es meinen “Hausberg” hinter dem Steinbruch zu erklimmen. Entlohnt wurde die Plakerei mit einem tollen Ausblick auf das Tal des Steinbruchs, welcher auch direkt auf die Speicherkarte der Kamera gebannt wurde.

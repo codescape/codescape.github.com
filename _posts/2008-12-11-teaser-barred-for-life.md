@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Teaser - Barred for Life
-categories: mountainbike video stunts wordpress
+category: mountainbike
+tags: mountainbike video stunts wordpress
 ---
 
 Nachdem ich heute meinen Blog erfolgreich auf die aktuelle Version 2.7 der WordPress-Software aktualisiert habe, folgt hier der Test, ob denn auch alles läuft wie es soll. Natürlich bietet es sich da an, direkt einen neuen Artikel zu verfassen.
@@ -15,4 +16,3 @@ Wirklich beeindruckend fand ich, was die Mountainbikes in diesem Film aushalten 
 Auch die Landschaftsaufnahmen im Video sind nicht zu verachten und machen Lust auf mehr! Sollte der Link im Text doch etwas untergegangen sein, so besteht hier noch einmal die [Möglichkeit zu klicken](http://vimeo.com/2349551). :)
 
 Update: Da das finale Video sich etwas verspäten wird, gibt es nun einen [zweiten Teil des Trailers](http://vimeo.com/3682826), der zwar etwas kürzer geworden ist, allerdings auch das ein oder andere akrobatische Kunststück zeigt.
-

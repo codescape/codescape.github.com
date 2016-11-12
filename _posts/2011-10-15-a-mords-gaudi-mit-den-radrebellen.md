@@ -1,7 +1,8 @@
 ---
 layout: post
 title: A mords Gaudi mit den Radrebellen
-categories: radrebellen mountainbike video
+category: mountainbike
+tags: radrebellen mountainbike video
 ---
 
 Bereits zum siebten Mal haben die [Radrebellen](http://www.rad-rebellen.de) am 2. Oktober zur Tour mit dem Mountainbike durch die Eifel gerufen und knapp 80 begeisterte Mountainbiker sind dem Ruf nach Bad Münstereifel gefolgt. Im Angebot stand eine etwas anspruchsvollere Strecke mit einer Länge von 45 Kilometern und etwa 1000 Höhenmetern sowie eine etwas leichtere Strecke mit 700 Höhenmetern verteilt auf knackige 35 Kilometer.

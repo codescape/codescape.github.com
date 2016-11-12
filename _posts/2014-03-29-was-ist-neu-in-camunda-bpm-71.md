@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Was ist neu in camunda BPM 7.1?
-categories: camunda java programming
+category: softwareentwicklung
+tags: camunda java programming
 ---
 
 Am 21. März war es endlich soweit und die neue camunda BPM 7.1 Version wurde vorgestellt. In einem einstündigen [Live Webinar](http://www.bpm-guide.de/2014/02/28/camunda-bpm-7-1-live-webinar/) haben [Jakob Freund](https://twitter.com/jakobfreund) und [Daniel Meyer](https://twitter.com/meyerdan) die neuesten Features der Version 7.1 vorgestellt. Nach einem kurzen Einstieg und Überblick über das camunda BPM Ökosystem inklusive eines interessanten Rückblicks über die letzten zwölf Monate camunda BPM ging es auch direkt an’s Eingemachte!
@@ -32,7 +33,7 @@ Ferner gibt es noch das [camunda BPM network](http://network.camunda.org/), wo m
 
 Im anschließenden Q&A sind die beiden Sprecher noch auf viele der gestellten Fragen eingegangen. So auch die Frage zur weiteren Entwicklung der camunda BPM Process Engine. Auf der Roadmap stehen gerade neben vielen kleinen Optimierungen und Weiterentwicklungen drei große Themen:
 
-* Weitere Verbesserung der Tasklist 
+* Weitere Verbesserung der Tasklist
 * Implementierung von Adaptive Case Management
 * Programmiermodell zur Transformation von XML- und JSON-Datenströmen
 

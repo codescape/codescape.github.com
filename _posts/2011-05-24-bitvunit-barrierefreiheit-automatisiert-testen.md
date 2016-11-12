@@ -1,7 +1,8 @@
 ---
 layout: post
 title: BitvUnit – Barrierefreiheit automatisiert testen
-categories: bitv barrierefreiheit java testen
+category: softwareentwicklung
+tags: bitv barrierefreiheit java testen
 ---
 
 Motiviert durch einen Workshop zum Thema Barrierefreiheit mit einigen Kollegen und der Lektüre eines interessanten [Artikels bei WebTestPraxis](http://webtestpraxis.de/blog/?p=15), über den ich gestolpert bin, als ich mich nach Werkzeugen für die Testautomatisierung von Kriterien der Barrierefreiheit umgesehen habe, entstand die Idee, ein Open-Source-Framework zu erstellen.
@@ -31,7 +32,7 @@ public class AlternativeTextForImageRule extends AbstractRule {
     private void validateImage(HtmlImage image, List<Violation> violations) {
         if (!elementHasAttribute(image, "alt")) {
             violations.add(createViolation(image.getStartLineNumber(), RULE_MESSAGE));
-        } 
+        }
     }
 }
 {% endhighlight %}
@@ -41,6 +42,6 @@ Eine Version 0.1 mit den ersten zehn funktionierenden Regeln kann bereits bei [G
 * Konfiguration der Regelsätze (`RuleSet`) beispielsweise mittels XML-Dokumenten
 * Visualisierung der Ergebnisse in geeigneter Form (Text, XML, HTML ...)
 * Adapter für gängige Test-Werkzeuge(JUnit, TestNG, Spock ...) bereitstellen
-* Erstellung eines Getting-Started-Guide für den Einstieg in das Framework 
+* Erstellung eines Getting-Started-Guide für den Einstieg in das Framework
 
 Habe ich Dich neugierig gemacht? Dann schau doch mal in das [Git-Repository](https://github.com/codescape/bitvunit) und teste Deine Webseite oder Webanwendung! Feedback, Verbesserungsvorschläge oder Mitarbeit sind herzlich willkommen und ausdrücklich erwünscht!

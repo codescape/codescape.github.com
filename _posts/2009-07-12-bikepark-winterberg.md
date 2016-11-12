@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Bikepark Winterberg
-categories: mountainbike bikepark winterberg sauerland
+category: mountainbike
+tags: mountainbike bikepark winterberg sauerland
 ---
 
 Am Sonntag morgen hieß es für mich wieder einmal früh aufstehen, denn es ging zusammen mit [Alexander, Michael und Christian](http://www.mtb-weilerswist.de) nach Winterberg ins Sauerland – genauer gesagt in den [Bikepark Winterberg](http://www.bikepark-winterberg.de) für einen Aufbaukurs zur Verbesserung unserer Fahrtechnik. Auf dem Programm standen diverse Techniken zum sicheren Fahren in leichtem bis mittelschwerem Gelände. Unsere Trainerin war die Europameisterin 2003 im Mountainbike Marathon [Birgit Jüngst](http://www.birgit-juengst.de).

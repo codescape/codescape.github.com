@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Videos mit der ContourHD
-categories: video contour mountainbike
+category: mountainbike
+tags: video contour mountainbike
 ---
 
 Da ich vor kurzem bei Amazon der Verlockung nicht widerstehen konnte, als die ContourHD im Blitzangebot mehr als 100 Euro billiger gegenüber dem Normalpreis über die virtuelle Ladentheke ging, wurde es nun einmal Zeit, die Kamera auf einer ersten Mountainbike-Tour zu erproben. Zwar konnte ich die eigens dafür bestellte Helmhalterung noch immer nicht zuverlässig an meinem Helm anbringen, doch auch am Lenker macht die Kamera in meinen Augen schon eine gute Figur.

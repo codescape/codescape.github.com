@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Pimp my Firefox
-categories: firefox browser
+category: diverses
+tags: firefox browser
 ---
 
 Da ich schon des Öfteren gefragt wurde, mit welchem Browser ich mich im Internet bewege und warum die Wahl auf diesen Browser gefallen ist, möchte ich in diesem Artikel den an meine Anforderungen angepassten [Mozilla Firefox](http://www.mozilla-europe.org/de/firefox)-Browser vorstellen.

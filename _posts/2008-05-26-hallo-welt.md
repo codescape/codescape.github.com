@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Hallo Welt
-categories: blog canyon mountainbike wordpress
+category: mountainbike
+tags: blog canyon mountainbike wordpress
 ---
 
 Hallo Blog, hallo Welt!

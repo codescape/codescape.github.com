@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Vortrag auf der Java User Group Cologne
-categories: java spring springsource oracle jug cologne
+category: softwareentwicklung
+tags: java spring springsource oracle jug cologne
 ---
 
 Am kommenden Montag, den 13.10.2008, halte ich auf der [Java User Group Cologne](http://jugcologne.org) beim Spring Double-Feature den zweiten Vortrag zum Thema “SpringSource Advanced Pack for Oracle Database”. Mehr Informationen hierzu finden sich im entsprechenden [Xing Termin](https://www.xing.com/app/events?op=detail;id=245187) für diesen Abend.

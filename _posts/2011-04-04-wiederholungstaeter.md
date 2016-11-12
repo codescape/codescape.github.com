@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Wiederholungstäter
-categories: mountainbike tour fotos gummersbach
+category: mountainbike
+tags: mountainbike tour fotos gummersbach
 ---
 
 Heute ging es über die gleiche Runde, die ich bereits im [letzten Beitrag](/2011/03/23/die-saison-ist-eroeffnet) vorgestellt habe, doch dank ein wenig Ausdauertraining gestaltete sich das Erklimmen der ein oder anderen Anhöhe merklich einfacher.

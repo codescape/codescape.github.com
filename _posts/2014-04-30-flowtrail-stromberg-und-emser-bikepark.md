@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Flowtrail Stromberg und Eröffnung des Emser Bikeparks
-categories: bikepark stromberg flowtrail emser mountainbike video
+category: mountainbike
+tags: bikepark stromberg flowtrail emser mountainbike video
 ---
 
 Am vergangenen Wochenende standen direkt zwei Bike-Ereignisse an einem Tag für uns an. Schon früh morgens starteten wir in Richtung Stromberg und konnten so als Erste an diesem Tag die uns schon aus dem letzten Jahr bekannte und nur in kleinen Teilen erweiterte oder umgestalteten Strecken des [Flowtrail Stromberg](http://www.flowtrail-stromberg.de/) befahren.

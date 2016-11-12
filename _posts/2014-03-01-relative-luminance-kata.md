@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Relative Luminance Kata
-categories: craftsmanship software coding
+category: softwareentwicklung
+tags: craftsmanship software coding
 ---
 
 ### Was sind eigentlich Coding Katas?
@@ -51,7 +52,7 @@ println relativeLuminance(64, 128, 0)
 println relativeLuminance(255,255,255)
 {% endhighlight %}
 
-### Kontrastverhältnis 
+### Kontrastverhältnis
 
 Im zweiten Schritt soll das Kontrastverhältnis zweier Farben auf Basis der nun entwickelten Funktionalität zur Berechnung der Relativen Leuchtkraft berechnet werden. Dazu gilt die folgende Formel:
 

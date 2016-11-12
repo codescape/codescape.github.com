@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Schlammige Erstbefahrung des Trailparks Winterberg
-categories: winterberg trails mountainbike video
+category: mountainbike
+tags: winterberg trails mountainbike video
 ---
 
 Gestern besuchten wir relativ spontan den [Trailpark Winterberg](http://www.trailpark-winterberg.de/) mit der Absicht ein paar der mit einer Gesamtlänge von 60 Kilometern angegebenen Trails abzufahren. Nach kurzer Inspektion der Übersichtstafel am Parkplatz haben wir uns für eine rote (M1) sowie eine schwarze (S2) Runde als Start entschieden. Von den Schwierigkeitsgraden gibt es eine grüne Strecke als Einsteiger- und Übungsparcours, zwei blaue (leichte) Strecken, zwei rote (anspruchsvollere) Strecken sowie zwei schwarze (schwierige) Strecken.

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Rad Rebellen Herbsttour 2009
-categories: mountainbike tour gps radrebellen eifel
+category: mountainbike
+tags: mountainbike tour gps radrebellen eifel
 ---
 
 Wie auch im letzten Herbst luden auch dieses Jahr die [Rad Rebellen](http://rad-rebellen.de/?p=277) zur Herbsttour in die Eifel ein. Nach den tollen Touren in der Vergangenheit konnte ich auch dieses Mal nicht widerstehen und machte mich daher am Sonntag mit Rad, Klamotten für jede Wetterlage und Equipment auf den Weg.

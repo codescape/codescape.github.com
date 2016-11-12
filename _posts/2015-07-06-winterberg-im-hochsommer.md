@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Winterberg im Hochsommer
-categories: winterberg bikepark mountainbike video
+category: mountainbike
+tags: winterberg bikepark mountainbike video
 ---
 
 Trotz 35° Celsius und mehr in NRW haben wir uns an diesem Wochenende nach Winterberg im schönen Hochsauerland aufgemacht. Unser Ziel war der [Bikepark Winterberg](http://www.bikepark-winterberg.de) auf der 776 Meter hohen Kappe. Zugegeben etwas schweißtreibend war es schon, doch die Strecken waren relativ leer und im Gegensatz zum Kölner Raum kratzte das Thermometer gerade so an der 30° Celsius Marke.

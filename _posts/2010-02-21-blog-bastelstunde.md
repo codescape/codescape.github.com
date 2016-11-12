@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Blog Bastelstunde
-categories: wordpress blog redesign woodworm theme github
+category: diverses
+tags: wordpress blog redesign woodworm theme github
 ---
 
 Der letzte Beitrag liegt schon einige Wochen zurück und es wurden sogar schon Stimmen laut, die nach neuen Beiträgen verlangten. So habe ich diesmal zu Pinsel und Farbe gegriffen und dem Blog einen neuen Anstrich verpasst.

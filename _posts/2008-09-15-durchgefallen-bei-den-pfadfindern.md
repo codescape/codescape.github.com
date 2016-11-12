@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Durchgefallen bei den Pfadfindern
-categories: mountainbike tour gps gummersbach
+category: mountainbike
+tags: mountainbike tour gps gummersbach
 ---
 
 Auf der gestrigen Tour habe ich einige Fotos knipsen können, ohne dass die Dämmerung bereits die Verwendung des Blitzes notwendig machte – der Vorteil von Fahrten am Wochenende. Dafür fällt dieses Mal die Streckenbeschreibung etwas dünner aus, denn auch mit einiger Anstrengung konnte ich weite Teile der Strecke nicht auf Google Maps nachvollziehen.

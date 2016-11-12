@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Sommergefühle beim Mountainbiken
-categories: mountainbike tour gps gummersbach
+category: mountainbike
+tags: mountainbike tour gps gummersbach
 ---
 
 An diesem sonnigen Oktoberwochenende musste natürlich auch das Mountainbike mal wieder bewegt werden. Und so war neben Verpflegung und Erste-Hilfe-Set auch meine Spiegelreflexkamera fix im Trinkrucksack verstaut bevor ich ein wenig ins Blaue fuhr. Aus einer geplanten kleinen Nachmittagstour wurde dann eine wirklich gelungene Route einmal um die Stadt Gummersbach herum.

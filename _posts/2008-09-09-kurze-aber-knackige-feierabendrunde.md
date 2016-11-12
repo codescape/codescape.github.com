@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Kurze aber knackige Feierabendrunde
-categories: mountainbike tour gps gummersbach
+category: mountainbike
+tags: mountainbike tour gps gummersbach
 ---
 
 Mittlerweile merkt man wieder deutlich, dass die Tage kürzer werden. Kurz nach 18 Uhr ging es los und meine Route musste aufgrund der Lichtverhältnisse etwas kürzer ausfallen. Spaß gemacht hat es trotzdem und die Strecke war in weiten Teilen komplett neu für mich!

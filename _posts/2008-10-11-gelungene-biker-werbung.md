@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Gelungene Biker-Werbung
-categories: mountainbike werbung graubünden
+category: mountainbike
+tags: mountainbike werbung graubünden
 ---
 
 Beim Stöbern in der Xing-Gruppe [Mountainbike- und Rennrad](https://www.xing.com/net/mountainbike) bin ich heute über einen lustigen Beitrag gestolpert. Den möchte ich euch aufgrund des Unterhaltungswertes natürlich nicht vorenthalten. Es geht um einen sehr gelungenen und [unterhaltsamen Werbespot](http://www.youtube.com/watch?v=ZVRfwCSmTtI) auf der Webseite der Ferienregion Graubünden in der Schweiz, der besonders Biker ansprechen dürfte.

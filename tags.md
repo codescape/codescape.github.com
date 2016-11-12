@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Themen
-permalink: categories/index.html
+title: Schlagworte
+permalink: tags/index.html
 ---
 
-Hier findest du eine Liste aller Themen, zu denen Artikel in meinem Blog existieren. Ein Klick auf das Thema führt dich zur Liste aller Beiträge zu diesem Thema:
+Hier findest du eine Liste aller Schlagworte, mit denen ich die Artikel in meinem Blog gekennzeichnet habe. Ein Klick auf das Schlagwort führt dich zur Liste aller Beiträge zu diesem Schlagwort:
 
 <ul id="categories">
-{% for category in site.categories %}
-  <li id="{{ category | first }}"><h3>{{ category | first }}</h3>
+{% for tag in site.tags %}
+  <li id="{{ tag | first }}"><h3>{{ tag | first }}</h3>
     <ul>
-    {% for posts in category %}
+    {% for posts in tag %}
       {% for post in posts %}
         {% if post.title %}
         <li><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m.%Y" }}</time> <a href="{{ post.url }}">{{ post.title }}</a></li>

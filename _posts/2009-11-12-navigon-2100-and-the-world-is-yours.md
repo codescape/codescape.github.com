@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Navigon 2100 and the world is yours
-categories: navigon application error navigon.exe
+category: mountainbike
+tags: navigon application error navigon.exe
 ---
 
 _And the world is yours…_ das möchte uns zumindest die Werbung weismachen. In der Realität sieht es leider nicht ganz so rosig aus und schon die nächste Seitenstraße kann plötzlich hinter einem “Fatal Application Error” verschwinden.
@@ -14,7 +15,7 @@ Seit diesem Moment gelingt es mir nicht mehr, das [Navigon](http://www.navigon.c
 
 > Fatal Application Error
 > Application navigon.exe has performed an illegal operation and will be shut down. If the problem persists, contact the program vendor.
-> 
+>
 > Programm: navigon.exe<br/>
 > Exception: 0×80000002<br/>
 > Address: 4C405B0C<br/>

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: MTB Trail Freunde im Harz
-categories: harz bikepark mountainbike video
+category: mountainbike
+tags: harz bikepark mountainbike video
 ---
 
 Fast schon zum Pflichtprogramm gehört einmal im Jahr unser Ausflug in den Harz mit dem Ziel ein paar der vielseitigen und abwechslungsreichen Bikeparks anzusteuern. So ging es auch dieses Jahr für sechs der [MTB Trail Freunde](https://www.facebook.com/mtbtrailfreunde/) an einem verlängerten Wochenende mit drei vollgeladenen Autos in Richtung Brocken.

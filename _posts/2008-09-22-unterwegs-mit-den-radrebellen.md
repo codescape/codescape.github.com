@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Unterwegs mit den Radrebellen
-categories: mountainbike tour eifel radrebellen
+category: mountainbike
+tags: mountainbike tour eifel radrebellen
 ---
 
 Durch einen Freund wurde ich auf das Angebot der [Rad Rebellen](http://www.rad-rebellen.de) hingewiesen. Hier wird eine geführte Tour rund um Bad Münstereifel angeboten. Gestartet wird am 12. Oktober 2008 um 12 Uhr zum Ausklang der diesjährigen Fahrradsaison.

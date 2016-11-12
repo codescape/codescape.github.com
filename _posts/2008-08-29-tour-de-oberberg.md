@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Tour de Oberberg
-categories: mountainbike
+category: mountainbike
+tags: mountainbike oberbergisches gummersbach
 ---
 
 Nachdem in den letzten Tagen das Wetter sich meistens nicht sonderlich kooperativ zeigte und zwei meiner abendlichen Touren mit einer Dusche von oben endeten, gab es heute mal wieder einen Lichtblick… etwas Sonne, kein Nass von oben und eine landschaftlich schöne Tour.

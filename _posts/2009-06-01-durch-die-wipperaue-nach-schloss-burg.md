@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Durch die Wipperaue nach Schloss Burg
-categories: mountainbike gps tour solingen wuppertal
+category: mountainbike
+tags: mountainbike gps tour solingen wuppertal
 ---
 
 Obwohl ich bereits letzte Woche eine [Tour durch das Tal der Wupper](/2009/05/24/von-haasen-und-rueden) vorgestellt habe, möchte ich heute von einem zweiten Ausflug mit dem Mountainbike in diese Gegend berichten und mit einigen Bildern ausschmücken, denn viele Stellen am Rande der Strecke luden zum kurzen Verweilen und Fotografieren ein – so zum Beispiel in Langenfeld Wiescheid der [Wiescheider Segelflugplatz](http://www.lsgerbsloeh.de) und [Haus Graven](http://de.wikipedia.org/wiki/Haus_Graven) und im weiteren Verlauf der Tour das [Rüdendenkmal](http://www.tetti.de/SOLINGEN/OBENRUEDENERKOTTEN/sage.html) und [Schloss Burg](http://www.schlossburg.de).

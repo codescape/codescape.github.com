@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Unfreiwillige Pause nach Bremsmanöver
-categories: mountainbike tour gps gummersbach
+category: mountainbike
+tags: mountainbike tour gps gummersbach
 ---
 
 Eine Tour an direkt vier verschiedenen Talsperren vorbei stand am Montag zusammen mit drei Mitfahrern auf dem Programm. Gestartet wurde an der Lingesetalsperre im Norden von Marienheide. Von hier aus ging es über Waldwege und Trampelpfade in Richtung Flugplatz Meinerzhagen. Das Rollfeld zur rechten Seite ging es über Stock und Stein am Flugplatz vorbei und durch den Wald bis nach Genkel und von dort weiter über die Straße bis zur Genkeltalsperre.

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Schottland und seine Bikeparks
-categories: schottland bikepark mountainbike urlaub
+category: mountainbike
+tags: schottland bikepark mountainbike urlaub
 ---
 
 Dieses Jahr haben [Roland Schneider](http://schneiderroland.de) und ich den Plan Schottland's schönste Flecken mit dem Bike zu erkunden in die Tat umgesetzt. Und so ging es am 6. Juni im vollbepacktem Auto und Rädern auf der Anhängerkupplung auf der Fähre in Richtung Newcastle. Vor uns lagen zwei Wochen tolle Trails, nette Menschen, atemberaubende Naturszenen, leckeres Essen und abenteuerliche Unterkünfte.

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Frohe Weihnachten
-categories: weihnachten schnee schwarzwald feldberg
+category: diverses
+tags: weihnachten schnee schwarzwald feldberg
 ---
 
 Allen Besuchern und Lesern meines Blogs wünsche ich schöne und geruhsame Weihnachtsfeiertage und einige besinnliche Stunden im Kreis von Familie und Freunden.

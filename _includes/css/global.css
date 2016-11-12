@@ -3,8 +3,9 @@ html {
 
 body {
   background: #222 url('../images/bg.jpg');
-  font: 300 14px/26px "Open Sans", sans-serif;
+  font: 300 16px/28px "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
+  text-align: justify;
   color: #eee; }
 
 a, a:visited {

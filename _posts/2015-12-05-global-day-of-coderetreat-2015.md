@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Global Day of Coderetreat 2015
-categories: java craftsmanship software coding
+category: softwareentwicklung
+tags: java craftsmanship software coding
 ---
 
 Bereits zum dritten Mal haben wir - das sind ein paar Kollegen, Freunde und ich - den [Global Day of Coderetreat](http://globalday.coderetreat.org/) in den Räumen des Essener Standortes von [OPITZ CONSULTING](http://www.opitz-consulting.com) organisiert. Und auch dieses Mal konnten wir passionierte Softwareentwickler für die Teilnahme an einem Samstag begeistern.

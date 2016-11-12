@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Die Eifel rocken mit den Radrebellen
-categories: radrebellen mountainbike video
+category: mountainbike
+tags: radrebellen mountainbike video
 ---
 
 Auch in diesem Frühjahr haben die [Radrebellen](http://www.rad-rebellen.de) mal wieder diverse Strecken abgefahren und die schönsten Abschnitte zu einer tollen Tour unter dem Codenamen "Waldrocker" zusammengestellt.

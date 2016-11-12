@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Auf Trailjagd in Ischgl
-categories: ischgl mountainbike video
+category: mountainbike
+tags: ischgl mountainbike video
 ---
 
 Nachdem uns letztes Jahr unser Bikeurlaub nach Saalbach Hinterglemm geführt hat, sollte dieses Jahr ein anderes Skigebiet auf dem Mountainbike inklusive Liftunterstützung erforscht werden. Unsere Wahl ist dieses Mal auf das schöne [Ischgl](http://www.ischgl.com) im österreichischen Tirol gefallen.

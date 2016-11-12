@@ -1,7 +1,8 @@
 ---
 layout: post
 title: WordPress - Archiv als Seitenvorlage
-categories: wordpress archiv seitenvorlage template
+category: softwareentwicklung
+tags: wordpress archiv seitenvorlage template
 ---
 
 Heute habe ich meinen Blog um ein Archiv der bisher erstellten Blog-Einträge erweitert. Hierbei handelt es sich um eine Seitenvorlage oder in der englischen WordPress-Fachsprache um ein [Page Template](http://codex.wordpress.org/Pages#Page_Templates) als Bestandteil des Theme, also des verwendeten Designs.
@@ -48,7 +49,7 @@ get_header();
 
 <div id="content">
   <h2>Archiv</h2>
-  <h3><?php echo $ergebnis; ?></h3> 
+  <h3><?php echo $ergebnis; ?></h3>
   <ul id="archivelist">
   <?php
 	/* In einer Schleife über alle Beiträge iterieren */

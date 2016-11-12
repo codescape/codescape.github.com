@@ -1,7 +1,8 @@
 ---
 layout: post
 title: iXS Dirt Masters Winterberg 2014
-categories: bikepark winterberg downhill fotos
+category: mountainbike
+tags: bikepark winterberg downhill fotos
 ---
 
 Letztes Wochenende lockten uns die [iXS Dirt Masters 2014](http://dirtmasters-festival.de/) nach Winterberg - dieses Mal blieben allerdings die eigenen Mountainbikes daheim im Stall und stattdessen fand die Kamera ihren Weg in meinen Bike-Rucksack. Bei bestem Maiwetter konnten wir nach zwei eher regnerischen Tagen am Samstag das Training und die Qualifikationsrunden bei bestem Wetter und guten Streckenbedingungen anschauen.

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Erstbefahrung im Steinbruch
-categories: steinbruch trails mountainbike video
+category: mountainbike
+tags: steinbruch trails mountainbike video
 ---
 
 Am Wochenende siegten trotz einer schon sehr gelungenen Ausfahrt in und um Solingen und Schloss Burg am Samstag die Sonne und der innere Schweinehund über die eigene Trägheit und so saßen Roland und ich am Sonntagnachmittag auf unseren Bikes und jagten den Trails hinterher - oder passender - selbige hinunter.

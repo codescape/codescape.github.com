@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Schöne Runde mit den Singletrack-Freunden Oberberg
-categories: singletrack mountainbike video
+category: mountainbike
+tags: singletrack mountainbike video
 ---
 
 An einem sonnigen Septembertag ging es in das benachbarte Frielingsdorf. Von hier aus starteten wir angeführt von Frank zu viert um uns einige schöne Trails und Abfahrten zeigen zu lassen. Die über die Facebook-Gruppe [Singletrack-Freunde Oberberg](https://www.facebook.com/groups/136825066347392/) versprochene "Schöne Runde" hatte dann auch einiges zu bieten, was das Mountainbikerherz höher schlagen lässt.

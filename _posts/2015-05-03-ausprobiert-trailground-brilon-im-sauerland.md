@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Ausprobiert: Trailground Brilon im Sauerland"
-categories: sauerland brilon mountainbike
+category: mountainbike
+tags: sauerland brilon mountainbike
 ---
 
 Am Samstag starteten wir zu dritt in Richtung Brilon im Sauerland mit dem Ziel den vor zwei Wochen offiziell eröffneten [Trailground Brilon](http://www.brilon-tourismus.de/de/themen/aktiv/radfahren/trailGround.php) auszuprobieren. Nicht weit entfernt von den beiden Bikeparks in Willingen in Winterberg erstreckt sich bei Brilon ein neu geschaffenes Streckennetz mit drei Strecken (BR: Bilstein-Runde, GT: Gipfel-Trail und 3B: Drei-Berge-Runde) unterschiedlicher Schwierigkeitsgrade und einer Gesamtlänge von 28 Kilometern.

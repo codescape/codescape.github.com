@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Tour rund um die Große Dhünntalsperre
-categories: mountainbike gps tour dhuenntalsperre
+category: mountainbike
+tags: mountainbike gps tour dhuenntalsperre
 ---
 
 Auf dem Programm für den diesjährigen Feiertag [Christi Himmelfahrt](http://de.wikipedia.org/wiki/Christi_Himmelfahrt), an dem sich zugleich auch [alle Väter feiern](http://de.wikipedia.org/wiki/Vatertag) lassen dürfen, stand für uns eine Tour um die [Große Dhünntalsperre](http://www.wupperverband.de/aufgaben/talsperren/grosse.dhuenn-talsperre/dirgrosse.dhuenn-talsperre.html) auf dem Programm. Veranstaltet wurde diese Tour von einigen vom Wetter unerschrockenen Geistern des [MTBvD](http://www.mtbvd-forum.de).

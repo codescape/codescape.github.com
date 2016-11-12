@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Automatische Vervollständigung für Facelets in Eclipse
-categories: jsf facelets java eclipse sts autocomplete
+category: softwareentwicklung
+tags: jsf facelets java eclipse sts autocomplete
 ---
 
 In diesem Artikel wird es mal wieder etwas technischer. Da ich mich im Moment beruflich wieder intensiver mit [JavaServer Faces](http://java.sun.com/javaee/javaserverfaces) beschäftige und [Eclipse](http://www.eclipse.org) (beziehungsweise die [SpringSource Tool Suite](http://www.springsource.com/products/sts)) als Entwicklungsumgebung gesetzt ist, stand ich vor dem selben Problem wie auch schon vor etwas mehr als anderthalb Jahren:

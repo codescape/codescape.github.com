@@ -33,7 +33,7 @@ $(document).ready(function() {
 
   /* remove paragraphs from gallery div */
   $('.gallery p').replaceWith(function() { return $(this).contents(); });
-  
+
   /* assign style classes to gallery div and wrap it's contents inside a unordered list */
   $('.gallery').wrapInner('<ul class="rslides"/>');
 
@@ -58,7 +58,7 @@ $(document).ready(function() {
 
   /* Single Images
   ------------------------------------------------------------------- */
-  
+
   /* add the image class to paragraphs containing an image */
   $('article p:has(img)').addClass('image');
 

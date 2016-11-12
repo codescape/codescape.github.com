@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Na, wo klappert's denn?
-categories: mountainbike defekt tour gps gummersbach
+category: mountainbike
+tags: mountainbike defekt tour gps gummersbach
 ---
 
 Nachdem ich Anfang der Woche einige Problemchen mit einer klappernden Kassette hatte und diese nur mit Hilfe meines lokalen Fahrradhändlers [Radsport Nagel](http://www.radsport-nagel.de) lösen konnte, war ich heute nach drei verregneten Tagen wieder unterwegs. Immerhin habe ich auf diesem Wege wieder etwas zur Technik meines Fahrrades dazugelernt und nebenbei noch Kettenöl und ein – bitte nicht lachen – Fahrraddeo gekauft. Mit diesem werden die Rohre der Federgabeln besprüht um so auch in Zukunft noch zuverlässig Hindernisse wegzufedern.

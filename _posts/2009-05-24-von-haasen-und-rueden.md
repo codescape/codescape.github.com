@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Von Haasen und Rüden
-categories: mountainbike tour gps solingen
+category: mountainbike
+tags: mountainbike tour gps solingen
 ---
 
 Am Sonntag lud das tolle Wetter wieder einmal zu einer kleinen Tour mit dem Mountainbike ein. Von [Hilden Ost](http://www.hilden.de) aus führte uns unser Weg durch das Naturschutzgebiet der Ohligser Heide bis nach Langenfeld Wiescheid. Von hier aus ging es auf leicht abfallender Strecke in das Tal der Wupper am [Schloss Nesselrath](http://www.leichlingen.de/Schloss-Nesselrath.296.0.html) vorbei und dann konstant bergauf über die Dörfer Oberschmitte, Hohlenweg, Kempen, Grünscheid, St. Heribert, Oberbüscherhof und Herscheid.
