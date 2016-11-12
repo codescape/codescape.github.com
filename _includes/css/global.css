@@ -46,8 +46,9 @@ h1, h2, h3, h4 {
   letter-spacing: 1px; }
 
 h1, h2 {
-  font-size: 26px;
-  line-height: 40px; }
+  font-size: 36px;
+  line-height: 46px;
+  text-align: left; }
 
 ::selection {
   background: #333;

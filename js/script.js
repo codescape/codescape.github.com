@@ -77,8 +77,9 @@ $(document).ready(function() {
 
     // fill list of categories
     $("#categories > li").each(function(index) {
+      var categoryId = $(this).attr('id');
       var category = $(this).find('h3').first().text();
-      $('#categories-list').append('<li><a href="#' + category + '" onclick="showCategory(\'' + category + '\')">' + category + '</a></li>');
+      $('#categories-list').append('<li><a href="#' + categoryId + '" onclick="showCategory(\'' + categoryId + '\')">' + category + '</a></li>');
     });
 
     // display selected catgeory

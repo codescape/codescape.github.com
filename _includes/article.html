@@ -2,16 +2,16 @@
   <header>
     <h2>{% if is_single %}{{ post.title }}{% else %}<a href="{{ post.url }}">{{ post.title }}</a>{% endif %}</h2>
     <ul>
-      <li>Veröffentlicht am <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:'%d. %B %Y' | replace:'January','Januar' | replace:'February','Februar' |replace:'March','März' | replace:'May','Mai' | replace:'June','Juni' | replace:'July','Juli' | replace:'October','Oktober' | replace:'December','Dezember' }}</time></li>
+      <li>Veröffentlicht am <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:'%d. %B %Y' | replace:'January','Januar' | replace:'February','Februar' |replace:'March','März' | replace:'May','Mai' | replace:'June','Juni' | replace:'July','Juli' | replace:'October','Oktober' | replace:'December','Dezember' }}</time>
       {% if post.categories != empty %}
-      <li>in der Kategorie
+      in der Kategorie
         {% for category in post.categories %}
           <a href="/categories/#{{ category }}" title="Artikel zum Thema {{ category | capitalize }}" class="tag">{{ category | capitalize }}</a>{% unless category == post.categories.last %}, {% endunless %}
         {% endfor %}
-      </li>
       {% endif %}
+      </li>
       {% if post.tags != empty %}
-      <li>mit den Schlagworten
+      <li>Schlagworte:
         {% for tag in post.tags %}
           <a href="/tags/#{{ tag }}" title="Artikel zum Schlagwort {{ tag | capitalize }}" class="tag">{{ tag | capitalize }}</a>{% unless tag == post.tags.last %}, {% endunless %}
         {% endfor %}

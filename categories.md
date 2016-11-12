@@ -8,7 +8,7 @@ Hier findest du eine Liste aller Themen, zu denen Artikel in meinem Blog existie
 
 <ul id="categories">
 {% for category in site.categories %}
-  <li id="{{ category | first }}"><h3>{{ category | first }}</h3>
+  <li id="{{ category | first }}"><h3>{{ category | first | capitalize }}</h3>
     <ul>
     {% for posts in category %}
       {% for post in posts %}

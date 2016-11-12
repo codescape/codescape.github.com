@@ -8,7 +8,7 @@ Hier findest du eine Liste aller Schlagworte, mit denen ich die Artikel in meine
 
 <ul id="categories">
 {% for tag in site.tags %}
-  <li id="{{ tag | first }}"><h3>{{ tag | first }}</h3>
+  <li id="{{ tag | first }}"><h3>{{ tag | first | capitalize }}</h3>
     <ul>
     {% for posts in tag %}
       {% for post in posts %}
