@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winterberg im Hochsommer
-category: mountainbike
+category: mountainbiking
 tags: winterberg bikepark mountainbike video
 ---
 

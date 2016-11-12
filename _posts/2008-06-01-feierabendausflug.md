@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Feierabendausflug
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour gps gummersbach
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Navigon 2100 and the world is yours
-category: mountainbike
+category: mountainbiking
 tags: navigon application error navigon.exe
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Erstbefahrung im Steinbruch
-category: mountainbike
+category: mountainbiking
 tags: steinbruch trails mountainbike video
 ---
 

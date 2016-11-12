@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tour rund um die Große Dhünntalsperre
-category: mountainbike
+category: mountainbiking
 tags: mountainbike gps tour dhuenntalsperre
 ---
 

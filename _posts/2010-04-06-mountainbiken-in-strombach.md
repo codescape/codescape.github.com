@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mountainbiken in Strombach
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour gps gummersbach
 ---
 

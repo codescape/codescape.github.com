@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Schlammige Erstbefahrung des Trailparks Winterberg
-category: mountainbike
+category: mountainbiking
 tags: winterberg trails mountainbike video
 ---
 

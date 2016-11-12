@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rund um den Steinbruch
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour gps fotos gummersbach
 ---
 

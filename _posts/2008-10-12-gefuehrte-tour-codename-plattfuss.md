@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Geführte Tour - Codename "Plattfuß"
-category: mountainbike
+category: mountainbiking
 tags: mountainbike radrebellen fotos tour
 ---
 

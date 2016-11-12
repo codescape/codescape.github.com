@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fahrradhandbuch kostenlos herunterladen
-category: mountainbike
+category: mountainbiking
 tags: mountainbike handbuch wartung pflege
 ---
 

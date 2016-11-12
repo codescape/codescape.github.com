@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Besuch im Warsteiner Bikepark
-category: mountainbike
+category: mountainbiking
 tags: bikepark warstein mountainbike video
 ---
 

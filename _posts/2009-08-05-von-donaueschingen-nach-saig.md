@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Von Donaueschingen nach Saig
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour gps schwarzwald donaueschingen saig
 ---
 

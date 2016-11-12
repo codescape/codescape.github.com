@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Videos mit der ContourHD
-category: mountainbike
+category: mountainbiking
 tags: video contour mountainbike
 ---
 

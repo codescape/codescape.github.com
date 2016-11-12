@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Schottland und seine Bikeparks
-category: mountainbike
+category: mountainbiking
 tags: schottland bikepark mountainbike urlaub
 ---
 

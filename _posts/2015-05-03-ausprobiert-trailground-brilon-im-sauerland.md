@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ausprobiert: Trailground Brilon im Sauerland"
-category: mountainbike
+category: mountainbiking
 tags: sauerland brilon mountainbike
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Heidberger Mühle im Ittertal
-category: mountainbike
+category: mountainbiking
 tags: mountainbike fotos haan hilden panorama
 ---
 

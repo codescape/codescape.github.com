@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gelungene Biker-Werbung
-category: mountainbike
+category: mountainbiking
 tags: mountainbike werbung graubünden
 ---
 

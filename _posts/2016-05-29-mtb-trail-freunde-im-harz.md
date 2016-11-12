@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MTB Trail Freunde im Harz
-category: mountainbike
+category: mountainbiking
 tags: harz bikepark mountainbike video
 ---
 

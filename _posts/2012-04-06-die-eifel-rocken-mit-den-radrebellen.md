@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Die Eifel rocken mit den Radrebellen
-category: mountainbike
+category: mountainbiking
 tags: radrebellen mountainbike video
 ---
 

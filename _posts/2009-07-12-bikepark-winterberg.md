@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bikepark Winterberg
-category: mountainbike
+category: mountainbiking
 tags: mountainbike bikepark winterberg sauerland
 ---
 

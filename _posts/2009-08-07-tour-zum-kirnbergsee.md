@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tour zum Kirnbergsee
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour gps schwarzwald donaueschingen
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Frühzeitiges Wochenende
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour gps gummersbach
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Auf Trailjagd in Ischgl
-category: mountainbike
+category: mountainbiking
 tags: ischgl mountainbike video
 ---
 

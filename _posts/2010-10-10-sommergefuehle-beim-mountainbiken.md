@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sommergefühle beim Mountainbiken
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour gps gummersbach
 ---
 

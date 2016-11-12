@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tour zur Müngstener Brücke
-category: mountainbike
+category: mountainbiking
 tags: mountainbike gps tour solingen wuppertal
 ---
 

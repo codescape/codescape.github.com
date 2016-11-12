@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Back to Business
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour reparatur ergon gummersbach
 ---
 

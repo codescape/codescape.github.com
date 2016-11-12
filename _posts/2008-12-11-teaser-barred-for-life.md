@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teaser - Barred for Life
-category: mountainbike
+category: mountainbiking
 tags: mountainbike video stunts wordpress
 ---
 

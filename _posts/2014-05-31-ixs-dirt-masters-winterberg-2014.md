@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iXS Dirt Masters Winterberg 2014
-category: mountainbike
+category: mountainbiking
 tags: bikepark winterberg downhill fotos
 ---
 

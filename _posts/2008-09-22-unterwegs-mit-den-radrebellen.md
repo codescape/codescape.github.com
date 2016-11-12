@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unterwegs mit den Radrebellen
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour eifel radrebellen
 ---
 

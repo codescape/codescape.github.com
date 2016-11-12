@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tour de Oberberg
-category: mountainbike
+category: mountainbiking
 tags: mountainbike oberbergisches gummersbach
 ---
 

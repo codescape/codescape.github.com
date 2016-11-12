@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neues Spielzeug - Garmin Oregon
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour gps garmin oregon
 ---
 

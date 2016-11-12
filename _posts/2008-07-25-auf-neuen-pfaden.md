@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Auf neuen Pfaden
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour gps gummersbach
 ---
 

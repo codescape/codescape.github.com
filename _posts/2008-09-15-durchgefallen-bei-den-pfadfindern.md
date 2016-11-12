@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Durchgefallen bei den Pfadfindern
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour gps gummersbach
 ---
 

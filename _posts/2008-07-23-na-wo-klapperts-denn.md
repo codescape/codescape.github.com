@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Na, wo klappert's denn?
-category: mountainbike
+category: mountainbiking
 tags: mountainbike defekt tour gps gummersbach
 ---
 

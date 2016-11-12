@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Frühlingstour mit den Rad-Rebellen
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour radrebellen eifel
 ---
 

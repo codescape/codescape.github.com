@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Auf den Spuren Karls des Großen
-category: mountainbike
+category: mountainbiking
 tags: mountainbike kaiserroute gps tour
 ---
 

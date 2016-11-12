@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kurze aber knackige Feierabendrunde
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour gps gummersbach
 ---
 

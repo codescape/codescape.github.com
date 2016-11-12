@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A mords Gaudi mit den Radrebellen
-category: mountainbike
+category: mountainbiking
 tags: radrebellen mountainbike video
 ---
 

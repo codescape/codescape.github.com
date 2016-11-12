@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Die Saison ist eröffnet
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour gps gummersbach
 ---
 

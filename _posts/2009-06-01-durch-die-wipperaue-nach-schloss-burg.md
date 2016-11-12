@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Durch die Wipperaue nach Schloss Burg
-category: mountainbike
+category: mountainbiking
 tags: mountainbike gps tour solingen wuppertal
 ---
 

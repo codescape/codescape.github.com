@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Natur pur im Oberbergischen
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour gps gummersbach
 ---
 

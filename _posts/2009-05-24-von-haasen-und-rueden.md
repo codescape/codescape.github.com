@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Von Haasen und Rüden
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour gps solingen
 ---
 

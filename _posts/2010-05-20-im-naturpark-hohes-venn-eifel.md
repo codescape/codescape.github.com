@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Im Naturpark Hohes Venn-Eifel
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour gps fotos eifel nettersheim
 ---
 

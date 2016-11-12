@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Schöne Runde mit den Singletrack-Freunden Oberberg
-category: mountainbike
+category: mountainbiking
 tags: singletrack mountainbike video
 ---
 

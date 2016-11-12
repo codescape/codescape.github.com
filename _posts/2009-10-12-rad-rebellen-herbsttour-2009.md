@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rad Rebellen Herbsttour 2009
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour gps radrebellen eifel
 ---
 

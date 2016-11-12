@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tour der Radrebellen 2011
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour gps eifel
 ---
 

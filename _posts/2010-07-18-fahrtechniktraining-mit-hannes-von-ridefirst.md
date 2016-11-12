@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fahrtechniktraining mit Hannes von Ridefirst
-category: mountainbike
+category: mountainbiking
 tags: mountainbike fahrtechnik ridefirst
 ---
 

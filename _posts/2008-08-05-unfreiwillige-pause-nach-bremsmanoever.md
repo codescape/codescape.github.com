@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unfreiwillige Pause nach Bremsmanöver
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour gps gummersbach
 ---
 

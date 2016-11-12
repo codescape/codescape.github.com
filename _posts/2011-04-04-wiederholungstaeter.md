@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wiederholungstäter
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour fotos gummersbach
 ---
 

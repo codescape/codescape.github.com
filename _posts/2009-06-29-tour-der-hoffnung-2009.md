@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tour der Hoffnung 2009
-category: mountainbike
+category: mountainbiking
 tags: mountainbike tour gps eifel
 ---
 
