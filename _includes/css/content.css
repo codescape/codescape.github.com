@@ -15,7 +15,7 @@
 #content article header ul li:after {
   content: "\00A0\00A0\00B7\00A0\00A0"; }
 
-#content article header ul li:last-child:after {	
+#content article header ul li:last-child:after {
   content: ""; }
 
 #content p {
@@ -26,13 +26,13 @@
 
 #content p.image {
   text-align: center; }
-  
+
 #content p.image a {
   border: none; }
 
 #content ul, #content ol {
   margin: 10px 0; }
-  
+
 #content ul li {
   list-style: square ;
   margin: 0 0 0 40px; }
