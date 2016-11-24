@@ -11,6 +11,8 @@ Trotz vorabendlichem Besuch auf dem Hamburger Dom gehöre ich am Montagmorgen zu
 
 Im Anschluss zeigt Ruben Straube mit dem Vortrag *Underneath Your Code: Was ein Repository uns verraten kann* was man mit etwas Detektivarbeit und den passenden Werkzeugen aus den Metadaten eines Source-Code-Repository so alles herauslesen kann. Für mich definitiv ein völlig neuer Blickwinkel, denn mit diesem Ansatz fördert man auf jeden Fall gänzlich andere Messgrößen hervor als beispielsweise mit einer statischen Codeanalyse.
 
+![User-Stories schneiden mit Elefanten-Carpaccio](/images/2016-11-22/001.jpg)
+
 Im späteren Verlauf der Konferenz lerne ich, dass die folgende Session ein super Beispiel für die sogenannte Kopfstand-Methode ist: Tilmann Glaser und Peter Fichtner präsentieren sehr anschaulich *Die 10 goldenen Regeln für schlechte Tests* und transformieren eine aufgeräumte Codebasis schrittweise tiefer und tiefer in den Sumpf dieser 10 Regeln hinein. Was dabei herauskommt erfordert wieder echte Helden, denn diese Codezeilen mag wirklich niemand anderes lesen geschweige denn verstehen.
 
 Vor dem Mittagessen wähle ich noch eine Session über nachhaltige Architekturen für agile Projekte, hier nehme ich allerdings nur ein Loch im Bauch für die Mittagspause mit, welches mit leckeren Speisen wieder gefüllt werden kann. Nach der Pause zeigt uns Holger Stanislawski in der Keynote *Supermarkt vs. Fußball: 1:0 für die Führung!* die Parallelen zwischen der Führung eines Fußballteams und seines Supermarktes. Das Ergebnis ist ein extrem kurzweiliger Vortrag, in welchem er uns seine Interpretation von Führung näher bringt und zu direkter und ehrlicher Kommunikation motiviert.
@@ -21,13 +23,17 @@ Die Coding Challenge zum Abendevent spare ich mir zugunsten interessanter Gespr�
 
 Gar nicht so schwere Kost serviert uns am Dienstagmorgen Alex Schwartz mit dem Workshop *Wie isst man einen Elefanten? User-Stories schneiden mit Elefanten-Carpaccio*. Ich lerne ein interessantes Workshop-Format kennen mit welchem das Schneiden von User Stories motiviert und sogar bei der Implementierung erfahrbar wird. Unser Team entscheidet sich für JavaScript als Technologie und verwendet [jsfiddle](http://www.jsfiddle.net) als die wohl am schnellsten aufgesetzte Entwicklungsumgebung um Story für Story funktionierende Software in den spontan ausgerufenen Demos zu präsentieren.
 
-Als wäre das alleine nicht bereits ein gelungener Start in den zweiten Tag, bleibe ich im selben Raum und nehme an der Session *Mehrere Teams und eine Herausforderung: Schafft Ihr es gemeinsam aus dem Tempel?* teil. Malte Sussdorff und Martin Heider erklären uns hier die Regeln des kooperativen Brettspiels [Escape](http://www.escape-queen-games.com/) und die Besonderheiten bei der tischübergreifenden Zusammenarbeit. Nach drei Runden, einigen Szenarien zur Verwendung dieses Spiels und einer gemeinsamen Retrospektive ist der Vormittag auch schon vorbei und auch mein Magen meldet sich pünktlich für das Mittagessen.
+![Escape - Schafft ihr es gemeinsam aus dem Tempel?](/images/2016-11-22/002.jpg)
+
+Als wäre das alleine nicht bereits ein gelungener Start in den zweiten Tag, bleibe ich im selben Raum und nehme an der Session *Mehrere Teams und eine Herausforderung: Schafft ihr es gemeinsam aus dem Tempel?* teil. Malte Sussdorff und Martin Heider erklären uns hier die Regeln des kooperativen Brettspiels [Escape](http://www.escape-queen-games.com/) und die Besonderheiten bei der tischübergreifenden Zusammenarbeit. Nach drei Runden, einigen Szenarien zur Verwendung dieses Spiels und einer gemeinsamen Retrospektive ist der Vormittag auch schon vorbei und auch mein Magen meldet sich pünktlich für das Mittagessen.
 
 Dass solche Konferenztage anstrengend sein können oder ich vielleicht doch nicht mehr der Jüngste bin merke ich nach dem Mittagessen, als uns Nat Pryce mit der Keynote *TDD & the Wisdom of the Ancients* durch das Suppenkoma bringen soll. Ich schaffe es leider nicht so gut, seinen Blick in die Vergangenheit und die Ableitungen für unsere Arbeit in Softwareentwicklungsprojekten angemessen zu würdigen - glücklicherweise kann man seinen Vortrag später auch online anschauen.
 
 Ein echter Wachmacher dagegen ist die Session von Erik Hogrefe und Andreas Erber mit dem Titel *Liberating Structures in Retrospektiven*. Sie stellen das Konzept der [Liberating Structures](http://www.liberatingstructures.com/) vor und lassen uns vier solcher Structures direkt am eigenen Leib erfahren. Für mich ein echter Schatz, der sich genial für Retrospektiven und die Strukturierung von größeren Gruppendiskussionen eignet und einen Platz in meinem Methodenkoffer findet.
 
 Ich hatte die Qual der Wahl mich zwischen direkt mehreren interessanten Vorträgen zu entscheiden und habe mich dann für den *eXtreme Presentations* Slot entschieden - hier gab es direkt 5 kompakte Vorträge mit 20 Folien zu je 20 Sekunden zu verfolgen.
+
+![Feedback willkommen!](/images/2016-11-22/003.jpg)
 
 Abgerundet habe ich die Konferenz dann noch mit dem Vortrag *MURCS - Wir machen jetzt Scrum, aber das Meeting passt leider nicht und einen PO haben wir irgendwie auch nicht...* von Ina Einemann und Ulf Mewe. Mein wichtigstes Mitbringsel aus diesem Vortrag ist der Nokia Test, den ich mal mit einem eigenen Team durchführen möchte.
 
