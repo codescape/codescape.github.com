@@ -3,7 +3,7 @@ html {
 
 body {
   background: #222 url('../images/bg.jpg');
-  font: 300 16px/28px "Open Sans", sans-serif;
+  font: 300 16px/1.75em "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   text-align: justify;
   color: #eee; }
