@@ -41,14 +41,16 @@ code {
 
 h1, h2, h3, h4 {
   color: #F22E2E;
+  font-family: 'Arima Madurai', cursive;
   font-weight: 300;
   margin: 20px 0 10px;
   letter-spacing: 1px; }
 
 h1, h2 {
   font-size: 36px;
-  line-height: 46px;
-  text-align: left; }
+  line-height: 1.5em;
+  text-align: left;
+  margin: 0.5em 0; }
 
 ::selection {
   background: #333;
