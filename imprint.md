@@ -13,7 +13,7 @@ Gummerother Str. 11<br/>
 ### Kontakt
 
 Telefon: [+49 (0)2261 2890889](tel:+4922612890889)<br/>
-Mobil: [+49 (0)173 7276096](tel:+491737276096)<br/>
+Mobil: [+49 (0)151 56015606](tel:+4915156015606)<br/>
 E-Mail: [stefan.glase@googlemail.com](mailto:stefan.glase@googlemail.com)
 
 Haftungsausschluss
