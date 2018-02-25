@@ -2,32 +2,52 @@ html {
   overflow-y: scroll; }
 
 body {
-  background: #222 url('../images/bg.jpg');
-  font: 300 16px/1.75em "Open Sans", sans-serif;
+  background: #fff;
+  font-family: 'Lora', serif;
+  font-size: 16px;
+  line-height: 29px;
   -webkit-font-smoothing: antialiased;
-  text-align: justify;
-  color: #eee; }
+  color: #222; }
 
 a, a:visited {
-  color: #F2B33D;
-  text-decoration: none;
-  -moz-transition: all 0.5s ease;
-  -webkit-transition: all 0.5s ease;
-  -o-transition: all 0.5s ease;
-  transition: all 0.5s ease; }
+  color: tomato;
+  border-bottom: 1px dotted #ccc;
+  padding-bottom: 1px;
+  text-decoration:none;
+  -o-transition: color 0.2s ease-in;
+  -webkit-transition: color 0.2s ease-in;
+  -moz-transition: color 0.2s ease-in;
+  transition: color 0.2s ease-in; }
 
 a:hover {
-  color: #F22E2E; }
+  color: #333; }
 
 em, strong {
   font-weight: 700; }
 
 blockquote {
-  background: rgba(0, 0, 0, 0.4);
-  font-style: italic;
-  padding: 5px 15px 15px;
-  border-radius: 4px;
-  text-align: justify; }
+  position: relative;
+  margin: 21px 0;
+  font-weight: bold;
+  border-top: 1px dashed #cacaca;
+  display: block;
+  border-bottom: 1px dashed #cacaca;
+  padding: 8px 65px;
+  text-align: center;
+  line-height: 1.6em;
+  font-size: 1.1em;
+  border-left: none;
+  border-right: none; }
+
+blockquote:before {
+  content: "\201C";
+  position: absolute;
+  left: 0;
+  top: 50px;
+  font-size: 100px;
+  color: #EDEDED;
+  font-family: Georgia,"Times New Roman",Times,serif;
+  font-style: initial; }
 
 pre {
   padding: 15px;
@@ -40,14 +60,13 @@ code {
   font: 0.85em/1em Monaco, monospace; }
 
 h1, h2, h3, h4 {
-  color: #F22E2E;
-  font-family: 'Arima Madurai', cursive;
-  font-weight: 300;
+  font-family: 'Lora', serif;
+  font-weight: 700;
   margin: 20px 0 10px;
-  letter-spacing: 1px; }
+  letter-spacing: 0.8px; }
 
 h1, h2 {
-  font-size: 36px;
+  font-size: 23px;
   line-height: 1.5em;
   text-align: left;
   margin: 0.5em 0; }

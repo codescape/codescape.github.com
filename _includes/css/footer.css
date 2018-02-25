@@ -1,11 +1,12 @@
 #additional {
-  border-top: 1px solid #292929;
-  background: rgba(0, 0, 0, 0.4);
-  padding: 0 20px 20px; }
+  font-size: 14px;
+  padding: 21px 0; }
 
 #elsewhere {
-  max-width: 820px;
-  margin: 20px auto; }
+  border-top: 1px dotted #ddd;
+  padding-top: 21px;
+  max-width: 710px;
+  margin: 0 auto; }
 
 #elsewhere ul {
   text-align: center; }
@@ -15,11 +16,9 @@
   margin-right: 10px; }
 
 #footer {
-  color: #666;
-  max-width: 720px;
+  max-width: 710px;
   margin: 20px auto;
-  text-align: center;
-  font-size: 0.85em; }
+  text-align: center; }
 
 #footer ul li {
   display: inline; }
@@ -29,3 +28,9 @@
 
 #footer ul li:last-child:after {
   content: ""; }
+
+#footer ul li a {
+  color: #222; }
+
+#footer ul li a:hover {
+  color: #000; }

@@ -2,7 +2,7 @@
 layout: post
 title: XP Days Germany 2016
 category: softwareentwicklung
-tags: software agile scrum lean retrospective
+tags: software agile scrum retrospective
 ---
 
 Gerade sitze ich am Flughafen in Hamburg und gehe im Kopf die vielen Eindrücke durch, die ich in den letzten beiden Tagen auf den [XP Days Germany 2016](http://www.xpdays.de/2016) habe sammeln dürfen. Noch extrem frisch und dennoch aufgrund der Fülle an neuen Ideen, interessanten Anregungen und wertvollen Erkenntnissen schwer zu greifen versuche ich mich daran, meine persönlichen Highlights vorzustellen.

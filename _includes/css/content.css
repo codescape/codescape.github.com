@@ -1,12 +1,21 @@
 #content {
-  max-width: 820px;
-  margin: 20px auto;
-  padding: 0 20px; }
+  max-width: 710px;
+  margin: 20px auto; }
+
+#content article {
+  margin: 29px 0; }
+
+#content article header h2 a {
+  color: #222;
+  border-bottom: none; }
 
 #content article header ul {
   color: #666;
   margin: -10px 0 0 0;
-  font-size: 0.85em; }
+  font-size: 12px; }
+
+#content article header .fas {
+  color: #ccc; }
 
 #content article header ul li {
   display: inline;
@@ -18,8 +27,14 @@
 #content article header ul li:last-child:after {
   content: ""; }
 
+#content article header ul li a {
+  color: #222; }
+
+#content article header ul li a:hover {
+  color: #000; }
+
 #content p {
-  margin: 10px 0; }
+  margin: 21px 0; }
 
 #content p:last-of-type {
   margin: 10px 0 0 0; }

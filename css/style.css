@@ -3,7 +3,6 @@
 
 {% include css/reset.css %}
 {% include css/global.css %}
-{% include css/tagging.css %}
 {% include css/header.css %}
 {% include css/content.css %}
 {% include css/gallery.css %}

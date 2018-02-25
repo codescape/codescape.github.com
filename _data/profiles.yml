@@ -2,10 +2,6 @@
   username: stefanglase
   url: http://www.twitter.com/stefanglase
 
-- service: google+
-  username: stefanglase
-  url: http://www.google.com/+StefanGlase
-
 - service: github
   username: codescape
   url: http://www.github.com/codescape
@@ -33,7 +29,3 @@
 - service: instagram
   username: stefanglase
   url: http://instagram.com/stefanglase
-
-- service: lanyrd
-  username: stefanglase
-  url: http://lanyrd.com/profile/stefanglase
