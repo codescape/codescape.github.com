@@ -4,8 +4,8 @@
 
 #elsewhere {
   border-top: 1px dotted #ddd;
-  padding-top: 21px;
   max-width: 710px;
+  padding: 21px 10px 0 10px;
   margin: 0 auto; }
 
 #elsewhere ul {
