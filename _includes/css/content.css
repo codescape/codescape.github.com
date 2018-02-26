@@ -37,9 +37,6 @@
 #content p {
   margin: 21px 0; }
 
-#content p:last-of-type {
-  margin: 10px 0 0 0; }
-
 #content p.image {
   text-align: center; }
 
