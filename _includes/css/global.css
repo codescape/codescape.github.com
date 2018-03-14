@@ -29,6 +29,7 @@ blockquote {
   position: relative;
   margin: 21px 0;
   font-weight: bold;
+  font-family: 'Indie Flower';
   border-top: 1px dashed #cacaca;
   display: block;
   border-bottom: 1px dashed #cacaca;
@@ -46,7 +47,7 @@ blockquote:before {
   top: 50px;
   font-size: 100px;
   color: #EDEDED;
-  font-family: Georgia,"Times New Roman",Times,serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-style: initial; }
 
 pre {
@@ -60,16 +61,20 @@ code {
   font: 0.85em/1em Monaco, monospace; }
 
 h1, h2, h3, h4 {
-  font-family: 'Lora', serif;
+  font-family: 'Indie Flower', cursive;
   font-weight: 700;
   margin: 20px 0 10px;
   letter-spacing: 0.8px; }
 
 h1, h2 {
-  font-size: 23px;
+  font-size: 28px;
   line-height: 1.5em;
   text-align: left;
   margin: 0.5em 0; }
+
+h3 {
+  font-size: 24px;
+}
 
 ::selection {
   background: #333;
