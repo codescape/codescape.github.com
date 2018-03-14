@@ -8,6 +8,6 @@ Herzlich willkommen in meinem Blog! Ich freue mich, dass du hierher gefunden has
 
 ![Stefan](/images/about.jpg)
 
-Doch auch andere Themen wie Artikel zur [Softwareentwicklung](/categories/#softwareentwicklung) finden ihren Weg in diesen Blog, denn beruflich arbeite ich als IT Analyst / Scrum Master für die [congstar GmbH](https://www.congstar.de/das-ist-congstar/) und beschäftige mich mit der agilen Softwareentwicklung. Vor einigen Jahren habe ich Scrum und Agile Methoden für mich entdeckt und unterstütze Teams dabei nachhaltige und wertschöpfende Software zu entwickeln.
+Doch auch andere Themen wie Artikel zur [Softwareentwicklung](/categories/#softwareentwicklung) finden ihren Weg in diesen Blog, denn beruflich arbeite ich als IT-Analyst / Scrum Master bei [congstar](https://www.congstar.de/das-ist-congstar/) und beschäftige mich hier mit der agilen Softwareentwicklung. Bereits vor einigen Jahren habe ich Scrum und Agile Methoden für mich entdeckt und unterstütze Teams dabei nachhaltige und wertschöpfende Software zu entwickeln.
 
 Genug der vielen Worte: Ich wünsche viel Spaß beim Durchstöbern meines Blogs und freue mich über die eine oder andere Rückmeldung!
