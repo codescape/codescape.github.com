@@ -9,4 +9,6 @@ Wieder einmal haben wir einen Flowtrail unter die Stollen genommen - dieses Mal 
 
 <div class="elastic-iframe"><iframe src="//player.vimeo.com/video/274277633?portrait=0&amp;color=f2b33d" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
-Bei Temperaturen um die 30° kam uns dieses Angebot sehr entgegen. Ohne großes Anstehen am Lift konnten wir auf diese Weise trotz unserer späten Anreise einige Abfahrten vor dem herannahenden Gewitter machen. Einen Eindruck von sehr flowigen und trotz der Regenschauer in den vergangenen Tagen überhaupt nicht matschigen Trails kann man sich im Video verschaffen.
+Bei Temperaturen um die 30° kam uns dieses Angebot sehr entgegen. Ohne großes Anstehen am Lift konnten wir auf diese Weise trotz unserer späten Anreise einige Abfahrten vor dem herannahenden Gewitter machen. Einen Eindruck von den sehr flowigen und trotz der Regenschauer in den vergangenen Tagen überhaupt nicht matschigen Trails kann man sich im Video verschaffen.
+
+Vielen Dank an alle diejenigen, die diesen Flowtrail möglich gemacht haben. Wir haben gut geschwitzt und hatten unseren Spaß!
