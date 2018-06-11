@@ -22,6 +22,10 @@
   username: stefan_glase
   url: http://www.xing.com/profile/Stefan_Glase
 
+- service: linkedin
+  username: stefan-glase
+  url: https://www.linkedin.com/in/stefan-glase
+
 - service: vimeo
   username: codescape
   url: http://vimeo.com/codescape
