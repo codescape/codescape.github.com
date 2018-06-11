@@ -3,11 +3,12 @@ html {
 
 body {
   background: #fff;
-  font-family: 'Lora', serif;
+  font-family: 'Roboto Condensed', serif;
+  font-weight: 300;
   font-size: 16px;
   line-height: 29px;
   -webkit-font-smoothing: antialiased;
-  color: #222; }
+  color: #000; }
 
 a, a:visited {
   color: tomato;
