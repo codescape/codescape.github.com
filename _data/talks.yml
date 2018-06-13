@@ -1,3 +1,12 @@
+- title: Agilität - Die congstar Story
+  description: Ein Rückblick auf die letzten acht Jahre Agilität bei congstar: Thematisiert werden die Transition von Wasserfall zu "Scrum ... but" und die weiteren Schritte hin zu einer echten Scrum-Implementierung, die Skalisierung von anfänglich 3 Teams auf mittlerweile 22 Teams, die damit verbundenen Erfahrungen und Herausforderungen sowie die Priorisierung von Themen. Abgerundet wird der Vortrag mit einer Q&A-Runde in einem agilen Format.
+  conferences: 
+    - title: Telekom Customer Finance Führungskreis
+      link: http://www.telekom.de
+      cospeaker: Mitch Rauth
+      location: Köln
+      date: 12.06.2018
+
 - title: "Praxisbericht: Führung von agilen, verteilten Teams"
   description: Wenn agile Softwareentwicklung und verteilte Teams aufeinandertreffen, sehen sich die Beteiligten vor neue Anforderungen gestellt, um in einem agilen Team gemeinsam planen, arbeiten und im agilen Alltag miteinander kommunizieren zu können. Dieser Praxisbericht stellt Erfahrungen mit unterschiedlichsten Werkzeugen und Methoden vor, die sich in der Praxis bei verteilten Softwareentwicklungsprojekten im Projektalltag bewährt haben.
   conferences:
