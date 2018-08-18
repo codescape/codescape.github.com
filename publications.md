@@ -13,7 +13,7 @@ Auf dieser Seite möchte ich von mir gehaltene [Vorträge](#vortraege) auf Messe
 <p>{{talk.description}}</p>
 <ul>
 	{% for conference in talk.conferences %}
-		<li>Vortrag für <a href="{{conference.link}}">{{conference.title}}</a>
+		<li>{{talk.type}} für <a href="{{conference.link}}">{{conference.title}}</a>
 		{% if conference.cospeaker %}mit {{conference.cospeaker}}{% endif %}
 		in {{conference.location}} am {{conference.date}}</li>
 	{% endfor %}
