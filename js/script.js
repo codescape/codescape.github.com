@@ -28,6 +28,17 @@ function showMap(file, id) {
 
 $(document).ready(function() {
 
+  /* Header
+  ------------------------------------------------------------------- */
+
+  $(window).on('resize', resize);
+
+  function resize() {
+    $('.hidden-header').height($('#header').height());
+  }
+
+  resize();
+
   /* Galleries
   ------------------------------------------------------------------- */
 
