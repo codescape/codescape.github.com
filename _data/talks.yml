@@ -12,6 +12,10 @@
   description: "In dieser Session verwenden wir Lego um auf interaktive Weise agiles Denken und das Scrum Framework zu erleben und zu verstehen. Wir durchleben zwei komplette Sprints von der Produktvision über die Sprintplanung und Backlogpflege bis hin zur Ergebnispräsentation und Retrospektive."
   type: Workshop
   conferences:
+    - title: "Telekom Führungskräfte Technik Nord"
+      link: http://www.telekom.de
+      location: Hamburg
+      date: 10.10.2018
     - title: "Telekom #Auftakt Neues Arbeiten@BNLW"
       link: http://www.telekom.de
       location: Bonn
