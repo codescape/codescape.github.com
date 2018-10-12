@@ -14,6 +14,7 @@
   conferences:
     - title: "Telekom Führungskräfte Technik Nord"
       link: http://www.telekom.de
+      cospeaker: Timo Pinzauti
       location: Hamburg
       date: 10.10.2018
     - title: "Telekom #Auftakt Neues Arbeiten@BNLW"
