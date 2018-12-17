@@ -1,12 +1,11 @@
 #header {
-  border-bottom: 1px dotted #ddd;
   text-align: center;
   padding: 0 10px;
   position: fixed;
   width: 100%;
   top: 0;
   z-index: 99999;
-  background-color: #fff; }
+  background: #24292e; }
 
 #header > h1 {
   font-size: 28px;
@@ -17,17 +16,17 @@
 
 #header > h1 > a, #header > h1 > a:hover {
   border-bottom: none;
-  color: #222; }
+  color: #ccc; }
 
 #header > nav {
   display: inline-block; }
 
 #header > nav a {
-  color: #222;
+  color: #ccc;
   border-bottom: none; }
 
 #header > nav a:hover {
-  color: #000; }
+  color: tomato; }
 
 #header li {
   vertical-align: middle;

@@ -7,11 +7,11 @@
   margin: 40px 0; }
 
 #content article header h2 a {
-  color: #222;
+  color: #ccc;
   border-bottom: none; }
 
 #content article header ul {
-  color: #666;
+  color: #999;
   margin: -10px 0 0 0;
   font-size: 12px; }
 
@@ -29,10 +29,10 @@
   content: ""; }
 
 #content article header ul li a {
-  color: #222; }
+  color: #ccc; }
 
 #content article header ul li a:hover {
-  color: #000; }
+  color: tomato; }
 
 #content p {
   margin: 21px 0; }

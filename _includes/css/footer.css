@@ -1,5 +1,4 @@
 #additional {
-  border-top: 1px dotted #ddd;
   padding: 0 20px;
   font-size: 14px; }
 
@@ -30,7 +29,7 @@
   content: ""; }
 
 #footer ul li a {
-  color: #222; }
+  color: #ccc; }
 
 #footer ul li a:hover {
-  color: #000; }
+  color: tomato; }

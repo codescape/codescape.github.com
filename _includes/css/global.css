@@ -2,13 +2,13 @@ html {
   overflow-y: scroll; }
 
 body {
-  background: #fff;
+  background: #24292e;
   font-family: 'Signika', serif;
   font-weight: 300;
   font-size: 16px;
   line-height: 29px;
   -webkit-font-smoothing: antialiased;
-  color: #000; }
+  color: #ccc; }
 
 a, a:visited {
   color: tomato;
@@ -21,7 +21,7 @@ a, a:visited {
   transition: color 0.2s ease-in; }
 
 a:hover {
-  color: #333; }
+  color: #ccc; }
 
 em, strong {
   font-weight: 700; }
@@ -47,7 +47,7 @@ blockquote:before {
   left: 0;
   top: 50px;
   font-size: 100px;
-  color: #EDEDED;
+  color: #999;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-style: initial; }
 
@@ -78,12 +78,12 @@ h3 {
 }
 
 ::selection {
-  background: #333;
-  color: #FFF; }
+  background: #666;
+  color: #ccc; }
 
 ::-moz-selection {
-  background: #333;
-  color: #FFF; }
+  background: #666;
+  color: #ccc; }
 
 img::selection {
   background: transparent; }
