@@ -10,7 +10,7 @@ paginate_path: "pages/:num/"
 
 # site configuration
 # ------------------
-url: http://www.stefanglase.de
+url: https://www.stefanglase.de
 title: stefanglase.de
 description: 'Hier bloggt Stefan Glase über Softwareentwicklung, Mountainbiking und allerlei andere Dinge.'
 keywords: 'Mountainbike, Enduro, Java, Softwareentwicklung, Groovy, Grails, Maven, Spring, BitvUnit'
