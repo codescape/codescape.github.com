@@ -13,7 +13,7 @@ paginate_path: "pages/:num/"
 url: https://www.stefanglase.de
 title: stefanglase.de
 description: 'Hier bloggt Stefan Glase über Softwareentwicklung, Mountainbiking und allerlei andere Dinge.'
-keywords: 'Mountainbike, Enduro, Java, Softwareentwicklung, Groovy, Grails, Maven, Spring, BitvUnit'
+keywords: 'Mountainbike, MTB, Enduro, Java, Softwareentwicklung, Groovy, Grails, Maven, Spring, BitvUnit, Atlassian, Jira, Scrum, Agile'
 author: Stefan Glase
 email: stefan.glase@googlemail.com
 
