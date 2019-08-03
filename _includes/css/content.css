@@ -44,7 +44,7 @@
   border: none; }
 
 #content ul, #content ol {
-  margin: 10px 0; }
+  margin: 1rem 0 2rem; }
 
 #content ul li {
   list-style: square ;
