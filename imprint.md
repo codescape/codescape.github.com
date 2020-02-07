@@ -12,8 +12,7 @@ Alte Holzer Str. 26a
 
 ### Kontakt
 
-Telefon: [+49 (0)2261 2890889](tel:+4922612890889)<br/>
-Mobil: [+49 (0)151 56015606](tel:+4915156015606)<br/>
+Mobil: [+49 (0)151 56015606](tel:+4915156015606)    
 E-Mail: [stefan.glase@googlemail.com](mailto:stefan.glase@googlemail.com)
 
 Haftungsausschluss
