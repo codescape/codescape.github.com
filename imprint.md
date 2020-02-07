@@ -6,9 +6,9 @@ permalink: imprint/index.html
 
 Für diesen Blog gemäß § 5 [Telemediengesetz](http://www.gesetze-im-internet.de/tmg/) verantwortlich:
 
-Stefan Glase<br/>
-Gummerother Str. 11<br/>
-51643 Gummersbach
+Stefan Glase    
+Alte Holzer Str. 26a    
+42799 Leichlingen
 
 ### Kontakt
 
