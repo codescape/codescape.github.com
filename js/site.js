@@ -16,7 +16,7 @@ $(document).ready(function() {
     $('a[href*="#"]').on('click', smoothScroll);
     createBackToTopButton();
     reduceTableOfContents();
-    $('article p:has(img)').addClass('image');
+    $('.docs-section p:has(img)').addClass('image');
   }
 
   $(".hamburger").click(function() {
