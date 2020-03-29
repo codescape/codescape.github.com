@@ -6,10 +6,10 @@ permalink: publications/index.html
 
 Auf dieser Seite möchte ich von mir gehaltene [Vorträge](#vortraege) auf Messen und Konferenzen vorstellen und ankündigen sowie eine Liste der von mir verfassten oder mit meiner Beteiligung erstellten [Veröffentlichungen](#veroeffentlichungen) präsentieren.
 
-<h2 id="vortraege">Vorträge</h2>
+<h3 id="vortraege">Vorträge</h3>
 
 {% for talk in site.data.talks %}
-<h3>{{talk.title}}</h3>
+<h4>{{talk.title}}</h4>
 <p>{{talk.description}}</p>
 <ul>
 	{% for conference in talk.conferences %}
@@ -20,10 +20,10 @@ Auf dieser Seite möchte ich von mir gehaltene [Vorträge](#vortraege) auf Messe
 </ul>
 {% endfor %}
 
-<h2 id="veroeffentlichungen">Veröffentlichungen</h2>
+<h3 id="veroeffentlichungen">Veröffentlichungen</h3>
 
 {% for article in site.data.articles %}
-<h3>{{article.title}}</h3>
+<h4>{{article.title}}</h4>
 <p>{{article.description}}</p>
 <ul>
 	{% for magazine in article.magazines %}

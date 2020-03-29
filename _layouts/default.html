@@ -1,82 +1,92 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head>
-  <meta charset="utf-8">
+    <meta charset="utf-8">
 
-  <title>{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
 
-  {% if site.author %}<meta name="author" content="{{ site.author }}">{% endif %}
-  {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html | truncate: 160 }}">
-  {% elsif site.description %}<meta name="description" content="{{ site.description }}">{% endif %}
-  {% if site.keywords %}<meta name="keywords" content="{{ site.keywords }}">{% endif %}
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="alternate" href="/atom.xml" title="{{ site.title }}" type="application/atom+xml">
+    <link rel="alternate" href="/atom.xml" title="{{ site.title }}" type="application/atom+xml">
 
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Signika:300|Indie+Flower"/>
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
-  <link rel="stylesheet" href="/css/style.css" type="text/css"/>
+    <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Raleway&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/skeleton.css">
+    <link rel="stylesheet" href="/css/custom.css">
 
-  <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+    <link rel="icon" type="image/ico" href="/favicon.ico">
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="/js/site.js"></script>
+    <script src="https://kit.fontawesome.com/4b2a30599d.js" crossorigin="anonymous"></script>
 </head>
 <body>
 
-  <div id="container">
-
-    <header id="header" class="clearfix">
-      <h1><a title="Startseite" href="/">stefanglase.de</a></h1>
-      <nav>
-        <ul>
-          <li><a title="Liste aller Artikel" href="/archive">Artikel</a></li>
-          <li><a title="Liste aller Themen" href="/categories">Themen</a></li>
-          <li><a title="Über den Autor" href="/about">Über mich</a></li>
-          <li><a title="Vorträge und Veröffentlichungen" href="/publications">Publikationen</a></li>
-        </ul>
-      </nav>
-    </header>
-    <div class="hidden-header"></div>
-
-    <section id="content">
-      {{ content }}
+<div class="container">
+    <section class="header">
+        <h1 class="title"><a href="/">{{ site.title }}</a></h1>
     </section>
 
-    <section id="additional">
-      <section id="elsewhere">
-        {% include social_media.html %}
-      </section>
+    <div class="navbar-spacer"></div>
+    <nav class="navbar">
+        <a href="#top" class="hamburger">&#9776;</a>
+        <div class="container">
+            <ul class="navbar-list">
+                <li class="navbar-item"><a class="navbar-link" href="/">Startseite</a></li>
+                <li class="navbar-item">
+                    <a class="navbar-link" href="#" data-popover="#userGuideNavPopover">Artikel</a>
+                    <div id="userGuideNavPopover" class="popover">
+                        <ul class="popover-list">
+                            <li class="popover-item">
+                                <a class="popover-link" href="/articles/by-date">Nach Datum</a>
+                            </li>
+                            <li class="popover-item">
+                                <a class="popover-link" href="/articles/by-tag">Nach Schlagwort</a>
+                            </li>
+                            <li class="popover-item">
+                                <a class="popover-link" href="/articles/by-category">Nach Kategorie</a>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="navbar-item"><a class="navbar-link" href="/about">Über mich</a></li>
+                <li class="navbar-item"><a class="navbar-link" href="/publications">Publikationen</a></li>
+            </ul>
+        </div>
+    </nav>
 
-      <footer id="footer">
-        <ul>
-          <li>&copy; <script>document.write(new Date().getFullYear());</script> Stefan Glase</li>
-          <li>Generiert mit <a title="Jekyll" href="https://github.com/mojombo/jekyll">Jekyll</a></li>
-          <li>Gehostet auf <a title="Sourcecode dieses Blogs" href="https://github.com/codescape/codescape.github.com">GitHub</a></li>
-        </ul>
-        <ul>
-          <li><a title="Impressum und Kontakt" href="/imprint">Impressum</a></li>
-          <li><a title="Atom RSS Feed" href="/atom.xml">Atom Feed</a></li>
-        </ul>
-      </footer>
-    </section>
+    <div class="docs-section" id="intro">
+      {% if page.title %}
+        <h2 class="docs-header">{{ page.title }}</h2>
+      {% endif %}
 
-  </div>
+        {{ content }}
 
-  <!-- jquery -->
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="/js/libs/jquery-1.9.0.min.js"><\/script>')</script>
+    </div>
 
-  <!-- leaflet -->
-  <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
-  <script src="/js/libs/leaflet-gpx.js"></script>
+<div class="footer">
 
-  <!-- custom scripts -->
-  <script src="/js/plugins.js"></script>
-  <script src="/js/script.js"></script>
+      <ul class="social-media">
+      {% for profile in site.data.profiles %}
+        <li><a href="{{profile.url}}"><strong>{{profile.service}}</strong>/{{profile.username}}</a></li>
+      {% endfor %}
+      </ul>
 
-  <!-- google analytics -->
-  {% include google_analytics.html %}
+      <p class="copyright">
+        &copy; <script>document.write(new Date().getFullYear())</script> <a title="Impressum und Kontakt" href="/imprint">Stefan Glase</a>
+      </p>
+
+</div>
+
+</div>
 
   <!-- disqus comment count -->
   {% include disqus_commentcount.html %}
+
+  <!-- google analytics -->
+  {% include google_analytics.html %}
 
 </body>
 </html>

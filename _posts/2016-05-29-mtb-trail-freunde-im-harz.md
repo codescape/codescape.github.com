@@ -7,7 +7,7 @@ tags: harz bikepark mountainbike video
 
 Fast schon zum Pflichtprogramm gehört einmal im Jahr unser Ausflug in den Harz mit dem Ziel ein paar der vielseitigen und abwechslungsreichen Bikeparks anzusteuern. So ging es auch dieses Jahr für sechs der [MTB Trail Freunde](https://www.facebook.com/mtbtrailfreunde/) an einem verlängerten Wochenende mit drei vollgeladenen Autos in Richtung Brocken.
 
-<div class="elastic-iframe"><iframe src="//player.vimeo.com/video/168564198?portrait=0&amp;color=f2b33d" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<div class="vimeo"><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/168564198" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></div>
 
 Auf dem Programm standen dieses Jahr für uns der [Bikepark Braunlage](http://www.bikepark-braunlage.de/), der [Bikepark Hahnenklee](http://www.erlebnisbocksberg.de/sommerfreuden/bikepark/) sowie der [MSB-X-Trail in St. Andreasberg](http://matthias-schmidt-berg.de/index.php/main-xtrail).
 

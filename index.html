@@ -7,17 +7,15 @@ layout: default
     {% include article.html %}
 {% endfor %}
 
-<nav id="pagination">
-  <ul class="pagination clearfix">
-    {% if paginator.next_page %}
-      <li class="prev"><i class="fas fa-angle-double-left"></i> <a href="/pages/{{ paginator.next_page }}" title="Ältere Beiträge"> Ältere Beiträge</a></li>
+<div class="pagination">
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+    <a class="button" href="/" title="Neuere Beiträge"><i class="fas fa-angle-double-left"></i> Neuere Beiträge </a>
+    {% else %}
+    <a class="button" href="/pages/{{ paginator.previous_page }}" title="Neuere Beiträge"><i class="fas fa-angle-double-left"></i> Neuere Beiträge </a>
     {% endif %}
-    {% if paginator.previous_page %}
-      {% if paginator.previous_page == 1 %}
-        <li class="next"><a href="/" title="Neuere Beiträge">Neuere Beiträge</a> <i class="fas fa-angle-double-right"></i></li>
-      {% else %}
-        <li class="next"><a href="/pages/{{ paginator.previous_page }}" title="Neuere Beiträge">Neuere Beiträge</a> <i class="fas fa-angle-double-right"></i></li>
-      {% endif %}
-    {% endif %}
-  </ul>
-</nav>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a class="button" href="/pages/{{ paginator.next_page }}" title="Ältere Beiträge">Ältere Beiträge <i class="fas fa-angle-double-right"></i></a>
+  {% endif %}
+</div>
