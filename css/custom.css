@@ -327,7 +327,7 @@ figure code { overflow-x: scroll; }
     .navbar-link {
         text-transform: uppercase;
         font-size: 11px;
-        font-weight: 600;
+        font-weight: 400;
         letter-spacing: .1rem;
         text-decoration: none;
         line-height: 5.5rem;
