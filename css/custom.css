@@ -301,6 +301,31 @@ code {
 .copyright a:hover {
   color: #009bcb; }
 
+/************************************ 404 ************************************/
+
+#goog-fixurl b {
+  font-weight: 400; }
+
+#goog-fixurl ul {
+  margin-left: 0;
+  list-style: none; }
+
+#goog-fixurl form {
+  text-align: center; }
+
+#goog-fixurl input {
+  margin: 1.5rem 1rem; }
+
+#goog-fixurl input[type="submit"] {
+    color: #FFF;
+    background-color: #009bcb;
+    border-color: #009bcb; }
+
+#goog-fixurl input[type="submit"]:hover {
+    color: #FFF;
+    background-color: #222;
+    border-color: #222; }
+
 /***************************** Larger than phone *****************************/
 
 @media (min-width: 550px) {
