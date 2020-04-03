@@ -10,7 +10,7 @@
         <div class="five columns">
           <i class="fas fa-box"></i> Kategorie:
           {% for category in post.categories %}
-            <a href="/articles/by-category#{{ category }}" title="Artikel zum Thema {{ category | capitalize }}" class="tag">{{ category | capitalize }}</a>{% unless category == post.categories.last %}, {% endunless %}
+            <a href="/articles/by-category/#{{ category }}" title="Artikel zum Thema {{ category | capitalize }}" class="tag">{{ category | capitalize }}</a>{% unless category == post.categories.last %}, {% endunless %}
           {% endfor %}
         </div>
       </div>
@@ -18,12 +18,12 @@
         <div class="seven columns">
           <i class="fas fa-tags"></i> Schlagworte:
           {% for tag in post.tags %}
-            <a href="/tags/#{{ tag }}" title="Artikel zum Schlagwort {{ tag | capitalize }}" class="tag">{{ tag | capitalize }}</a>{% unless tag == post.tags.last %}, {% endunless %}
+            <a href="/articles/by-tag/#{{ tag }}" title="Artikel zum Schlagwort {{ tag | capitalize }}" class="tag">{{ tag | capitalize }}</a>{% unless tag == post.tags.last %}, {% endunless %}
           {% endfor %}
         </div>
         <div class="five columns">
           <i class="fas fa-comments"></i> Kommentare:
-          <a href="{{ post.url }}#comments" data-disqus-identifier="{{ site.url }}{{ post.url }}">Kommentare</a>
+          <a href="{% unless is_single %}{{ post.url }}{% endunless %}#comments" data-disqus-identifier="{{ site.url }}{{ post.url }}">Kommentare</a>
         </div>
       </div>
     </div>

@@ -13,7 +13,7 @@ $(document).ready(function() {
     $window.on('resize', resize);
     $popoverLink.on('click', openPopover);
     $document.on('click', closePopover);
-    $('a[href*="#"]').on('click', smoothScroll);
+    $('a[href^="#"]').on('click', smoothScroll);
     createBackToTopButton();
     reduceTableOfContents();
     $('.docs-section p:has(img)').addClass('image');
@@ -74,7 +74,7 @@ $(document).ready(function() {
     e.preventDefault();
     $(document).off("scroll");
     var target = this.hash;
-    var offset = $(window).width() > 750 ? -50 : 20;
+    var offset = $(window).width() > 750 ? -80 : -20;
     $('html, body').animate({
       scrollTop: $(target).offset().top + offset
     },'slow');

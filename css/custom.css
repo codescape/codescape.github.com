@@ -76,11 +76,17 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   margin-bottom: 2.5rem;
 }
 
-.docs-section h3, .docs-section h4, .docs-section h5, .docs-section h6 {
+.docs-section h3,
+.docs-section h4,
+.docs-section h5,
+.docs-section h6 {
     margin: 4rem 0 1rem 0;
     border-bottom: 1px solid #eee; }
 
-.docs-section h3:before, .docs-section h4:before, .docs-section h5:before, .docs-section h6:before {
+.docs-section h3:before,
+.docs-section h4:before,
+.docs-section h5:before,
+.docs-section h6:before {
     color: #009bcb;
     margin-right: 0.5em;
     content: '»'; }
@@ -103,6 +109,9 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 
 a {
     color: #009bcb; }
+
+a:hover {
+    color: #222; }
 
 img {
     max-width: 100%; }
@@ -132,7 +141,7 @@ img {
 
 .call-to-action a:hover, .back-to-top:hover {
     color: #fff;
-    background-color: #0FA0CE; }
+    background-color: #009bcb; }
 
 #markdown-toc.reduce-toc li:nth-child(1n+11) {
   display: none; }
@@ -263,10 +272,6 @@ figure code { overflow-x: scroll; }
 .highlight .ss {
   color: #859900;
 }
-
-
-
-
 
 /* Larger than phone */
 
