@@ -2,6 +2,13 @@
 layout: default
 ---
 
+{% unless paginator.previous_page %}
+<div class="hero">
+  <h2>Schön, dass du da bist...</h2>
+  <p>...und falls du dich fragst, wo du hier gelandet bist, möchte ich dir diese Frage als allererstes beantworten. Dies ist der private Blog von <a href="{{ "/about" | prepend: site.baseurl }}">Stefan Glase</a> und er widmet sich in erster Linie dem <a href="{{ "/articles/by-category/#mountainbiking" | prepend: site.baseurl }}">Mountainbiking</a> als meiner liebsten Beschäftigung draußen in der Natur und meiner liebsten Indoor-Beschäftigung: der <a href="{{ "/articles/by-category/#softwareentwicklung" | prepend: site.baseurl }}">Softwareentwicklung</a>.</p>
+</div>
+{% endunless %}
+
 {% for post in paginator.posts %}
 {% assign content = post.content %}
     {% include article.html %}

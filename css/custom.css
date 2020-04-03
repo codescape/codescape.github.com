@@ -96,6 +96,14 @@ img {
     padding: 4rem 0 0;
     margin-bottom: 0; }
 
+/* hero */
+
+.hero {
+    border: 1px solid #009bcb;
+    border-radius: 4px;
+    padding: 1rem 1.5rem 0;
+    margin: 0 0 2.5rem; }
+
 /* headings */
 
 .docs-section h3,
@@ -293,7 +301,7 @@ code {
 .copyright a:hover {
   color: #009bcb; }
 
-/* Larger than phone */
+/***************************** Larger than phone *****************************/
 
 @media (min-width: 550px) {
 
@@ -307,7 +315,7 @@ code {
 
 }
 
-/* Larger than tablet */
+/***************************** Larger than tablet ****************************/
 
 @media (min-width: 750px) {
 
