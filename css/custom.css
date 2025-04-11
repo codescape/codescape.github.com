@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: lowercase; }
 
 h1 {
-    font-size: 8rem; }
+    font-size: 6rem; }
 
 h2 {
     font-size: 4.4rem; }
@@ -347,6 +347,9 @@ code {
         margin-top: 6rem;
         margin-bottom: 4rem; }
 
+    h1 {
+        font-size: 8rem; }
+  
     .docs-section {
         padding-top: 4rem;
         margin-bottom: 4rem; }
