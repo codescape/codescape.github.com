@@ -496,6 +496,6 @@ code {
 
     .popover-link:hover,
     .popover-item:first-child .popover-link:hover:after {
-        border-bottom-color: #009bcb; }
+        border-bottom-color: var(--pink); }
 
 }
