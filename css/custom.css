@@ -24,6 +24,9 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: .05em;
   text-transform: lowercase; }
 
+h1 {
+    font-size: 8rem; }
+
 h2 {
     font-size: 4.4rem; }
 
