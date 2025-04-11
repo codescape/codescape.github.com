@@ -3,7 +3,8 @@
 /* variables */
 :root {
   --pink: #E75480;
-  --slate: #edece8; }
+  --slate: #edece8;
+  --grey: rgba(34,34,34,0.5); }
 
 /* container */
 
@@ -53,7 +54,7 @@ a {
     color: var(--pink); }
 
 a:hover {
-    color: var(--slate); }
+    color: var(--grey); }
 
 /* images */
 
@@ -75,7 +76,7 @@ img {
   color: #222; }
 
 .title a:hover {
-  color: var(--slate); }
+  color: var(--grey); }
 
 /* navigation */
 
@@ -280,7 +281,7 @@ code {
 
 .back-to-top:hover {
     color: #fff;
-    background-color: var(--slate); }
+    background-color: var(--grey); }
 
 /*********************************** footer **********************************/
 
@@ -308,7 +309,7 @@ code {
   color: inherit; }
 
 .copyright a:hover {
-  color: var(--slate); }
+  color: var(--grey); }
 
 /************************************ 404 ************************************/
 
