@@ -12,7 +12,7 @@
 
 - service: komoot
   username: stefanglase
-  url: https://www.komoot.de/user/138253281524
+  url: https://www.komoot.com/user/426787699324
 
 - service: facebook
   username: stefan.glase
