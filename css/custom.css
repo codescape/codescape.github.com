@@ -1,5 +1,10 @@
 /*********************************** global **********************************/
 
+/* variables */
+:root {
+  --pink: #E75480;
+  --slate: #edece8; }
+
 /* container */
 
 .container {
@@ -14,10 +19,10 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: lowercase; }
 
 h2 {
-    font-size: 3.4rem; }
+    font-size: 4.4rem; }
 
 h3 {
-    font-size: 2.8rem; }
+    font-size: 3.8rem; }
 
 h4 {
     font-size: 2.2rem; }
@@ -40,10 +45,10 @@ blockquote {
 /* hyperlinks */
 
 a {
-    color: #009bcb; }
+    color: var(--pink); }
 
 a:hover {
-    color: #222; }
+    color: var(--slate); }
 
 /* images */
 
@@ -65,7 +70,7 @@ img {
   color: #222; }
 
 .title a:hover {
-  color: #009bcb; }
+  color: var(--slate); }
 
 /* navigation */
 
@@ -99,8 +104,8 @@ img {
 /* hero */
 
 .hero {
-    border: 1px solid #009bcb;
-    border-radius: 4px;
+    border: 1px dashed var(--pink);
+    border-radius: 8px;
     padding: 1rem 1.5rem 0;
     margin: 0 0 2.5rem; }
 
@@ -110,28 +115,27 @@ img {
 .docs-section h4,
 .docs-section h5,
 .docs-section h6 {
-    margin: 2.5rem 0;
-    border-bottom: 1px solid #eee; }
+    margin: 2.5rem 0; }
 
 .docs-section h3:before,
 .docs-section h4:before,
 .docs-section h5:before,
 .docs-section h6:before {
-    color: #009bcb;
+    color: var(--pink);
     margin-right: 0.5em;
     content: '»'; }
 
 /* blog post */
 
 .postdetails {
-  border: 1px solid #e1e1e1;
-  border-radius: 4px;
+  border: 1px dashed var(--pink);
+  border-radius: 8px;
   padding: 1rem 1.5rem;
   margin-bottom: 2rem;
   font-size: 0.875em; }
 
 .postdetails .fas {
-  color: #009bcb;
+  color: var(--pink);
   width: 1.2em; }
 
 /* images */
@@ -259,7 +263,7 @@ code {
 /* back to top */
 
 .back-to-top {
-    background-color: #009bcb;
+    background-color: var(--pink);
     color: #fff;
     font-weight: bold;
     text-decoration: none;
@@ -271,7 +275,7 @@ code {
 
 .back-to-top:hover {
     color: #fff;
-    background-color: #222; }
+    background-color: var(--slate); }
 
 /*********************************** footer **********************************/
 
@@ -280,7 +284,7 @@ code {
 .footer {
   text-align: center;
   font-size: 0.875em;
-  border-top: 1px solid #eee;
+  border-top: 1px dashed var(--pink);
   padding-top: 40px; }
 
 /* social media */
@@ -299,7 +303,7 @@ code {
   color: inherit; }
 
 .copyright a:hover {
-  color: #009bcb; }
+  color: var(--slate); }
 
 /************************************ 404 ************************************/
 
@@ -360,10 +364,9 @@ code {
         display: block;
         width: 100%;
         height: 5.5rem;
-        background: #fff;
         z-index: 99;
-        border-top: 1px solid #eee;
-        border-bottom: 1px solid #eee; }
+        border-top: 1px dashed var(--pink);
+        border-bottom: 1px dashed var(--pink); }
 
     .navbar-spacer {
         display: none; }
@@ -479,7 +482,7 @@ code {
 
     .popover-link:hover {
         color: #fff;
-        background: #009bcb; }
+        background: var(--pink); }
 
     .popover-link:hover,
     .popover-item:first-child .popover-link:hover:after {
