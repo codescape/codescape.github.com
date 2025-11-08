@@ -2,9 +2,10 @@
 
 /* variables */
 :root {
-  --pink: #E75480;
-  --slate: #edece8;
-  --grey: rgba(34,34,34,0.5); }
+  --contrast: rgb(181, 104, 76);
+  --slate: rgb(233, 230, 225);
+  --grey: rgba(34, 34, 34, 0.5);
+  --text: rgb(33, 29, 30); }
 
 /* container */
 
@@ -14,7 +15,8 @@
 /* body */
 
 body {
-  background: var(--slate); }
+  background: var(--slate);
+  color: var(--text); }
 
 /* headings */
 
@@ -54,7 +56,7 @@ blockquote {
 /* hyperlinks */
 
 a {
-    color: var(--pink); }
+    color: var(--contrast); }
 
 a:hover {
     color: var(--grey); }
@@ -76,7 +78,7 @@ img {
 
 .title a {
   text-decoration: none;
-  color: #222; }
+  color: var(--text); }
 
 .title a:hover {
   color: var(--grey); }
@@ -113,7 +115,7 @@ img {
 /* hero */
 
 .hero {
-    border: 1px dashed var(--pink);
+    border: 1px dashed var(--contrast);
     border-radius: 8px;
     padding: 1rem 1.5rem 0;
     margin: 0 0 2.5rem; }
@@ -130,21 +132,21 @@ img {
 .docs-section h4:before,
 .docs-section h5:before,
 .docs-section h6:before {
-    color: var(--pink);
+    color: var(--contrast);
     margin-right: 0.5em;
     content: '»'; }
 
 /* blog post */
 
 .postdetails {
-  border: 1px dashed var(--pink);
+  border: 1px dashed var(--contrast);
   border-radius: 8px;
   padding: 1rem 1.5rem;
   margin-bottom: 2rem;
   font-size: 0.875em; }
 
 .postdetails .fas {
-  color: var(--pink);
+  color: var(--contrast);
   width: 1.2em; }
 
 /* images */
@@ -272,7 +274,7 @@ code {
 /* back to top */
 
 .back-to-top {
-    background-color: var(--pink);
+    background-color: var(--contrast);
     color: #fff;
     font-weight: bold;
     text-decoration: none;
@@ -293,7 +295,7 @@ code {
 .footer {
   text-align: center;
   font-size: 0.875em;
-  border-top: 1px dashed var(--pink);
+  border-top: 1px dashed var(--contrast);
   padding-top: 40px; }
 
 /* social media */
@@ -378,8 +380,8 @@ code {
         height: 5.5rem;
         z-index: 99;
         background: var(--slate);
-        border-top: 1px dashed var(--pink);
-        border-bottom: 1px dashed var(--pink); }
+        border-top: 1px dashed var(--contrast);
+        border-bottom: 1px dashed var(--contrast); }
 
     .navbar-spacer {
         display: none; }
@@ -495,10 +497,10 @@ code {
 
     .popover-link:hover {
         color: #fff;
-        background: var(--pink); }
+        background: var(--contrast); }
 
     .popover-link:hover,
     .popover-item:first-child .popover-link:hover:after {
-        border-bottom-color: var(--pink); }
+        border-bottom-color: var(--contrast); }
 
 }
