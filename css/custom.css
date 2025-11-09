@@ -2,9 +2,9 @@
 
 /* variables */
 :root {
-  --contrast: rgb(181, 104, 76);
+  --contrast: rgb(44, 110, 73);
   --slate: rgb(233, 230, 225);
-  --grey: rgba(34, 34, 34, 0.5);
+  --hover: rgb(243, 167, 18);
   --text: rgb(33, 29, 30); }
 
 /* container */
@@ -59,7 +59,7 @@ a {
     color: var(--contrast); }
 
 a:hover {
-    color: var(--grey); }
+    color: var(--hover); }
 
 /* images */
 
@@ -81,7 +81,7 @@ img {
   color: var(--text); }
 
 .title a:hover {
-  color: var(--grey); }
+  color: var(--hover); }
 
 /* navigation */
 
@@ -286,7 +286,7 @@ code {
 
 .back-to-top:hover {
     color: #fff;
-    background-color: var(--grey); }
+    background-color: var(--hover); }
 
 /*********************************** footer **********************************/
 
@@ -314,7 +314,7 @@ code {
   color: inherit; }
 
 .copyright a:hover {
-  color: var(--grey); }
+  color: var(--hover); }
 
 /************************************ 404 ************************************/
 
