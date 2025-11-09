@@ -17,6 +17,7 @@
 
 body {
   background: var(--slate);
+  font-weight: 300;
   color: var(--text); }
 
 /* headings */
