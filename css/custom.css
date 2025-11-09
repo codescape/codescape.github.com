@@ -2,7 +2,7 @@
 
 /* variables */
 :root {
-  --contrast: rgb(44, 110, 73));
+  --contrast: rgb(44, 110, 73);
   --contrast-bg : rgba(44, 110, 73, 0.25);
   --slate: rgb(233, 230, 225);
   --hover: rgb(243, 167, 18);
@@ -477,7 +477,7 @@ code {
 
     .popover-link {
         position: relative;
-        color: #222;
+        color: var(--text);
         display: block;
         padding: 8px 20px;
         border-bottom: 1px solid #eee;
@@ -496,8 +496,8 @@ code {
         border-bottom-width: 0; }
 
     .popover-link:hover {
-        color: #fff;
-        background: var(--contrast); }
+        color: var(--text);
+        background: var(--hover); }
 
     .popover-link:hover,
     .popover-item:first-child .popover-link:hover:after {
