@@ -436,9 +436,10 @@ code {
 
     .popover {
         display: none;
-        position: relative;
+        position: absolute;
         top: 0;
-        left: 0;
+        left: 5%;
+        width: 90%;
         background: #fff;
         border: 1px solid #eee;
         border-radius: 4px;
