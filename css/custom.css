@@ -461,7 +461,7 @@ code {
 
     .popover-item:first-child .popover-link:after {
         border-color: rgba(255, 255, 255, 0);
-        border-bottom-color: #fff;
+        border-bottom-color: var(--slate);
         border-width: 10px;
         margin-left: -10px; }
 
