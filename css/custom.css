@@ -13,6 +13,10 @@
 .container {
   max-width: 1000px; }
 
+/* html */
+html {
+  scrollbar-color: var(--contrast) var(--slate); }
+
 /* body */
 
 body {
