@@ -5,6 +5,8 @@ category: softwareentwicklung
 tags: craftsmanship software coding
 ---
 
+Heute möchte ich über ein selbst ausgedachtes Coding Kata berichten, welches sich mit einer aus der Barrierefreiheit bekannten Thematik befasst. Aber was ist eigentlich ein Coding Kata?
+
 ### Was sind eigentlich Coding Katas?
 
 Katas mag der Eine oder Andere aus fernöstlichen Kampfsportarten wie beispielsweise Karate kennen. Eine Kata stellt dabei einen fest definierten Bewegungsablauf im Kampf gegen imaginäre Gegner dar. Dieser Ablauf wird durch Wiederholungen so oft eingeübt, bis der Ablauf in Fleisch und Blut übergeht und somit auch in realen Kämpfen abgerufen werden kann.
