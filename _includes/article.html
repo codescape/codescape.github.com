@@ -29,8 +29,12 @@
     </div>
   </header>
 
-  {{ content }}
-
+  {% if is_single %}
+    {{ content }}
+  {% else %}
+    {{ post.excerpt }} <a href="{{ post.url }}">...weiterlesen</a>
+  {% endif %}
+  
   {% if is_single and site.disqus_username %}
   <section>
     <h3>Kommentare</h3>
