@@ -32,7 +32,7 @@
   {% if is_single %}
     {{ content }}
   {% else %}
-    <p>{{ post.excerpt | strip_html }}.. <a href="{{ post.url }}">mehr »</a></p>
+    <p>{{ post.excerpt | strip_html | strip | append: ".." }} <a href="{{ post.url }}">mehr »</a></p>
   {% endif %}
   
   {% if is_single and site.disqus_username %}
