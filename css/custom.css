@@ -63,7 +63,8 @@ blockquote {
 /* hyperlinks */
 
 a {
-    color: var(--contrast); }
+    text-decoration: none;
+    color: var(--text); }
 
 a:hover {
     color: var(--hover); }
@@ -118,6 +119,11 @@ img {
     padding: 4rem 0 0;
     margin-bottom: 0; }
 
+/* links */
+
+.docs-section a {
+    border-bottom: 1px dashed var(--hover); }
+
 /* hero */
 
 .hero {
@@ -135,6 +141,7 @@ img {
 .docs-section h4,
 .docs-section h5,
 .docs-section h6 {
+    border-bottom: none;
     margin: 2.5rem 0; }
 
 .docs-section h3:before,
@@ -282,7 +289,10 @@ code {
 
 .pagination .button {
   border: 1px dashed var(--contrast);
-}
+  color: var(--text); }
+
+.pagination .button:hover {
+  color: var(--hover); }
 
 /* back to top */
 
@@ -318,6 +328,9 @@ code {
 .social-media li {
   display: inline-block;
   margin: 0 10px; }
+
+.social-media a {
+    border-bottom: 1px dashed var(--hover); }
 
 /* copy right */
 
