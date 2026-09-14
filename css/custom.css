@@ -151,6 +151,7 @@ img {
     margin-right: 0.5em;
     content: '»'; }
 
+.docs-section h2 a,
 .docs-section h3 a, 
 .docs-section h4 a, 
 .docs-section h5 a, 
