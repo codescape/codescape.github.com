@@ -141,7 +141,6 @@ img {
 .docs-section h4,
 .docs-section h5,
 .docs-section h6 {
-    border-bottom: none;
     margin: 2.5rem 0; }
 
 .docs-section h3:before,
@@ -151,6 +150,12 @@ img {
     color: var(--contrast);
     margin-right: 0.5em;
     content: '»'; }
+
+.docs-section h3 a, 
+.docs-section h4 a, 
+.docs-section h5 a, 
+.docs-section h6 a {
+    border-bottom: none; }
 
 /* blog post */
 
