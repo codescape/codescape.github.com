@@ -29,3 +29,7 @@
 - service: instagram
   username: stefanglase
   url: http://instagram.com/stefanglase
+
+- service: tweet
+  username: codescape
+  url: https://app.tweet.app/user/codescape
