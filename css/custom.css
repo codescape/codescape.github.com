@@ -191,7 +191,8 @@ p.image {
   margin: 0; }
 
 code {
-  background-color: #f9f9f9; }
+  background-color: var(--slate);
+border: 1px solid var(--contrast-bg); }
 
 .highlight code {
   overflow-x: auto; }
