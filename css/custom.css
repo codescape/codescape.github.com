@@ -124,17 +124,6 @@ img {
 .docs-section a {
     border-bottom: 1px dashed var(--hover); }
 
-/* hero */
-
-.hero {
-    background: var(--contrast-bg);
-    border-radius: 8px;
-    padding: 1rem 1.5rem;
-    margin: 0 0 2.5rem; }
-
-.hero p:last-child {
-    margin-bottom: 0; }
-
 /* headings */
 
 .docs-section h3,
